@@ -5,4 +5,7 @@ Creation-Date: 2019-05-24T22:03:28-04:00
 ====== Nightstone ======
 Created Friday 24 May 2019
 
-__You've been traveling along the High Road for days. Early in the morning sun, you spot a wooden signpost next to a trail that heads north into the hills. Nailed to the post are three arrow-shaped signs. The two marked "Waterdeep" and "Daggerford" follow the High Road but point in opposite directions. The third, marked "Nightstone," beconds you to follow the trail. If your information is accurate, Nightstone should be roughly ten miles up the trail.__
+Nightstone is a fortified settlement located a few miles south of the [[Ardeep Forest]] , in the untamed hills between [[Waterdeep]] and [[Daggerford]] .
+A lonely wooden signpost, standing where the trail to Nightstone meets the [[High Road]] , points the way to the settlement.
+
+Run [[Dungeon::Nightstone]] when the players first arive.

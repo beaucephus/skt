@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-25T09:37:31-04:00
+
+====== Goblin Ambush ======
+Created Saturday 25 May 2019
+
+''Everybody hears bird calls.''
+''DC10 survival/nature check to recognize the calls are out-of-season.''
+
+4 goblins ambush the party on the way to [[::Nightstone|Nightstone]]
+2 use shortbows from the forest, full cover except when they shoot,
+2 rush into melee with scimitars.
+
+AC 15
+HP 7
++6 to hit
++2 damage
+shortbow
+scimitar
+
