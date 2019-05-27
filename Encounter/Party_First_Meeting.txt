@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-25T12:30:07-04:00
+
+====== Party First Meeting ======
+Created Saturday 25 May 2019
+
+''You've been traveling on the road for days.  ''
+''Just after mid-day, you spot a wooden signpost next to a crossroads where the High Road meets with other winding trails.''
+''Nailed to the post are three arrow-shaped signs. The two marked "Waterdeep" and "Daggerford" point towards opposite ends of the High Road.''
+''The third, marked "Nightstone," beckons you to follow the trail leading north-east.''
+''As your attention tracks down from the sign, you notice several other travelers have reached the intersection from other roads.''
+
+Have the players describe their character's.
+Let them meet and banter for a few moments before running the [[Encounter:Goblin Ambush]]

@@ -5,12 +5,13 @@ Creation-Date: 2019-05-25T09:37:31-04:00
 ====== Goblin Ambush ======
 Created Saturday 25 May 2019
 
-''Everybody hears bird calls.''
-''DC10 survival/nature check to recognize the calls are out-of-season.''
+Everybody hears bird calls. 2 sets before the goblins attack.
+DC10 survival/nature check to recognize the calls are out-of-season for this area. (avoids surprise)
 
-4 goblins ambush the party on the way to [[::Nightstone|Nightstone]]
-2 use shortbows from the forest, full cover except when they shoot,
+4 [[:Forked Ear Goblins]] ambush the party on the way to [[::Nightstone|Nightstone]]
+2 use shortbows from 40ft in the forest, full cover except when they shoot,
 2 rush into melee with scimitars.
+If the melee goblins are killed, the archers flee.
 
 AC 15
 HP 7

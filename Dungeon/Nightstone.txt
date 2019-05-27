@@ -4,6 +4,28 @@ Creation-Date: 2019-05-25T09:06:25-04:00
 
 [[Nightstone]]
 Created Saturday 25 May 2019
-{{../Nightstone_Map.jpg}}
+{{../Nightstone_Map.jpg}}  
+
+Nightstone is a motte-and-bailey fortification built on the [[:Ardeep River]]
+
+''After following the trail for ten miles, you hear the ringing of a bell. The sound grows louder as Nightstone comes into view. A river flows around the settlement forming a moat. The village itself is contained within a wooden palisade, beyond which you see a windmill, a tall steeple, and the high-pitched rooftops of several other buildings. Apart from the ringing of the bell, you detect no other activity in the village. The trail ends before a lowered draw-bridge that spans the moat on the western side of the village. Beyong the drawbridge, two stone watchtowers flank an open gap in the palisade.''
+''South of the villae and also surrounded by the river moat is a cone-shaped, flat-topped hill on which stands a stone keep enclosed by a wooden wall. The keep, which overlooks the village, has partially collapsed. A wooden bridge that once connected the keep to the village has also partially collapsed.''
+
+Paste the nightstone side view in discord.
+
+===== General Features =====
+**Bailey**
+15-foot high wooden palisade of sharpened logs and pitch.  Can't be climbed without tools or magic.
+**Moat**
+15 feet deep
+30 feet wide
+Schools of trout
+**Motte**
+DC 20 athletics to climb the motte's slope w/o tools or magic
+Keep and palisade can't be climbed w/o tools or magic
+**Rocks**
+Giant boulders, 3ft in diameter, 500lbs each punching holes through rooftops, embedded several feet in the earth, lying among shattered wreckage of stone and wood constructions
+Evidence of dead villagers in the rubble
+
 
 

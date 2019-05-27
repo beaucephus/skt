@@ -17,6 +17,7 @@ Created Saturday 25 May 2019
   Anything published by Wizards of the Coast is fair game (except racial flying). If you wanna play something homebrew, just let me know so I can check the balance and we'll make it work.
   Difficulty (combat, puzzles, plot)
   PC death
+  Evil PCs
   Spell components
   I encourage players to come up with their own vocal components for spells and say them when casting!
   Percentage combat/dungeoneering/social
@@ -24,7 +25,14 @@ Created Saturday 25 May 2019
   I don't usually do crit fumbles for attacks, but will try to remember to use them for this group.
   Crit fail/success on skill checks doesn't mean you'll fail the check. 1 means something negative happens, 20 means something positive happens regardless of the check.
   Flanking
+  Questions about game mechanics or play style?
 **Create characters**
   Add to [[Party]]
-[[Party meeting]]
+You've received a leter from your friend [[Morak Ur'gray]] in [[Nightstone]] .
+[[Morak's Letter]]
+[[Encounter:Party First Meeting]]
 [[Encounter::Goblin Ambush]]
+**Level 2!!!**
+
+===== Session 1 TBD =====
+[[Dungeon:Nightstone]]
