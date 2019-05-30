@@ -25,6 +25,128 @@ Keep and palisade can't be climbed w/o tools or magic
 **Rocks**
 Giant boulders, 3ft in diameter, 500lbs each punching holes through rooftops, embedded several feet in the earth, lying among shattered wreckage of stone and wood constructions
 Evidence of dead villagers in the rubble
+**Goblins**
+Goblins attempt to flee to the temple (area 5) if injured
+
+===== 1. Drawbridge =====
+The drawbridge is lowered.
+20ft long, 10ft wide made of sturdy oak planks.
+Iron chains bolted to the drawbridge connect to winch mechanisms in the nearby watchtowers
+
+**Footprints**
+PP15 to notice several sets of humanoid tracks in the grass and dirt.
+They lead north.
+Smaller humanoid tracks come from the north and lead into the village along with 2 sets of unusually large 4-legged paw tracks headed in the same direction.
+
+**Developments**
+Once inside, read 2 and 3.
+
+===== 2. Watchtowers =====
+''7 stone watchtowers stand equidistant from each other along the village perimeter.''
+
+Each tower is 20ft tall
+Unlocked wooden door to the inside
+
+**Inside**
+Wooden ladder that leads to unlocked trap doors in the roof.
+
+==== 2A. West Towers ====
+Two watchtowers flank the entrance to the village, forming a gatehouse of sorts.
+
+**Inside**
+Winches to operate the drawbridge
+They must be operated together and raise 30 degrees per round.
+
+==== 2B. Northwest Tower ====
+Chicken Coop with eggs
+
+==== 2C. Northeast Tower ====
+Two pigs
+
+==== 2D. East Tower ====
+The door is ajar, and a greedy [[:Forked Ear Goblins]] named Gwerk lurks within.
+She immediately understands her situation and uses the locket to bargain for her life.  She runs to the temple
+
+**Loot**
+Gwerk has [[Taela Summerhawk's Locket]]
+
+==== 2E. Southeast Tower ====
+The door is ajar.
+Unless they are drawn by nearby combat, 2 goblins, Larv and Snokk are in the tower searching for treasure.
+
+**Loot**
+Larv carries a sack filled with stolen wooden utensils and 3 vials of perfume (5gp each)
+Snok's bag contains a stuffed blood hawk and a battered copper flagon (1gp)
+
+==== 2F. Southwest Tower ====
+Rock fell through the roof and collapsed half the tower with it.
+
+===== 3. Square =====
+''A central lane opens up to the village square which is a large, open, muddy area marked by a covered well, empty carts, and a few tethering posts. Centered in the middle of the square is a 5ft cuboid hole. From the square you clearly see 2 marked buildings, The Squaking Squirrel, and the Lionshield Coster, among a host of other unmarked buildings. Behind one of the unmarked buildings, you see a grave-yard, around others, farms. To the south of the village, you see a tall windmill and the broken bridge spanning the moat up to the keep. Scattered all about the village are huge 500lb boulders and the wreckage wrought by their impacts. The impact craters and rubble make it seem as if the boulders had come from directly overhead.''
+
+2 worgs slaughtered a dog and are feasting on its remains in the northeast corner of the village square.
+They attack any character that enters the square, they flee out the west gate and to the north.
+If the bell has been silenced, and combat errupts here, the goblins in 4c and 9 investigate. They stay on the fringes of battle and attack with arrows.
+
+===== 4. Residences =====
+8 in total, 2 small rooms (kitchen,bedroom)
+
+==== 4A. Delfryndel Residence ====
+Looted by goblins
+
+==== 4B. Osstra Farm ====
+Boulder crashed through the kitchen and 2 out in the wheat field beside it. Looted by goblins.
+
+==== 4C. Southwell Farm ====
+Boulder crushed female in plain clothes ( [[Semile Southwell]] )
+The back door is ajar and opens to a muddy fenced-in yard containing wooden feeding troughs and a chicken coop.
+Unless drawn elsewhere, 2 goblins named Pojo and Tot are chasing a pair of chickens in the yard.
+
+**Loot**
+Pojo wears a gold ring that he pulled from Semile's dead hand. 25gp
+Tot has a sack of 3 live chickens.
+
+==== 4D. Hulvaarn Farm ====
+Looted and It's clear these people were human farmers and their cottage backs onto a fenced-in potato and turnip garden.
+A crushed human corpse is visible underneath a boulder in the garden.
+
+==== 4E. Summerhawk Residence ====
+Spatter of dried blood underneath a boulder just outside the front door.
+Carelessly looted by goblins
+Seems to be the residence of a halfling family.  It like as though they may have been apothecaries by the collection of herbs, flowers, and other medicinal flora growing in the garden outside.
+
+**Loot**
+DC10 to find a loose floorboard. Underneath is a Potion of Healing, a vial of antitoxin, and a puch containing 15gp.
+
+==== 4F. Agganor Residence ====
+Cottage with locked shutters over the windows and locked door.
+The sturdy iron-hinged door is adorned with row upon row of ornate runes burned into it.
+  Infernal: "Let all who enter this home without the consent of its owner burn for ninety-nine years in the depths of Nessus and freeze for a thousand more in the icy wastes of Cania."
+
+The door shows some signs of attempted entry by brute force.
+DC15 to open with tools, 20 to force open.
+
+**Loot**
+Unlocked wooden chest containing a golden holy symbol of Asmodeus (75gp), a healer's kit, and a Potion of Healing
+
+==== 4G. Nesper Farm ====
+Looted. 2 goblins playing blind tag with hollowed out pumpkins on their heads in the farm. They are effectively blind.
+If fighting erupts, the goblins in 2e come to investigate.
+
+**Loot**
+Sack of loot containing 1gp of coins, a tinderbox, a smoking pipe, a stuffed teddy bear, and a boxed set of lewdly decorated playing cards (1GP)
+
+==== 4H. Xelbrin Residence ====
+Roof is collapsed and 2 elderly human corpses in the rubble. Seems to be not-yet-looted by the goblins.
+[[Rillix]] , their pet tressym (cat with wings) lurks amid the wreckage.  He flutters out of the shadows and flies off to find another hiding place.
+
+**Loot**
+2 Wax seals (DC10 history to discern it is the Nandar seal), 2 jars of ink (5gp each), 10 blank scrolls, quill pens,
+land deeds, tax records, and a money pounch containing 34gp of coins
+
+
+
+
 
 
 
