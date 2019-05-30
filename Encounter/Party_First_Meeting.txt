@@ -4,6 +4,7 @@ Creation-Date: 2019-05-25T12:30:07-04:00
 
 ====== Party First Meeting ======
 Created Saturday 25 May 2019
+@encounter
 
 '''
 You received a letter from your friend, Morak Ur'gray bidding you to come visit him in Nightstone.  

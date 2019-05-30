@@ -4,6 +4,7 @@ Creation-Date: 2019-05-25T09:06:25-04:00
 
 [[Nightstone]]
 Created Saturday 25 May 2019
+@dungeon
 
 Nightstone is a motte-and-bailey fortification built on the [[:Ardeep River]]
 
@@ -68,7 +69,7 @@ The door is ajar, and a greedy [[:Forked Ear Goblins]] named Gwerk lurks within.
 She immediately understands her situation and uses the locket to bargain for her life.  She runs to the temple
 
 **Loot**
-Gwerk has [[Taela Summerhawk's Locket]]
+Gwerk has [[:Taela Summerhawk's Locket]]
 
 ==== 2E. Southeast Tower ====
 The door is ajar.
@@ -98,7 +99,7 @@ Looted by goblins
 Boulder crashed through the kitchen and 2 out in the wheat field beside it. Looted by goblins.
 
 ==== 4C. Southwell Farm ====
-Boulder crushed female in plain clothes ( [[Semile Southwell]] )
+Boulder crushed female in plain clothes ( [[:Semile Southwell]] )
 The back door is ajar and opens to a muddy fenced-in yard containing wooden feeding troughs and a chicken coop.
 Unless drawn elsewhere, 2 goblins named Pojo and Tot are chasing a pair of chickens in the yard.
 
@@ -138,11 +139,98 @@ Sack of loot containing 1gp of coins, a tinderbox, a smoking pipe, a stuffed ted
 
 ==== 4H. Xelbrin Residence ====
 Roof is collapsed and 2 elderly human corpses in the rubble. Seems to be not-yet-looted by the goblins.
-[[Rillix]] , their pet tressym (cat with wings) lurks amid the wreckage.  He flutters out of the shadows and flies off to find another hiding place.
+[[:Rillix]] , their pet tressym (cat with wings) lurks amid the wreckage.  He flutters out of the shadows and flies off to find another hiding place.
 
 **Loot**
 2 Wax seals (DC10 history to discern it is the Nandar seal), 2 jars of ink (5gp each), 10 blank scrolls, quill pens,
 land deeds, tax records, and a money pounch containing 34gp of coins
+
+===== 5. Temple =====
+Stained glass windows and other iconogrophy depict images og birth, the dawning sun, trees, and unicorns.
+  Characters recognize the iconogrophy. Temple dedicated to Lathandar (god of the dawn) and Mielikki (goddess of forests)
+The front door is swung wide open and the steeple bell is ringing incessantly.
+
+==== 5A. Temple and Pulpit ====
+Sunlight or moonlight pours into this high-vaulted chamber through 4 stained-glass windows.
+Beneath the windows are plain wooden benches.
+The room is monstly empty with a plain, dirt floor.
+Standing against the back wall is a wooden pulpit, behind it an open door.
+
+==== 5B. Bedroom and Steeple ====
+This backroom contains a plain wooden bead (belongs to [[:Hiral Mystrum]] the village's acolyte of Lathandar)
+The mattress has been torn open and lumps of straw are strewn about the room.
+Priestly vestments and personal effects lie haphazardly.
+A long rope in the corner descends from the steeple into the room and 2 goblins are currently bouncing up and down on it.
+
+**Loot**
+There are 2 sacks lying on the wooden-planked floor.
+Between the 2 of them there are 3 blocks of incense (5gp each), a silver holy symbol of Mielikki shaped like a unicorn's head (25gp), 1 vial of clear liquid, and an unlocked wooden "poor box" containing 2gp worth of coins
+
+===== 6. Graveyards =====
+Narrow footpaths meander among the graves, most of which are marked with granite headstones. A few of the headstones have been crushed under boulders.
+In the northeast corner stands an aboveground crypt with the name "Nandar" engraved over its sealed entrance.
+DC11 to open the door with a tool, 21 with no tool
+Stone bier, wooden coffin, skeletal remains, tattered burial shroud, and [[:Alabaster Figurine of Find Familiar (Hunting Dog)]]  
+
+**Developments**
+If anything inside the coffin is removed from the crypt, a specter of [[:Lord Drezlin Nandar]] appears and attacks.
+The specter can't leave the graveyard and disappears when killed or has no enemies to attack.
+
+===== 7. Stable House =====
+
+==== 7A. Barn ====
+Dirt floor and 10 stables. 5 draft horses and 5 riding horses are confined to the stables lining the walls.  They seem uneasy.  Hanging on the walls are bits, bridles, and leather saddles.  Two wooden ladders allow easy access to the hayloft.
+Characters entering the bard trigger the goblin in the haylofto attack.
+
+==== 7B. Hayloft ====
+haystacks and sacks of oats. A goblin named Derp is playing in the hay. Derp peeks out from behind the hay to shoot his bow, then hides for full cover.
+
+**Loot**
+Sack containing a wooden box engraved with the [[:Lionshield Coster]] symbol. 10 silvered darts inside. (2gp each)
+
+===== 8. Sqwuaking Squirrel =====
+An ornate wrought-iron sign bearing the inn's name hangs above the entrance, facing the town square.
+
+==== 8A. Dining Room ====
+This room is strewn with the wreckage of a particularly destructive boulder that crashed in from the room above, bringing pieces of the room's furniture with it and leaving a gaping hole to the upper floor. 
+Lying on the floor of the room is a dead goblin with a crossbow bolt sticking through its neck and a slowly growing pool of blood underneath it.
+Players in this room hear sounds of rummaging coming from the kitchen.
+
+DC10 medicine check to determine the goblin's wound is fresh, only a few minutes old.
+Roll stealth for [[:Kella Darkhope]] upstairs.
+
+==== 8B. Kitchen and Pantry ====
+The floor is covered with broken dishware and scattered utensils. More wreckage from falling boulders lies in the Northwest wall.
+A fat goblin name Gum-gum is searching through the pantry stuffing her already brimming sack with food items.
+
+Gum-gum tries to flee with her bag. 20ft speed while carrying the bag.
+
+**Loot**
+several muffins, a block of cheese, a frying pan, 2 flasks of lantern oil, cook's tools, cloves, saffron (1gp), a dented silver jug (20gp), and a cracked copper and glass hourglass (25gp if repaired)
+
+==== 8C. Morak's Bedroom ====
+Most of the funishings and some of the floor in [[:Morak Ur'gray]] 's room are destroyed, with a several gaping holes in the floor. Hanging on the far wall is a tapestry depicting a mountainous landscape, and tucked underneath the tapestry is a wooden chest (locked).
+
+The floor is not safe. Any character who tries to enter the room triggers a full floor collapse. DC16 to avoid falling.
+
+**Loot**
+Chest is steel banded, and has a tricky lock. DC19 thieve's tools to open, DC 22 to smash open. AC 22 10HP.
+  dwarven chain mail and helm, leather bag containing 45gp, 2 diamonds (100gp each), and a [[:Potion of Heroism]]
+
+==== 8F. Kella's Bedroom ====
+[[:Kella Darkhope]] and a **flying snake** attempt to hide from the players in this room. The flying snake curls itself around Kella's forearm.
+If discovered, Kella pretends to be a guest who was knocked unconscious by falling debris. (She shows no signs of physical injury)
+She claims that she was planning to escape until the goblins arrived and started looting.
+DC 18 history check to recognize the flying snake as a symbol of the [[:Zhentarim]]
+
+**Loot**
+**spy** weapons and armor, a small piece of rolled parchment with the words "On our way.", and a pouch containing 9gp of mostly gold and some silver coins
+
+**Developments**
+If they players don't find her, she hides until the [[:Seven Snakes]] arrive.
+
+
+
 
 
 
