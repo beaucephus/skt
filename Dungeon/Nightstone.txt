@@ -229,7 +229,69 @@ DC 18 history check to recognize the flying snake as a symbol of the [[:Zhentari
 **Developments**
 If they players don't find her, she hides until the [[:Seven Snakes]] arrive.
 
+===== 9. Lionshield Coster =====
+Mounted above this building's entrance is a circular blue shield emblazoned with a stylized golden lion: the symbol of the [[:Lionshield Coster]]
+The door to the trading post hangs open, and you hear a ruckus from within.
+A single goblin name Jilk is rummaging through the store's shelves and stuffing things into a backpack.  He tries to use the stolen gear to bargain for his life.
 
+**Loot**
+Anything in the adventuring gear section of the PHB worth 10gp or less (1d4 quantity)
+
+===== 10. Windmill =====
+Nightstone's windmill stands atop a 10-foot-high grassy hill.
+Two sets of goblin tracks are clearly visible in the muddy path that leads up the hill to an open doorway.
+The windmill's interior is dark, dusty, and filled with wooden gears and cogs that help turn the central millstone.
+2 goblins named Longo and Yek are in the rafters, 25ft up. They heckle the players and shoot arrows at them with half cover.
+
+**Loot**
+Longo and Yek seem to have been more interested in goffing off than searching for treasure.
+
+===== 11. Bridge =====
+A 70ft long, 10ft wide sloped bridge used to connect the village bailey to the motte, however a 15ft long section of it is completely destroyed.
+A character with 15STR score can jump over the gap.
+If jumping from the lower section, DC10 Athletics check
+If jumping from the higher section, DC 10 Acrobatics check
+  Failure takes 1d4 dmg from slipping on the sharp edges of the wooden planks
+  Failure by 5 or more tumbles into the slow-moving river below and takes 2d6 dmg from hitting logs and posts along the way
+
+===== 12. Gate to the Keep =====
+Set into the motte's palisade wall are two windowless stone gatehouses with wood-shingled, high-pitched rooftops. Between them stands a set of oad doors with iron hinges. (They aren't barred)
+The gatehouses seem to have been a barracks for the gards able to house 24 guards in total.
+The bodies of 5 guards lie in their bunks, crushed by rubble from a collapse in the gatehouse.
+
+===== 13. Inner Bailey =====
+Dozens of giant boulders lie all around the keep cutting deep ruts as they fell on the slope of the inner bailey.
+Ramps lead up to the stone parapet that encircles the yard, but no guards currently stand watch.
+3 more broken guard corpses lie in the inner bailey.
+
+===== 14. Nandar Keep =====
+The Nandar keep is left in a sorry state. Several boulder impacts portray a tragectory of vertical destruction, taking most of the keep wall on the east side.
+The door on the west side is closed.
+
+==== 14A. Great Hall ====
+Half of this once-great hall lies under rubble. An open staircase leads up to the next level.
+4 [[:Nightstone Guards]] (Sydiri Haunlar, Torem Breck, Alara Winterspell, and Kaelen Zam) stand around a great oak dinner table, arguing. They turn as you enter, and you see a 5th dressed in deep purple robes lying motionless on the table.
+The dead woman is [[:Lady Velrosa Nandar]] (she died slowly from underneath collapsed rubble)
+The guards are completely demoralized and look to the players for leadership.
+Sydiri does most of the talking
+
+==== 14D. Upstairs Hall ====
+This L-shaped hall is decorated with rich carpets, gilded sconces, and framed paintings of places in [[:Waterdeep]]
+Most of the bedrooms have been destroyed, only the master bedroom remains intact.
+Another set of stairs leads up to the next level.
+
+==== 14E. Master Bedroom ====
+Tapestries and oil lamps adorn the walls and wolfskin rugs cover the wooden floor. The room's centerpiece is a large bed, its ornate headboard sculpted with images of roses and foxes.
+4 wardrobes stand along the various walls (each contains a season's worth of women's clothing, all in the latest fashions of Waterdeep)
+At the foot of the bed is a wooden chest (unlocked)
+
+A **flying sword** mounted above the door attacks anyone who opens the chest. If battle erupts, the guards come to investigate after a few rounds and try to disuade the party from looting.
+
+**Loot**
+The chest is divided into many compartments containing 18gp worth of silver coins, 4 rubies (100gp each), and a silver jewelry box (25gp) containing 3 beautiful pearl necklaces (250gp each)
+
+==== 14F. Roof ====
+Entire sections of the roof are completely gone. A flag waves in the breeze atop a 30ft wooden flagpole. The flag depicts the stylized head of a golden fox with a rose clenched in its teeth, on a puple background.
 
 
 
