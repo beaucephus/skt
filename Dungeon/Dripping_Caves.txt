@@ -18,4 +18,12 @@ If the characters climb the hill, they find a natural chimney (5ft diameter shaf
 **Narrow Tunnels:** The tunnels leading away from the main cavern are 7-8ft high and range in width from 2-5ft. (Ogres and other large creatures can squeeze through)
 **Walls:** The walls are damp and slick, but sport an abundance of nooks, crannies, and outcrops making for easy climbing. (DC 10)
 
-===== 1.Main Cavern =====
+===== 1. Main Cavern =====
+Vast cavern with a forest of stalactites and stalagmites rising to meet them.
+The floor is riddled with broken spears, broken shields, and bat guano.
+An ogre is visible in the daylight bathing in a pool of mud near the entrance.
+**darkvision:** Around the perimeter of the room there are 6 natural tunnel exits and 5 ledges upon each of which sits a single sleeping goblin.
+
+If the party caries light or makes noise, the 2 ogres and 5 goblins across area 1 sound an alarm and all attack.
+
+
