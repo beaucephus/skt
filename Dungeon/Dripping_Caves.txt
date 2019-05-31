@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-31T11:25:08-04:00
+
+====== Dripping Caves ======
+Created Friday 31 May 2019
+
+Gaping cave mouth on the south face of a rocky hill topped with pine trees enters to area 1.
+If the characters take an hour to circle the hill, they find 2 other entrances.
+  On the west side is a narrow tunnel into which a stream flows. This tunnel is 40ft long and enters to area 6.
+  On the east side is a dry, 100ft long tunnel that gently slopes downward to area 3A.
+If the characters climb the hill, they find a natural chimney (5ft diameter shaft) that descends 50ft to area 7.
+  The chimney has abundant handholds. DC10 to climb without tools or fall to the bottom.
+
+===== General Features =====
+**Darkness: **The caves have no natural light source. The goblins and ogres use their darvision to see.
+**Dripping Water:** Water constantly drips from the stalactities in the main chamber. The sound echoes throughout the complex but isn't loud enough to drown out other distinctive noises.
+**Narrow Tunnels:** The tunnels leading away from the main cavern are 7-8ft high and range in width from 2-5ft. (Ogres and other large creatures can squeeze through)
+**Walls:** The walls are damp and slick, but sport an abundance of nooks, crannies, and outcrops making for easy climbing. (DC 10)
+
+===== 1.Main Cavern =====
