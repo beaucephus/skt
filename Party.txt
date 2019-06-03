@@ -5,10 +5,25 @@ Creation-Date: 2019-05-25T11:06:39-04:00
 ====== Party ======
 Created Saturday 25 May 2019
 
-Sarah
+[[Stella Smashface]] (Sarah)
+PP 12
+darkvision
+
 [[Tana Willowwhisper]] (Nathan) 
-Hillary
+PP 13
+
+[[Lessa]] (Hillary)
+PP 13
+
 [[Valriel]] (Jeremiah)
-AJ
-Sam
-Zach
+PP 11
+darkvision
+
+[[Reed Osborn]] (Sam)
+PP 11
+
+(AJ)
+PP
+
+(Zach)
+PP

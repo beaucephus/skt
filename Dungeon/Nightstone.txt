@@ -8,8 +8,8 @@ Created Saturday 25 May 2019
 
 Nightstone is a motte-and-bailey fortification built on the [[:Ardeep River]]
 
-''After following the road for a few more miles, you hear the ringing of a bell. The sound grows louder as Nightstone comes into view. A river flows around the settlement forming a moat. The village itself is contained within a wooden palisade, beyond which you see a windmill, a tall steeple, and the high-pitched rooftops of several other buildings. Apart from the ringing of the bell, you detect no other activity in the village. The trail ends before a lowered draw-bridge that spans the moat on the western side of the village. Beyong the drawbridge, two stone watchtowers flank an open gap in the palisade.''
-''South of the villae and also surrounded by the river moat is a cone-shaped, flat-topped hill on which stands a stone keep enclosed by a wooden wall. The keep, which overlooks the village, has partially collapsed. A wooden bridge that once connected the keep to the village has also partially collapsed.''
+''After following the road for a few more miles, you hear the ringing of a bell. The sound grows louder as Nightstone comes into view. A river flows around the settlement forming a moat. The village itself is contained within a wooden palisade, inside of which you see the tops of a windmill, a tall steeple, and the high-pitched rooftops of several other buildings. Apart from the ringing of the bell, you detect no other activity in the village. The trail ends before a lowered draw-bridge that spans the moat on the western side of the village. Beyond the drawbridge, two stone watchtowers flank an open gap in the palisade.''
+''South of the village and also surrounded by the river moat is a cone-shaped, flat-topped hill on which stands a stone keep enclosed by a wooden wall. The keep, which overlooks the village, has partially collapsed. A wooden bridge that once connected the keep to the village has also partially collapsed.''
 
 Paste the nightstone side view in discord.
 

@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-02T20:14:29-04:00
+
+====== Clarion and the 6 Dwarves ======
+Created Sunday 02 June 2019
+
+Party encounters [[Clarion]] , an adult silver dragon, who swoops down out of the sky and releases 6 heavily armored dwarves from her front claws.
+The dwarves immediately hail the players and lightly interrogate them about [[Encounter:Giants on the Road to Triboar]]
+The dwarves are looking for a particular magic item that was being carried in the caravan.
+
+If the party reveals their involvement
