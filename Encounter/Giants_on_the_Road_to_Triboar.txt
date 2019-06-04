@@ -5,9 +5,13 @@ Creation-Date: 2019-06-02T20:17:26-04:00
 ====== Giants on the Road to Triboar ======
 Created Sunday 02 June 2019
 
-2 hill giants raiding a caravan on the road.
-Party fights 1.
-Then can help clean up the other 2.
+Party encounters a hill giant chasing a little dwarven girl ( [[:Tiffin Mountainstrider]] ) down the road towards them.
 
-Dwarven caravan, all are dead.
-Make sure the characters find an awesome magic item they'll want to keep.
+She is part of a dwarven trading caravan that has traded its wares and  headed back to [[:Mithril Hall]] before it was ambushed by 5 hungry hill giants.
+The hill giants eat or kill all the dwarves and steal the oxen.  They can be seen carrying oxen into the foothills a couple miles in the distance.
+
+**Loot**
+The giants left behind all the gold totalling 547gp
+Tiffin finds her slain father and mother.  He father holds a magic sword still clutched tightly in his hands [[:Shalamayne]]
+
+
