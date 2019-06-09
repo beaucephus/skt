@@ -12,9 +12,18 @@ Created Saturday 25 May 2019
 [[Encounter::Goblin Ambush]]
 **Level 2!!!**
 Start [[Dungeon:Nightstone]]
-Cleared the square (area 3)
-Took a long rest in a watchtower. Set back out after dark and cleared the temple (area 5)
+Fought worgs in the square (area 3)
+Took a long rest in watchtower near the gate. Set back out after dark and cleared the temple (area 5)
 After clearing the temple the party set a trap for nearby goblins, stopping the bell and waiting for the goblins to investigate. The goblins from areas 4c and 4g are duped and fall for the trap
+
+
+===== Session 1 190608 =====
+Start in temple (area 5) at night.
+cleared Lionshiled Coster (area 9)
+cleared windmill (area 10)
+met with guards at keep
+defeated [[:Encounter:Seven Snakes arrive at Nightstone]]
+  Xolkin dead, Kella contained in keep
 
 
 ===== Future =====

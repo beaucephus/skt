@@ -6,7 +6,7 @@ Creation-Date: 2019-05-31T19:19:01-04:00
 Created Friday 31 May 2019
 
 A horde of [[:Ear Seeker Orcs]] almost 2 dozen strong emerge from the [[:Ardeep Forest]]
-They seem to be hagard and look desperate.
+__They seem to be hagard and look desperate.__
 Upon noticing the obviously fortified village, they change course and head for the west gate.
 
 20 **orcs**
