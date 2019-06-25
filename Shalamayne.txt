@@ -6,7 +6,7 @@ Creation-Date: 2019-06-03T20:14:34-04:00
 Created Monday 03 June 2019
 
 __This thick and heavy dwarven blade has a small hole worked into he middle of the blade near the crossguard.__
-If a creature grasps the handle, a small red flame erupts in the hole, emitting dim light in a 10-foot-radius. Creatures in this light gain advantage on saving throws to avoid being frightened. 
+If an attuned creature grasps the handle, a small red flame erupts in the hole, emitting dim light in a 10-foot-radius. Creatures in this light gain advantage on saving throws to avoid being frightened. 
 
 +1 magic greatsword
 requires attunement

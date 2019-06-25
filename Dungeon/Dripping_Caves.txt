@@ -42,7 +42,7 @@ If the players erradicate the goblins here, have a goblin revenant chase the par
 __Stalactites and stalagmites crowd this 20ft high, 15ft wide cave. Rising up from the middle of the floor is a particularly large, 10ft diameter at the base, pourous stalagmite riddled with holes that bore down into the interior of the rock. Lying near the base of the stalagmite are the badly corroded remains of two crudely made scimitars.__
 
 If players investigate the stalagmite, they __smell a stinging, corrosive musk and their fingers sting after touching the rock.__
-The pudding only exits the stalagmite if the characters move deeper in the cave.
+A **black pudding** only exits the stalagmite if the characters move deeper in the cave.
 
 __2 tunnels exit this room on opposite sides.__ 
 __The east tunnel leads back outside after 100ft.  __
@@ -108,8 +108,12 @@ __Small alcoves to the west and north contain the villagers and guard's weapons,
 9 spears, five longswords, 2 daggers, 6 steel-banded shields, and 6 long bows
 The female is Daphne Featherstone , [[:Lady Velrosa Nandar]] 's lady-in-waiting. She becomes sunken and reserved if she learns of her Lady's death.
 
-If the players present no immediate threat, [[:Boss Hark]] realizes his situation and tries to bargain with the players.
-  He offers to release the villagers for 1gp per head (31gp)
+If the players present no immediate threat, [[:Boss Hark]] realizes his situation and tries to treat with the players.
+  He tells the players that __his people have recently been forced off their ancestral lands by the elves of the Ardeep forest, and they don't have much to each.  To make matters worse, a blob monster has been killing them when they go to the water cave to drink.__
+	DC10 Insight to realize he's lying about the elves.
+  He offers to release the villagers if the Party agrees to kill the __"blob monster"__ and pays 1gp per head (31gp), so __his family can eat__
+
+
   
 
 
