@@ -14,6 +14,6 @@ If the party gives chase, make it clear that Tiffin is hurt, sprained her ankle 
 
 **Loot**
 The giants left behind all the gold totalling 547gp
-Tiffin finds her slain father and mother.  He father holds a magic sword still clutched tightly in his hands [[:Shalamayne]]
+Tiffin finds her slain father and mother.  He father holds a magic sword still clutched tightly in his hands [[:Item:Shalamayne]]
 
 

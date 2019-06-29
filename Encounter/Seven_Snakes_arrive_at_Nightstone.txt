@@ -28,7 +28,7 @@ If the players are with the guards, then the guards plead with the characters to
 **Loot**
 Xolkin wears studded leather armor and carries a scimitar and several daggers. 
 He also wears an obsidian ring emblazoned with the symbol of a black winged serpent (25gp) DC10 history to recognize the symbol of the Zhentarim
-He has a coin purse containing 53gp of coins, 2 gemstones (100gp each), and a [[:Potion of Invulnerability]]
+He has a coin purse containing 53gp of coins, 2 gemstones (100gp each), and a [[:Item:Potion of Invulnerability]]
 
 The other Seven Snakes members wear leather armor and carry a scimitar and a light crossbow
 They carry 2d10gp each

@@ -69,7 +69,7 @@ The door is ajar, and a greedy [[:Forked Ear Goblins]] named Gwerk lurks within.
 She immediately understands her situation and uses the locket to bargain for her life.  She runs to the temple
 
 **Loot**
-Gwerk has [[:Taela Summerhawk's Locket]]
+Gwerk has [[:Item:Taela Summerhawk's Locket]]
 
 ==== 2E. Southeast Tower ====
 The door is ajar.
@@ -170,7 +170,7 @@ Between the 2 of them there are 3 blocks of incense (5gp each), a silver holy sy
 __Narrow footpaths meander among the graves, most of which are marked with granite headstones. A few of the headstones have been crushed under boulders.__
 __In the northeast corner stands an aboveground crypt with the name "Nandar" engraved over its sealed entrance.__
 DC11 to open the door with a tool, 21 with no tool
-Stone bier, wooden coffin, skeletal remains, tattered burial shroud, and [[:Alabaster Figurine of Find Familiar (Hunting Dog)]]  
+Stone bier, wooden coffin, skeletal remains, tattered burial shroud, and [[:Item:Alabaster Figurine of Find Familiar (Hunting Dog)]]  
 
 **Developments**
 If anything inside the coffin is removed from the crypt, a specter of [[:Lord Drezlin Nandar]] appears and attacks.
@@ -215,7 +215,7 @@ The floor is not safe. Any character who tries to enter the room triggers a full
 
 **Loot**
 Chest is steel banded, and has a tricky lock. DC19 thieve's tools to open, DC 22 to smash open. AC 22 10HP.
-  dwarven chain mail and helm, leather bag containing 45gp, 2 diamonds (100gp each), and a potion ( [[:Potion of Heroism]] )
+  dwarven chain mail and helm, leather bag containing 45gp, 2 diamonds (100gp each), and a potion ( [[:Item:Potion of Heroism]] )
 
 ==== 8F. Kella's Bedroom ====
 [[:Kella Darkhope]] and a **flying snake** attempt to hide from the players in this room. The flying snake curls itself around Kella's forearm.
