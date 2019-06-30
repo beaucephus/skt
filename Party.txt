@@ -29,7 +29,8 @@ PP 11
 
 [[Rogar]] (Zach)
 level 3
-PP 
+PP 16
 
-(AJ)
-PP
+[[Braddock]] (AJ)
+level 2
+PP 16

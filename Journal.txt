@@ -27,15 +27,16 @@ defeated [[:Encounter:Seven Snakes arrive at Nightstone]]
 **Level 3!!!**
 
 ===== Session 2 19/06/29 =====
-Nighttime
+Nighttime, heavy fog rolling in, visibility 10 feet
 [[:Dungeon:Nightstone]]
-
-If the players rest
+Set [[:Kella Darkhope]] free in exhange for information on the [[:Snail]] in [[:Daggerford]]
+Long rest
   The goblins leave and take all their loot
   Fresh foot traffic mark the goblins' paths
+[[Dungeon:Dripping Caves]]
+  Cleared central cavern and boss Hark's Cave
 
 ===== Future =====
-[[Dungeon:Dripping Caves]]
 **Level 4!!!**
 Once [[:Morak Ur'gray]] is back in [[Nightstone]] run [[Encounter:Triboar Quest]] 
 Journey to [[Triboar]] run [[Encounter:Giants on the Road to Triboar]] and then [[Encounter:Clarion and the 6 Dwarves]] along the way.
