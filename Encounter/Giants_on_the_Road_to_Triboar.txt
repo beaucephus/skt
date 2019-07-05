@@ -5,6 +5,8 @@ Creation-Date: 2019-06-02T20:17:26-04:00
 ====== Giants on the Road to Triboar ======
 Created Sunday 02 June 2019
 
+[[:Giants]]
+
 Party encounters a hill giant chasing a little dwarven girl ( [[:Tiffin Mountainstrider]] ) down the road towards them.
 
 She is part of a dwarven trading caravan that has traded its wares and  headed back to [[:Mirabar]] before it was ambushed by 5 hungry hill giants.
