@@ -68,7 +68,6 @@ Two pigs
 The door is ajar, and a greedy [[:Forked Ear Goblins]] named Gwerk lurks within.
 She immediately understands her situation and uses the locket to bargain for her life.  She runs to the temple
 
-**Loot**
 Gwerk has [[:Item:Taela Summerhawk's Locket]]
 
 ==== 2E. Southeast Tower ====

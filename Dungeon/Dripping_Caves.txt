@@ -63,7 +63,7 @@ On each of the bat swarm's turn roll a d6. They recede back to the lower cavern 
 [[:Morak Ur'gray]] is held in this cavern and speaks on behalf of the other villagers.
 He's counting on the [[:Lady Velrosa Nandar]] and the remaining guards of [[Nightstone]] to come rescue them.
 When Morak sees the party, __he breathes a hushed sigh of relief__. He assumes the party was hired by the Lady Nandar and is dismayed if he learns of her death.
-__Standing out amongst the plainly clad human and halfling villagers you also see a pair of tieflings, woman and child, 1 human man clad is dirtied priestly vestments and 6 wounded individuals wearing armor and heraldry depicting a stylized fox holding a rose in its mouth__ (Players who have been in the keep recognize them to be [[Nightstone]] guards)
+__Standing out amongst the plainly clad human and halfling villagers you also see a pair of tieflings, 1 human man clad is dirtied priestly vestments and 6 wounded individuals wearing armor and heraldry depicting a stylized fox holding a rose in its mouth__ (Players who have been in the keep recognize them to be [[Nightstone]] guards)
 
 ===== 5. Fissure =====
 __An 8-foot-wide, 20-foot-deep fissure splits this very large tunnel which otherwise slowly declines into the earth due north as far as you can see.__
@@ -96,7 +96,7 @@ __The cave has an 8-foot-high ceiling and contains a dirty grass pallet, next to
 The chest contains
   18gp of loose coins
   a matching pair of silver salt and pepper shakers (25gp for the pair)
-  bloodstained leather case containing a set of thieve's tools (25gp)
+  bloodstained leather case containing a set of thieve's tools
   a holy symbol of Silvanus carved from wood and inlaid with gold (25gp)
   [[:Item:Sanctified Bones]]
 

@@ -11,3 +11,27 @@ Notes for the DM:
 *The scales on Tana’s body and her magic ability are actually markings of her family’s draconic bloodline. Many generations ago, a powerful and evil sorceress made a pact with an ancient white dragon. Ever since, the blood of this dragon has flowed through the veins of the female descendants of that sorceress, granting them magical powers. 
 
 * I deliberately left the fate of Tana’s disappeared twin sister vague, figuring this could be an interesting plot point should you choose to weave it into the story. No worries if it never comes up
+
+
+===== Tana's Potion Making =====
+**Recipes known**
+Potion of Healing
+Antitoxin
+Potion of Phallic Enlargement
+
+**Potion of Healing Crafting**
+Healing			1day	25gp
+Greater Healing	1week	100gp
+Superior Healing	3weeks	1,000gp
+Supreme Healing	4weeks	10,000gp
+
+**General Potion Crafting **(already halved since consumable)
+Common	3days	25gp
+Uncommon	1week	100gp
+Rare		5weeks	1,000gp
+Very Rare	12weeks	10,000gp
+Legendary	15weeks	50,000gp
+
+
+[[..\Item\potions.jpg]]
+https://www.dandwiki.com/wiki/5e_Potions

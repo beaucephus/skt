@@ -31,14 +31,25 @@ Nighttime, heavy fog rolling in, visibility 10 feet
 [[:Dungeon:Nightstone]]
 Set [[:Kella Darkhope]] free in exhange for information on the [[:Snail]] in [[:Daggerford]]
 Long rest
-  The goblins leave and take all their loot
+  The goblins leave and take all their loot which is now in [[:Boss Hark]] 's hoard
+	a tinderbox, a smoking pipe, a stuffed teddy bear, and a boxed set of lewdly decorated playing cards (1GP)
+	Gold ring (10gp)
+	[[Item:Taela Summerhawk's Locket]]
   Fresh foot traffic mark the goblins' paths
 [[Dungeon:Dripping Caves]]
   Cleared central cavern and boss Hark's Cave
 
+===== Session 3 =====
+Aftermath of fight in Boss Hark's cave.
+  Don't forget to describe the half-eaten human corpse and the portcullis to the north.
+  Goblins attracted by the commotion arrive and then flee shouting in goblin "The boss is dead, run for your lives!"
+  All of the goblins evacuate the caves.
+  Morak begins to lead the villagers quietly from the caves.
+
 ===== Future =====
 **Level 4!!!**
 Once [[:Morak Ur'gray]] is back in [[Nightstone]] run [[Encounter:Triboar Quest]] 
-Journey to [[Triboar]] run [[Encounter:Giants on the Road to Triboar]] and then [[Encounter:Clarion and the 6 Dwarves]] along the way.
+Journey to [[Triboar]]  One the way, [[:Waterdeep]] -> [[:Rassalantar]] -> [[:Amphail]] -> [[:Red Larch]] -> [[Encounter:Giants on the Road to Triboar]] -> [[:Westbridge]] -> [[Encounter:Clarion and the 6 Dwarves]] -> [[:Triboar]]
+	Lots of down-time and merchants along the way.  Prompt players for downtime activities and gear purchases.
 **level 5!!!**
 Players arrive at [[Triboar]]
