@@ -5,11 +5,11 @@ Creation-Date: 2019-07-05T12:19:42-04:00
 ====== Rassalantar ======
 Created Friday 05 July 2019
 
-A quiet village of soft beds and rich ale.
-A few walled farms and grazing sheep around the town.
-A ruined keep hidden among the stand of trees west of the village.
+__A quiet village well known for its soft beds and rich ale.__
+__A few walled farms and grazing sheep around the town.__
+__A ruined keep hidden among the stand of trees west of the village.__
 
-[[:Waterdeep]] keeps a large contingent of city guards here using a nearby barracks as a headquarters for patrols up and down the [[:Long Road]] to [[:Amphail]] and [[:Waterdeep]]
+[[:Waterdeep]] keeps a __large contingent of city guards here__ using a __nearby barracks__ as a headquarters for __patrols up and down__ the [[:Long Road]] to [[:Amphail]] and [[:Waterdeep]]
 
 [[Yondral Horn]] runs the local Inn, The [[:Sleeping Dragon]]
   Yondral is on the [[:Black Network]] 's payroll and has heard of the party.
