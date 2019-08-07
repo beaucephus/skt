@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-07-12T10:37:08-04:00
+
+====== Triboar ======
+Created Friday 12 July 2019
+
+__The bustling mercantile town of Triboar stands where the __[[:Long Road]]__ meets the __[[:Evermoor Way|Evermoor Way]]__. Triboar's name is thought to have come from a traveler's tale of slaying three boars here in the same day, over four hundred winters ago. The town is built on flat, fertile land, with a few natural rises here and there. Nearly half of Triboar's population lives outside the town proper, on sprawling ranches and neighboring farmsteads, most of which lie to the north or east.__
+
+The current lord protector of Triboar is a good-natured Harper and ex-adventurer named [[:Darathra Shendrel]] .
+Darathra keeps a squad of a dozen mounted warriors, hand-drawn from the local militia, known as the "Twelve".
+	The Twelve enforce local ordinances issued by Darathra.
+
+
+===== 1. Market Square and Tower =====
+__The center of Triboar, where the Long Road meets the Evermoor Way, is a huge open space used as a market by local famers and visiting peddlers. Dominating the space is the two-story tower of the lord protector, a simple stone keep that leans decidely to the east. Hanging above the entrance is the dusty banner of the lord protector, which depicts three black boars running toward the head of the banner on a blood-red field.__
+
+Darathra Shendrel's office is in the tower
+She can muster 50 militia in the night, and 300 by noon, the next day.
+She attempts to draft mercenaries and adventerurs to help defend the town.
+
+===== 2. North Caravan Campground =====
+__Many travelling caravans are using this fenced-in field as a place to park their wagons and contain their oxen.__ It's free and there's plenty of room.
+__A couple weary travelers are drawing water from a stone well in the southeast corner of the yard__.
+
+
+
+
+

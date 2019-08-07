@@ -36,21 +36,24 @@ Long rest
 [[Dungeon:Dripping Caves]]
   Cleared central cavern and boss Hark's Cave
 
-===== Session 3 =====
+===== Session 3 19/07/07 =====
 [[:Encounter:Aftermath of Boss Hark's Death]]
-Add these items to Boss Hark's hoard recently pilfered from the village.
-	a tinderbox, a smoking pipe, a stuffed teddy bear, and a boxed set of lewdly decorated playing cards (1GP)
-	Gold ring (10gp)
-	[[Item:Taela Summerhawk's Locket]]
 **Level 4!!!** after rescueing the villagers and returning them to [[:Nightstone]]
 Once [[:Morak Ur'gray]] is back in [[Nightstone]] run [[Encounter:Triboar Quest]] 
+Party accepted the quest to take [[:Darthag Ulgar]] 's earthly possesions to his wife, [[:Alaestra Ulgar]] in [[:Triboar]]
+Party "borrowed" armor, weapons, and gear from [[:Darthag Ulgar]] 's cart.
+Journey to [[Triboar]]  
+	On the way
+		Downtime activities in [[:Waterdeep]]
+			[[:Stella Smashface]] won a cage fight against [[:Stouts McGee]]
+			[[:Tana Willowwhisper|Nana]] made an allied contact.
+			[[:Valriel]] bought a [[:Item:Ring of Shielding]]
+			[[:Valriel]] conducted research on cloud giants, discovering [[:Zephiros]]
 
 
 ===== Future =====
 Journey to [[Triboar]]  
-	Lots of down-time and merchants along the way.  Prompt players for downtime activities and gear purchases.
-	One the way
-		[[:Waterdeep]] 
+	On the way
 		[[:Rassalantar]] 
 		[[:Amphail]]  run [[Encounter:Giants on the Road to Triboar]] 
 		[[:Red Larch]] 
