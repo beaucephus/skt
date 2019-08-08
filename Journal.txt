@@ -51,6 +51,9 @@ Journey to [[Triboar]]
 			[[:Valriel]] conducted research on cloud giants, discovering [[:Zephiros]]
 
 
+===== Session 4 19/08/07 =====
+
+
 ===== Future =====
 Journey to [[Triboar]]  
 	On the way
@@ -58,7 +61,8 @@ Journey to [[Triboar]]
 		[[:Amphail]]  run [[Encounter:Giants on the Road to Triboar]] 
 		[[:Red Larch]] 
 		[[:Westbridge]] run [[Encounter:Clarion and the 6 Dwarves]] 
-		[[:Triboar]]
+[[:Triboar]]
+The first time the players arrive at Triboar run [[:Encounter:Attack on Triboar]]
 	
 **level 5!!!**
 Players arrive at [[Triboar]]

@@ -19,6 +19,6 @@ The giants left behind all the gold totalling 547gp
 Tiffin finds her slain father and mother.  He father holds a magic sword still clutched tightly in his hands [[:Item:Shalamayne]]
 
 **Development**
-Tiffin and her family were on their way to Mirabar.  Tiffin asks if they party will help her get to Triboar. She says she __will be able to send communication to Mirabar and make the rest of the way on her own__.
+Tiffin and her family were on their way to Mirabar.  Tiffin asks if they party will help her get to Triboar. Her uncle lives in [[:Triboar]] , [[:Ghelryn Foehammer]] . She wants to stay with him.
 
 
