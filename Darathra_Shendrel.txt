@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-10T11:11:04-04:00
+
+====== Darathra Shendrel ======
+Created Saturday 10 August 2019
+
+Darathra is the Lord Protector of Triboar and a secret agent of the [[:Harpers]] 
+Darathra has sworn an oath to defend Triboar, and she takes her duty very seriously.
+
+Darathra rides an unarmored warhorse "Buster" into battle.
+
+**Ideal** Good people should be given every chance to prosper, free of tyranny.
+**bond** I'll lay down my life to protect Triboar and its citizens.
+**flaw** I refuse to back down. Push me, and I'll push back.

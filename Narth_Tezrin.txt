@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-10T11:15:22-04:00
+
+====== Narth Tezrin ======
+Created Saturday 10 August 2019
+
+Narth is a clerk and co-owner at the [[:Lionshield Coster]] in [[:Triboar]]
+He has an adventerous spirit and wants to impress [[:Alaestra Ulgar]] who he has a crush on.
+
+**ideal** The bigger the risk, the greater the reward.
+**bond** I adore my colleague Alaestra, and I'd like to do something to impress her.
+**flaw** I'll risk life and limb to become a legend.
+
+

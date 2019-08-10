@@ -61,8 +61,8 @@ Journey to [[Triboar]]
 		[[:Amphail]]  run [[Encounter:Giants on the Road to Triboar]] 
 		[[:Red Larch]] 
 		[[:Westbridge]] run [[Encounter:Clarion and the 6 Dwarves]] 
-[[:Triboar]]
-The first time the players arrive at Triboar run [[:Encounter:Attack on Triboar]]
-	
+		
 **level 5!!!**
-Players arrive at [[Triboar]]
+[[:Triboar]]
+On the player's second day in Triboar run [[:Encounter:Attack on Triboar]]
+

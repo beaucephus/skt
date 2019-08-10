@@ -32,7 +32,7 @@ Each player can choose an NPC to play during this encounter:
 [[:Darathra Shendrel]]
 [[:Darz Helgar]]
 [[:Narth Tezrin]]
-[[Urgala Meltimer]]
+[[:Urgala Meltimer]]
 [[:Othovir]]
 [[:Ghelryn Foehammer]]
 Hand out the stat blocks.
