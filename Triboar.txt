@@ -43,6 +43,20 @@ There are stairs in the back which lead up to their living quarters where they k
 A closet-sized vault on on the second floor behind secret door (DC 15 to spot) contains an empty [[:Item:Heward's Handy Haversack]] and a locked (DC 20) iron strongbox contains 265gp and a gray [[:Item:Bag of Tricks]]
 Aleastra and Narth each carries a key to the strongbox.
 
+===== 10. Northshield House =====
+__This inn appears stately, clean, and quiet.__
+The proprietor, [[:Urgala Meltimer]] is a retired adventurer. She warns armed guests to keep their words civil and their weapons sheathed.
+Urgala has 3 **mastiffs** that sleep in the ground floor common room, and she employs a staff of 6 loyal, well-payed **commoners**.
+
+===== 11. Othovir's Harness Shop =====
+A skilled harness-maker [[:Othovir]] lives and works here. He __makes the finest elk-skin harnesses in the Dessarin Valley.__
+Othovir hunts the elk, keeps their skins, and sells the rest to the Lionshield Coster.
+
+===== 18. Foehammer's Forge =====
+[[:Ghelryn Foehammer]] is getting old and looking for a skilled apprentice.
+Ghelryn's work is legendary in this area, and he holds the title "Royal Armorer of Felbar" because he crafts much of the ceremonial armor for [[:Citadel Felbarr]] royal family.
+
+
 
 
 

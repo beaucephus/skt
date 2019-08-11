@@ -6,31 +6,31 @@ Creation-Date: 2019-05-25T11:06:39-04:00
 Created Saturday 25 May 2019
 
 [[Stella Smashface]] (Sarah)
-level 3
+level 4.5
 PP 12
 darkvision
 
 [[Tana Willowwhisper]] (Nathan) 
-level 3
+level 4
 PP 13
 
 [[Lessa]] (Hillary)
-level 2
+level 3
 PP 13
 
 [[Valriel]] (Jeremiah)
-level 3
+level 4.5
 PP 11
 darkvision
 
 [[Reed Osborn]] (Sam)
-level 2
+level 3
 PP 11
 
 [[Rogar]] (Zach)
-level 3
+level 4.5
 PP 16
 
 [[Braddock]] (AJ)
-level 2
+level 3
 PP 16

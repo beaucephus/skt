@@ -36,7 +36,7 @@ The thunderclap can be heard for half a mile.
 DC20 Dex save or be hurled 1d6 x 10 feet horizontally and land prone.
 1d8 bludgeoning damage for every 10 feet thrown.
 
-**Tackle.** When a giant enters any enemy's space for the first time on a turn, DC19 STR save or be knocked prone. 
+**Tackle.** When a giant enters any enemy's space for the first time on a turn, DC16 STR save or be knocked prone. 
 
 **Restrain and Bite.** Whenever a giant grapples, the target is restrained in addition to being grappled.
 On the next turn after grappling an enemy, the giant can attempt to bite the target. Bite deals half the giant's hit dice in damage and recieves a lingering injury.
