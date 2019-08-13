@@ -26,3 +26,12 @@ The dirt mound is protected by a Glyph of Warding(Confusion DC20)
 The dirt mound hides a __5ft-diameter fine crystal jar with corked lid which contains what appears to be a human fetus floating in a translucent liquid.__  It's Blackstaff's clone.
 	The jar is worth 2000gp
 
+
+Destroyed TP circle locations
+1. Castle with guards
+2. Magic workshop
+3. opulent bedroom
+4. everlund barn
+5. mountain monastary
+6. blackstaff's clone room
+

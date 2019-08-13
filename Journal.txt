@@ -52,27 +52,21 @@ Journey to [[Triboar]]
 
 
 ===== Session 4 19/08/07 =====
-Messed with BlackStaff's clone in Rassalantar
-Stella stole Blackstaff's clone vase.
+Messed with BlackStaff's clone in [[:Rassalantar]]
+  Add [[:Encounter:Blackstaff's hit squad]] 
+Stella stole Blackstaff's clone vase. (2000gp)
 Stell found a scroll of Teleportation circle.
-Stella found some magic gizmos
-1. Castle with guards
-2. Magic workshop
-3. bedroom
-4. everlund barn
-5. mountain monastary
-6. blackstaff's clone room
+Stella found some magic gizmos (100gp, 500gp if sold as components for teleportation magic)
+[[:Rassalantar]] has a teleportation circle now, but the party destroyed it!
 
-In Amphail, stayed for feast, rescued Tiffin, killed giant, found Shalamayne
-Setting out from Amphail with Tiffin
+In Amphail, stayed for feast, rescued [[:Tiffin Foehammer]] , killed giant, found [[:Item:Shalamayne]]
 
 ===== Future =====
-Journey to [[Triboar]]  
-	On the way
-		[[:Rassalantar]] 
-		[[:Amphail]]  run [[Encounter:Giants on the Road to Triboar]] 
-		[[:Red Larch]] 
-		[[:Westbridge]] run [[Encounter:Clarion and the 6 Dwarves]] 
+Setting out from Amphail with Tiffin.
+Lord Roaringhorn is grateful to the party, especially [[:Valriel]] who scored the killing blow, and offers the party a favor whenever needed.
+Journey to [[Triboar]] 
+	[[:Red Larch]] 
+	[[:Westbridge]] run [[Encounter:Clarion and the 6 Dwarves]] 
 		
 **level 5!!!**
 [[:Triboar]]
