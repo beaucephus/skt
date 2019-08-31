@@ -7,7 +7,7 @@ Created Wednesday 07 August 2019
 
 [[:Okssort]] and [[Ildmane]] , a pair of mated **fire giants** loyal to [[:Duke Zalto]] , have used a [[:Item:Rod of the Vonindod]] to locate the [[:Vonindod]] fragment burried underneath [[:Triboar]]
 
-__Around noon, the town is shaken from its peacefulness by the screams of women and children, followed by a man yelling, "Giants! Run!" Perplexed residents and shopkeepers emerge from their domiciles in time to see a large rock fall from the sky and crash onto an old cart, splintering the cart and killing the carter. As a cloud of dust erupts from the wreckage, a second rock hits the ground, tumbles through a fence, and slams against the wall of a building, startling a pair of mules tethered to a post nearby. All around you, people begin to shriek and scatter.__
+''Around noon, the town is shaken from its peacefulness by the screams of women and children, followed by a man yelling, "Giants! Run!" Perplexed residents and shopkeepers emerge from their domiciles in time to see a large rock fall from the sky and crash onto an old cart, splintering the cart and killing the carter. As a cloud of dust erupts from the wreckage, a second rock hits the ground, tumbles through a fence, and slams against the wall of a building, startling a pair of mules tethered to a post nearby. All around you, people begin to shriek and scatter.''
 
 
 ===== The Attack =====
@@ -36,7 +36,8 @@ Each player can choose an NPC to play during this encounter: [[..\triboar_npc_ha
 [[:Othovir]]
 [[:Ghelryn Foehammer]]
 Hand out the stat blocks.
-__Each of the NPC represents a potential quest and reward. For each NPC that survives the Attack on Triboar, the players will receive a quest with very rare rewards!__
+''Each of the NPC represents a potential quest and reward. ''
+''For each NPC that survives the Attack on Triboar, the players will receive a quest with very rare rewards!''
 
 
 ===== Giants Defeat =====
