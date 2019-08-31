@@ -53,7 +53,7 @@ Journey to [[Triboar]]
 
 ===== Session 4 19/08/07 =====
 Messed with BlackStaff's clone in [[:Rassalantar]]
-  Add [[:Encounter:Blackstaff's hit squad]] 
+  Add [[:Wilderness Encounter:Blackstaff's hit squad]] 
 Stella stole Blackstaff's clone vase. (2000gp)
 Stell found a scroll of Teleportation circle.
 Stella found some magic gizmos (100gp, 500gp if sold as components for teleportation magic)
