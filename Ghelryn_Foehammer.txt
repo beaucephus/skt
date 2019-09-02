@@ -11,3 +11,10 @@ Otherwise he is a good and wise old dwarf blacksmith.
 **ideal** It is incumbent upon every dwarf to protect his family and property.
 **bond** I love my dear niece [[:Tiffin Foehammer]]
 **flaw** I get worked up into a temper-filled fury when it comes to orcs or giants.
+
+
+===== Quest =====
+Ghelryn laments that he doesn't have much of value on him at the moment.
+Ghelryn writes the characters a letter of recommendation and suggests they present it to King Morinn or Queen Tithmel should they find themselves in [[:Citadel Felbarr]]
+
+If the characters follow Ghelryn's instructions, the King or Queen of Citadel Felbarr asks about Ghelryn's wellbeing and presents the party with 2 [[:Item:Figurine of Wondrous Power:Golden Lion]]

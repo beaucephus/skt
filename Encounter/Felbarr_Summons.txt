@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-09-02T18:27:52-04:00
+
+====== Felbarr Summons ======
+Created Monday 02 September 2019
+
+[[:Citadel Felbarr]]
+
+King Morinn and Queen Tithmel issue a summons for the party.
+The King and Queen have heard of the party from [[:Ghelryn Foehammer]] and want to solicit the party to investigate some rumors that giants have been spotted near the ancient underground forge, [[:Ironslag]]
+If the giants were to restart it, the forge being so close to the citadel would be a disaster and the giants must be routed before that happens.
+
+In return the Kind and Queen offer to build the party a stronghold in the [[:Silver Marches]]
+	100 days to build
+	all costs and personnel paid for by the sovereigns. (10 Felbarr dwarve **guards**)
+

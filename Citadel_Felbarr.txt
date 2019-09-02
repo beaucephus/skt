@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-09-02T18:23:53-04:00
+
+====== Citadel Felbarr ======
+Created Monday 02 September 2019
+
+__This formidable dwarven fortress-city lies beneath the__ [[:Rauvin Mountains]] __. An elevated road sided by 100-foot hight cliffs winds and passes through the mountains into the 2 enourmous gates. (__named the "Hammer" and the "Anvil")
+2 battlements stand atop each side of the gates. Guards stand at the ready to rain arrows, pitch, and fire on would-be invaders.
+
+Run [[:Encounter:Felbarr Summons]] the first time tha players enter the city.
