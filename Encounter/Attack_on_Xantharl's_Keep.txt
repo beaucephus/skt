@@ -30,4 +30,5 @@ Kaltivar carries a sack containing
 	107gp of coin.
 	A giant-sized bone comb
 	3 adult white dragon scales
+	[[:Item:Deadeye]]
 

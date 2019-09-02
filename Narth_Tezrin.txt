@@ -13,3 +13,11 @@ He has an adventerous spirit and wants to impress [[:Alaestra Ulgar]] who he has
 **flaw** I'll risk life and limb to become a legend.
 
 
+===== Quest =====
+A few month ago, the Lionshield Coster received a payment from one [[:Amrath Mulnobar]] , castellan of [[:Noanar's Hold]] , for 5 horse harnesses made by none other than Triboar's finest harness-maker, [[:Othovir]] .
+Othovir recently finished the harnesses and Narth needs to arrange for their delivery.
+Since the recent giant attacks, Narth is worried about the safe arrival of the shipment.
+Narth has never been to Noanar's Hold, but he knows its a village near the [[:High Forest]] that once attracted wealthy hunters.
+
+Narth offers a cart and horse (Boris) plus 100gp as payment for the delivery.
+Run [[:Encounter:Harness Delivery to Noanar's Hold]] when the players arrive.
