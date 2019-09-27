@@ -55,8 +55,8 @@ Journey to [[Triboar]]
 Messed with BlackStaff's clone in [[:Rassalantar]]
   Add [[:Wilderness Encounter:Blackstaff's hit squad]] 
 Stella stole Blackstaff's clone vase. (2000gp)
-Stell found a scroll of Teleportation circle.
-Stella found some magic gizmos (100gp, 500gp if sold as components for teleportation magic)
+Stella found a scroll of Teleportation circle.
+Stella found some magic gizmos (100gp, 300gp if sold as components for teleportation magic)
 [[:Rassalantar]] has a teleportation circle now, but the party destroyed it!
 
 In Amphail, stayed for feast, rescued [[:Tiffin Foehammer]] , killed giant, found [[:Item:Shalamayne]]

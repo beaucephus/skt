@@ -5,11 +5,11 @@ Creation-Date: 2019-06-03T20:14:34-04:00
 ====== Shalamayne ======
 Created Monday 03 June 2019
 
-__This thick and heavy dwarven blade has a small hole worked into he middle of the blade near the crossguard.__
-If an attuned creature grasps the handle, a small red flame erupts in the hole, emitting dim light in a 10-foot-radius. Creatures in this light cannot be frightened. 
+__This thick, heavy dwarven blade has a small cavity worked into he middle of the blade near the quillon.__
+If an attuned creature grasps the grip, a flame ignites in the cavity, emitting dim light in a 10 foot radius. While within this light, Shalamayne's weilder and their allies are immune to the frightened condition. 
 
 requires attunement
 
-[[..\Shalamayne_1565225917421.png]]
+[[..\Shalamayne_1569598796884.png]]
 
 (If [[:Valriel]] gets the sword, do something later to cause her to make a decision, have the sword split)
