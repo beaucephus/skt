@@ -61,12 +61,16 @@ Stella found some magic gizmos (100gp, 300gp if sold as components for teleporta
 
 In Amphail, stayed for feast, rescued [[:Tiffin Foehammer]] , killed giant, found [[:Item:Shalamayne]]
 
-===== Future =====
+===== Session 5 19/09/28 =====
 Setting out from Amphail with Tiffin.
 Lord Roaringhorn is grateful to the party, especially [[:Valriel]] who scored the killing blow, and offers the party a favor whenever needed.
+In [[:Red Larch]]
+	Found Niceman's shop and murder. Discovered it was purpotrated by [[:Blackstaff]] and Blackstaff is looking for the people who destroyed his clone.
+	Party spread rumors and setup a sting opertions, several Blackstaff operatives attacked and the bard, [[:Rasa Dantor]] escaped
+
+
 Journey to [[Triboar]] 
-	[[:Red Larch]] 
-	[[:Westbridge]] run [[Encounter:Clarion and the 6 Dwarves]] 
+[[:Westbridge]] run [[Encounter:Clarion and the 6 Dwarves]] 
 		
 **level 5!!!**
 [[:Triboar]]
