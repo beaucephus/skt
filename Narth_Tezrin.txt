@@ -5,6 +5,10 @@ Creation-Date: 2019-08-10T11:15:22-04:00
 ====== Narth Tezrin ======
 Created Saturday 10 August 2019
 
+**Description**
+__Narth is a young-adult human man with bronze skin and a high-and-tight black haircut. He is dressed in foreign-looking, well-kept attire.__
+He stares at Alestra and hangs on her every word.
+
 Narth is a clerk and co-owner at the [[:Lionshield Coster]] in [[:Triboar]]
 He has an adventerous spirit and wants to impress [[:Alaestra Ulgar]] who he has a crush on.
 

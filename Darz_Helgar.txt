@@ -5,6 +5,10 @@ Creation-Date: 2019-08-10T11:04:07-04:00
 ====== Darz Helgar ======
 Created Saturday 10 August 2019
 
+**Description**
+__Darz is an older human man with long, straight blonde hair and a greying blond goatee. He has a stylized barbed-wire tatoo running up the left side of his neck and ear.__
+He speaks slowly.
+
 Darz works in the main campgrounds in [[:Triboar]]
 He is employed by [[:Darathra Shendrel]] to keep the campground clean and welcome newcomers.
 

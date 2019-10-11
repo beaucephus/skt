@@ -7,7 +7,7 @@ Created Wednesday 07 August 2019
 
 [[:Okssort]] and [[Ildmane]] , a pair of mated **fire giants** loyal to [[:Duke Zalto]] , have used a [[:Item:Rod of the Vonindod]] to locate the [[:Vonindod]] fragment burried underneath [[:Triboar]]
 
-__Around noon, the town is shaken from its peacefulness by the screams of women and children, followed by a man yelling, "Giants! Run!" Perplexed residents and shopkeepers emerge from their domiciles in time to see a large rock fall from the sky and crash onto an old cart, splintering the cart and killing the carter. As a cloud of dust erupts from the wreckage, a second rock hits the ground, tumbles through a fence, and slams against the wall of a building, startling a pair of mules tethered to a post nearby. All around you, people begin to shriek and scatter.__
+__The town is shaken from its peacefulness by the screams of women and children, followed by a man yelling, "Giants! Run!" Perplexed residents and shopkeepers emerge from their domiciles in time to see a large rock fall from the sky and crash onto an old cart, splintering the cart and killing the carter. As a cloud of dust erupts from the wreckage, a second rock hits the ground, tumbles through a fence, and slams against the wall of a building, startling a pair of mules tethered to a post nearby. All around you, people begin to shriek and scatter.__
 
 
 ===== The Attack =====
@@ -28,7 +28,7 @@ The giants excavate the [[:Vonindod Fragment]] and leave, while ordering the rem
 After receiving reports of orcs attacking ranches to the southeast, Lord Protector [[:Darathra Shendrel]] sends the Twelve to acertain the extent of the danger and aid the ranchers.
 These attacks were merely distractions, and while the Twelve are way, Triboar has no substantial defense other than a few armed guards in the central keep and the villagers themselves.
 
-Each player can choose an NPC to play during this encounter: [[..\triboar_npc_handout.pdf]]
+__There are several villager NPCs in this encounter__: [[..\triboar_npc_handout.pdf]]
 [[:Darathra Shendrel]]
 [[:Darz Helgar]]
 [[:Narth Tezrin]]

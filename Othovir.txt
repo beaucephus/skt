@@ -5,9 +5,11 @@ Creation-Date: 2019-08-10T12:02:11-04:00
 ====== Othovir ======
 Created Saturday 10 August 2019
 
+__Human male in his late 30s with high-set, sharply defined cheekbones that give him a look as he were perpetually snarling at you.__
+Whenever he smiles, __he bears his teeth which have abnormally sharp and long canines.__ (This comes from his devilish lineage.)
+
 Othovir is a gifted harness-maker who doesn't talk about his family or where he came from.
 He cares about his business, his clients, and his good name.
-
 Othovir belongs to [[:House Margaster]] though he has cut all ties to his family because they secretly worship the arch-devil [[:Asmodeus]] and Othivir wants nothing to do with them.
 
 **ideal** Find what you do well, and do it to the best of your ability.

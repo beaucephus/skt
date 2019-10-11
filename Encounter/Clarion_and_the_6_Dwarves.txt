@@ -7,9 +7,12 @@ Created Sunday 02 June 2019
 
 Party encounters [[:Clarion]] , an **adult silver dragon**, who swoops down out of the sky and releases 6 heavily armored dwarves (**veterans**) from her front claws.
 The dwarves immediately hail the players and lightly interrogate them about [[Encounter:Giants on the Road to Triboar]]
-The dwarves are looking for a particular magic item that was being carried in the caravan.
+The dwarves are from [[:Mirabar]] , and are looking for a particular magic item that was being carried in the caravan.
   Remember the [[:Item:Sanctified Bones]] !!!
 
 If the dwarves see [[:Item:Shalamayne]] they demand it returned.
-[[:Tiffin Foehammer]] argues that her father wielded it and she decided it goes with the party. She damns the dwarves for "letting her parents die".
-After Tiffin's outburst, Clarion will try to convince the other dwarves to leave.
+
+If the party is not negotiating well....
+	[[:Tiffin Foehammer]] argues that her father wielded it and she decided it goes with the party. She damns the dwarves for "letting her parents die".
+
+After Tiffin's outburst or successful negotiating frmo the party, Clarion will try to convince the other dwarves to leave.

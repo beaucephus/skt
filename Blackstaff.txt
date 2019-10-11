@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-10-11T13:13:49-04:00
+
+====== Blackstaff ======
+Created Friday 11 October 2019
+
+**Name**
+Vajra Safahr
+
+**Description**
+Vajra is diminutive, with olive skin, short white hair, and indigo blue eyes. She was young when she became the Blackstaff, but is now an old, spiteful woman.
+
+**Station**
+Blackstaff is the royal advisor to [[:Lady Laeral Silverhand]] , the [[:Open Lord of Waterdeep]] .
+Blackstaff is growing old and wishes to create a clone of herself when she was young, so that when she dies, she can continue in her station.
+
+**Ideal**
+I will steer Waterdeep to prosperity and strength in this life and the next.
+**Bond**
+I am trying to create a clone to replace my body when I die.
+**Flaw**
+Due to my lifestyle, I sometimes act without compassion on matters I deem of importance to Waterdeep.

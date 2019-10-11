@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-10-11T15:51:43-04:00
+
+====== Six Windows at Night ======
+Created Friday 11 October 2019
+
+Early in the night, Tolmara will noisily spy on the party through the keyholes of their rooms.
+Later in the night, the party hears a scuffling sound coming from the ceiling directly over their room.
+The attic space is unlocked and shows no signs of entry even with thick dust covering the floors. 
+If the party search the attic
+	They find a large, wooden barrel in the space over their room. The dust of the attic looks to be a little disturbed around the barrel.
+The barrel contains the bones a human male.
+
+If the bones are touched
+	They animate, turning into a skeleton for 1 round.
+		The skeleton is unarmed and deals 1 bludgeoning damage on a hit.
+	This effect repeats unless the skeleton is reduced to 0 hit points
+	
+The bones are the remains of Tolmara's late husband, **Mirak**.
+Tolmara drugged him and sealed him in this barrel with a poinsonous snake.
+Mirak professes not to know why she killed him. (DC 13 insight to realize he's hiding something)
+
+Tolmara is too deranged and insane to remember the incident or circumstances leading up to it.
+A restoration spell restores her sanity and she reveals that she murdered him because he was unfaithful to her.
+	She is overcome with real grief
+	She is afraid she'll be hanged and offers the party a [[:Item:Driftglobe]] if they promise not to report her crime.
+
+If the party reports Tolmara's crime to Darathra
+	The lord protector has Tolmara arrested and imprisoned pending a trial.
+	Darathra also notifies Mirak's two brothers who work on a nearby farm.
+	They give the party a [[Item:Driftglobe]] if Tolmara hasn't already given it.
+

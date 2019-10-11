@@ -5,6 +5,9 @@ Creation-Date: 2019-08-10T11:11:04-04:00
 ====== Darathra Shendrel ======
 Created Saturday 10 August 2019
 
+__Darathra is a mid-40s looking human woman with a wide build and sharp facial features. She stares you down with narrowly opened eyes as you enter.__
+Darathra stares a lot.
+
 Darathra is the Lord Protector of Triboar and a secret agent of the [[:Harpers]] 
 Darathra has sworn an oath to defend Triboar, and she takes her duty very seriously.
 
