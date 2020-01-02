@@ -5,6 +5,9 @@ Creation-Date: 2019-08-10T11:54:53-04:00
 ====== Urgala Meltimer ======
 Created Saturday 10 August 2019
 
+**Description**
+__Urgala is an older woman with chocolate complexion and curly black hair that sports several white streaks. She limps slightly as she walks with a cane.__
+
 A retired adventurer, Urgala owns a respectable inn, the Northshield House, and she doesn't want to see it or her neighbors' homes destroyed. She has no tolerance for monsters or bullies.
 
 **ideal** We live in a violent world, and sometimes violence is necessary for survival.

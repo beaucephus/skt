@@ -18,8 +18,9 @@ If the bones are touched
 	This effect repeats unless the skeleton is reduced to 0 hit points
 	
 The bones are the remains of Tolmara's late husband, **Mirak**.
-Tolmara drugged him and sealed him in this barrel with a poinsonous snake.
-Mirak professes not to know why she killed him. (DC 13 insight to realize he's hiding something)
+If the party finds some way to commune with him
+	Tolmara drugged him and sealed him in this barrel with a poinsonous snake.
+	Mirak professes not to know why she killed him. (DC 13 insight to realize he's hiding something)
 
 Tolmara is too deranged and insane to remember the incident or circumstances leading up to it.
 A restoration spell restores her sanity and she reveals that she murdered him because he was unfaithful to her.

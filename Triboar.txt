@@ -33,6 +33,8 @@ __A cottage stands in the east corner of the lot.__ [[:Darz Helgar]] approaches 
 ===== 6. The Lionshield Coster =====
 __This building appears newly refurbished. Above the entrance hangs a polished shield emblazoned with the head of a stylized golden lion on a blue background.__
 
+Inside: __The inside of this building is well kept and cleanly. The windows appear freshly wiped and the floors, freshly waxed. General goods and armaments of various assortments line the shelves and walls. A set of stairs leads up to the second floor.__
+
 The Lionshield Coster is not well-liked in Triboar. Triboar and [[:Yartar]] are trading rivals.
 Few locals visit. The store caters to caravans and out-of-towners.
 The store is run by a pair of business partners [[:Narth Tezrin]] and [[:Alaestra Ulgar]]
@@ -60,7 +62,7 @@ __Creaking, decrepit wooden rooming house.__
 **Inside**
 __The air is chilling and drafts flow freely throughout the house.__
 
-The rooming house is run by **Tolmara Hysstryn,** a deranged middle-aged woman.
+The rooming house is run by **Tolmara Hysstryn,** __a seemingly delusional, but harmless middle-aged woman. She speaks slowly and slurs some words.__ (Anyone proficient in medicine can tell these are signs of a stroke.)
 She'll offer to allow the party to stay for extremely cheaply.
 [[:Encounter:Six Windows at Night]]
 

@@ -71,7 +71,8 @@ In [[:Red Larch]]
 
 ===== Session 6 =====
 Journey to [[Triboar]] 
-[[:Westbridge]] run [[Encounter:Clarion and the 6 Dwarves]] 
+[[:Westbridge]] 
+	bartering successfully with the urn completes a milestone.
 		
 **level 5!!!**
 [[:Triboar]]

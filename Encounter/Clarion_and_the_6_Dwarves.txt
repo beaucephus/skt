@@ -13,6 +13,7 @@ The dwarves are from [[:Mirabar]] , and are looking for a particular magic item 
 If the dwarves see [[:Item:Shalamayne]] they demand it returned.
 
 If the party is not negotiating well....
-	[[:Tiffin Foehammer]] argues that her father wielded it and she decided it goes with the party. She damns the dwarves for "letting her parents die".
+  If Tiffin is with them
+	[[:Tiffin Foehammer]] might argue that her father wielded it and she decided it goes with the party. She damns the dwarves for "letting her parents die".
 
 After Tiffin's outburst or successful negotiating frmo the party, Clarion will try to convince the other dwarves to leave.

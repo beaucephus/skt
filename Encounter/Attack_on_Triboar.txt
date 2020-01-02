@@ -55,9 +55,9 @@ Okssort carries a [[:Item:Giant Bag of Holding]] containing
   haunch of meat
   giant-sized waterskin(full) 100pounds
 
-Ildmane wears a ruby pendant necklace (750gp)
+Ildmane wears a ruby pendant necklace (750gp) and carries the [[:Item:Rod of the Vonindod]]
 1d20gp per orog killed
-One of the NPCs will offer the party a [[:Item:Alabaster Figurine of Find Familiar (Hunting Dog)]] in thanks for surely saving the town.
+
 If the players obtain the [[:Vonindod Fragment]] or [[:Item:Rod of the Vonindod]] both [[:Alaestra Ulgar]] and [[:Urlam Stockspool]] each offer to buy it for 5,000gp (paid in 500gp gemstones), though its actual value is 3 times as much.
 
 

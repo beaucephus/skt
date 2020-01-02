@@ -12,3 +12,8 @@ __This 4 foot long adamantine rod wieghs over 100 pounds. The rod has two prongs
 The rod has 10 charges and regains 1d6 + 4 of its expended charges daily at dawn.
 As an action, you can grasp the rod by the handle and expend 1 charge to cast the Locate Object spell from it.
 When the rod is used to detect objects made of adamantine, such as fragments of the [[:Vonindod]] , its range increases to 10 miles.
+
+[[..\Rod_of_the_Vonindod_1577998003012.png]]
+
+{{.\Rod_of_the_Vonindod_1577998003012.png}}
+
