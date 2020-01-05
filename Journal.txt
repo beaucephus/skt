@@ -69,14 +69,25 @@ In [[:Red Larch]]
 	Party spread rumors and setup a sting opertions, several Blackstaff operatives attacked and the bard, [[:Rasa Dantor]] escaped
 **Stella and Val level 5!!!**
 
-===== Session 6 =====
+===== Session 6 2020/01/04 =====
 Journey to [[Triboar]] 
 [[:Westbridge]] 
-	bartering successfully with the urn completes a milestone.
-		
-**level 5!!!**
+	Nana picked up [[:Item:Wand of Enemy Detection]] 
+	Nana caroused the night away and woke in an alley next to a dead body.
 [[:Triboar]]
-On the player's second day in Triboar run [[:Encounter:Attack on Triboar]]
+	Party completed the jouney to deliver [[:Darthag Ulgar]] 's remains to [[:Alaestra Ulgar]]
+	**Rogar and Nana level 5!!! Braddock level 4!!!**
+Players successfully defeated [[:Encounter:Attack on Triboar]]
+	**Braddock level 5!!!**
+
+
+===== Session 7 =====
+Aftermath of the Attack on Triboar.
+[[:Ghelryn Foehammer]] is badly injured but takes in [[:Tiffin Foehammer]]
+[[:Othovir]] is dead
+[[:Darathra Shendrel]] [[:Narth Tezrin]] [[:Urgala Meltimer]] [[:Darz Helgar]] all want to talk to the party.
+
+Start thinking about when to get [[:Harshag]] into the picture.
 
 
 ===== Threads =====

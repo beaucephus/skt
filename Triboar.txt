@@ -21,7 +21,7 @@ Northshield House (nice), Six Windows (cheap)
 ===== 1. Market Square and Tower =====
 __The center of Triboar, where the Long Road meets the Evermoor Way, is a huge open space used as a market by local famers and visiting peddlers. Dominating the space is the two-story tower of the lord protector, a simple stone keep that leans decidely to the east. Hanging above the entrance is the dusty banner of the lord protector, which depicts three black boars running toward the head of the banner on a blood-red field.__
 
-Darathra Shendrel's office is in the tower
+Darathra Shendrel's office is in the tower.
 She can muster 50 militia in the night, and 300 by noon, the next day.
 She attempts to draft mercenaries and adventerurs to help defend the town.
 
@@ -51,7 +51,7 @@ Aleastra and Narth each carries a key to the strongbox.
 __This inn appears stately, clean, and quiet.__
 The proprietor, [[:Urgala Meltimer]] is a retired adventurer. She warns armed guests to keep their words civil and their weapons sheathed.
 Urgala has 3 **mastiffs** that sleep in the ground floor common room, and she employs a staff of 6 loyal, well-payed **commoners**.
-The rooms are expensive.
+The rooms are expensive. 2GP per person per day.
 
 ===== 11. Othovir's Harness Shop =====
 A skilled harness-maker [[:Othovir]] lives and works here. He __makes the finest elk-skin harnesses in the Dessarin Valley.__

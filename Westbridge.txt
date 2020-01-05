@@ -9,14 +9,16 @@ A village that is __strung out for almost a mile__ along the [[:Long Road]] betw
 
 **History.** Westbridge is so-named  because it is west of [[:Stone Bridge]]
 
-Local Inn is called the Harvest Inn.  The Inn's proprietor is the affable Herivin Dardragon (CG male strongheart halfling **commoner**).
-Herivin is curly-haired and collects and re-sells paintings and statuettes of questionable taste.  His current stock lines the walls, halls, and bedrooms of his inn.
+Local Inn is called the Harvest Inn. 
+	__The Inn's ouward appearence is guady and extravagant. The wood panelling seems to be made of some sort of expensive hard-wood and the knobs, bolts and hinges are solid gold!!! __
+ The Inn's proprietor is the affable Herivin Dardragon (CG male strongheart halfling **commoner**).
+__Herivin is curly-haired and collects and re-sells paintings and statuettes of questionable taste.  His current stock lines the walls, halls, and bedrooms of his inn.__
 
 He tries to pedal a fake Figuring of Wondrous Power (Bronze Griffon) to the party.  He starts with a story and 5000gp, but offers the players a discount because they "look so sharp", 2000gp.
 	The most perceptive member of the party realizes the item is fake.
 	
 If the party offers to sell Blackstaff's burial urn
-	Herivin will offer 150GP for it at first, admonishing it and pointing out minor scuffs and scratches.
+	Herivin will offer 20GP for it at first, admonishing it and pointing out minor scuffs and scratches.
 	Herivin has a  [[:Item:Wand of Enemy Detection]] resting on a low pedastal that is too big for it , but he doesn't know exactly what it is or how to work it.
 		Any party member trained in Arcana immediately recognizes it for what it is.
 		Herivin will trade the Urn for the wand since "It fits the pedastal better."
