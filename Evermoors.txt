@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-13T19:06:08-04:00
+
+====== Evermoors ======
+Created Friday 13 March 2020
+
+__Vast, unsettled area of fog-shrouded hills, cold bogs, rocky ridges, and small peaks.__
+
+**survival:** ettins, trolls, and witches dwell here in great numbers.
+
+If the party ever gets close to the Evermoors, the most perceptive member spots a castle that seems to float on the clouds about a mile over the deepest parts of the bog land.
+
+It is [[:Lyn Armaal]] , [[:Countess Sansuri]] 's float cloud castle.
+

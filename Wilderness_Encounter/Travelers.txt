@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-13T18:46:35-04:00
+
+====== Travelers ======
+Created Friday 13 March 2020
+
+The characters encounter one or more travelers with a tale to tell:
+
+**Forest: **6 hunters and trappers who heard something big moving through the forest and decided to run.
+  maybe a jeuvenile dinosaur such as **ankylosaurus ** or young dragon
+
+**Grassland:** 
+  5 farmers whose homestead was attacked by hill giants
+  1d4 ranchers on riding horses who are heading to a nearby settlement to warn it about giants in the area.
+	maybe the ranchers are really **bandits**.
+
+**Hills/Moors:** 1d4 shepherds guiding the remnants of their flock to safety after a harrowing hill giant encounter
+
+**Mountains: **1d4 prospectors or miners who had a close call with some frost giants or stone giants and were forced to leave behind their mining gear, supplies, and treasure.
+
+**Road/Trail: **
+  3d6 peasants fleeing thier homes after a frost, hill, or stone giant attack
+  An angry mob of 6d6 peasants looking to avenge their dead loved ones after a cloud or fire giant attack
+  A lone minstrel selling magical gear who is relocating to a safer settlement
+
+**Sea:**
+  A friendly vessel carrying 6d6 crew and passengers who saw a cloud giant castle or a frost giant greatship
+  1d4 survivors floating on debris after thier ship was sunk by a frost giant greatship
+
+**Tundra:**
+  1d4 hunters or trappers who narrowly escaped a lone fire or frost giant but were forced to leave a companion behind
+

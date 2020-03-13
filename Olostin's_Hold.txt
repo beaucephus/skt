@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-13T19:43:30-04:00
+
+====== Olostin's Hold ======
+Created Friday 13 March 2020
+
+__Small fortified keep standing on the northern side of the Evermoor Way between Yartar and Everlund.__
+
+Village includes a small market, smithy, caravan supplier and an inn called the Headless Troll.
+
+If the party decides to stay the night
+  Pick one of the traverlers options in [[:Wilderness Encounter:Travelers]]

@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-13T18:36:35-04:00
+
+====== Hand of Yartar ======
+Created Friday 13 March 2020
+
+All-female thieve's guild based in [[:Yartar]]

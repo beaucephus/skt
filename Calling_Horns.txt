@@ -1,0 +1,40 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-13T19:02:15-04:00
+
+====== Calling Horns ======
+Created Friday 13 March 2020
+
+**history:** Calling Horns was nothing more than a trailside inn until a few years ago when [[:Tamalin Zoar]] , a famous adventurer and noble bought the establishment and retired here.
+
+__Small village build mostly of mud-brick houses with thatched roofs.__
+__Calling horns stands where Jundar's Pass meets the Evermoor Way. The intersection in the center of town is marked by a cairn fo weathered and lichen-covered ettin and troll skulls that have cemented together to form quite a sturdy structure.__
+
+__The Calling Horn Inn is the only stone building, looming large over the village on a small bluff to the south.__
+__The inn is surrounded by tall old trees and smells piney, like a well-aged scotch.__
+
+The inn is in fact famous for it's scotches and ales and sports quite the collection.
+
+Tamalin charges the local farmers and traders tithes. This is really a protection racket.
+  However most of the villagers are happy to pay since Tamalin does keep the village relatively safe from the **trolls** and other beasts that constantly pour out of the [[:Evermoors]]
+
+===== Encounter =====
+If the party stays the night, they are awakened by a scritch-scratching racket.
+2 trolls are trying to claw their way into the stables to feast on the horses inside.
+
+The trolls are abnormaly hungry and fight to the death.
+One of them has a white wolf's head gowing out of its shoulder. 
+  The wolf's head is a winter wolf's head and does it's cold breath on the troll's initiative
+	Cold Breath (Recharge 5-6): The wolf exhales a blast of freezing wind in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+
+
+==== Developments ====
+Once the trolls are defeated, Tamalin reveals to the characters that troll attacks are becoming more common.
+  She offers to give the party a letter that will grant the party good favor with the [[:Hand of Yartar]]  in [[:Yartar]] or [[:Harpers]] in [[:Everlund]] if the party agrees to find out why the trolls are getting so aggressive and put a stop to it.
+
+The trolls are being rounded up and enslaved by a female fire giant named Zaastrid.
+  If the players explor the evermoors, after some encounters with trolls/etins, they find Zaastrid single-handidly brow-beating and chaining up 6 trolls.
+  The trolls show obvious signs of fear and anger at Zaastrid as she leads them eastward.
+
+If freed or convinced otherwise, the trolls will quickly band together and turn on Zaastrid who takes 3 of them with her.
+  The remaining 3 attack the party, hungry for meat. 
