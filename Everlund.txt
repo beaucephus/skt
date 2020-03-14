@@ -5,3 +5,40 @@ Creation-Date: 2020-03-13T19:48:35-04:00
 ====== Everlund ======
 Created Friday 13 March 2020
 
+__Situated on the banks of the Rauvin River, Everlund is one of the North's most active mercantile communities. A thick stone wall encloses the entire city.__
+__Gates line the wall in several places, once such gate lies directly before you. Beyond the now open gate, you see a wide city lane that cuts a direct path through to the center of the city.__
+
+
+Once inside the center (Bell Market) : __5 total lanes cut straight paths out to the city walls like the spokes of a wheel. The streets are clean and well patrolled by the city's considerable standing army.__ (They keep a large army since they just recently left the Lord's Alliance)
+__The buildings all around are stately and well-maintained. There are no slums to be seen for the entire expanse of the city.__
+__The most prominent of the edifices in Everlund is a keep of black stone that rises from one of the higher knolls.__
+
+At the Rauvin River: __Two strong-looking stone bridges span the Rauvin, which has parks and gardens along its shores.__
+
+
+===== Moongleam Tower =====
+__Black stone structure consisting of 4 cylindrical towers joind together by thin passages at several different levels. The keep is surrounded by a currently dry moat, though sleuce gates are readily visible and a small stream of water can be seen trickling out of each.__
+__Crowining the roof is an open turret, where a 10-foot-wide mirror shaped like a crescent moon stands.__
+
+**history:** Moongleam tower is a [[:Harpers]] stronghold, in fact it is the largest and strongest Harper base in all the north.
+
+Master of the tower is [[:Moonlord Daviana Yalrannis]]
+The tower is also manned constantly by a few dozen mages, swords-for-hire, maids, and butlers. It also sports a healthy tressym population who keep the tower walls and grounds clean and clear of pests.
+
+[[:Krowen Valharrow]] is a poweful harper wizard who is fond of the tressyms and keeps and cares for them.
+  If any member of the party shows interest, he will bequeth 1, __but no more__ to the party. DC 17 animal handling or party member with highest charisma.
+	The tressym can fly, but otherwise acts like an ordinary house cat. It will obey the commands of the bonded party member.
+
+The teleportation circle, part of the [[:Inner Circles]] is in a special room near the top of the tower. __Glass lines the tower walls floor-to-ceiling providing a birds-eye view of the entire city and surrounding countryside.__
+
+
+===== Politics =====
+Until recently Everlund was a member of the [[:Lord's Alliance]]
+The Zoar family have recently been granted a position in the City's council of 5 and are pushing around their weight.
+  If the party has earned favor with [[:Tamalin Zoar]] , they can entreat the Zoar family, specificaly [[:High Captain Horix Zoar]] for a favor
+	He can arrange audiences with other nobles in this city or elsewhere, or as an alternative offers the party a spell scroll of Raise Dead.
+
+===== Notable Links =====
+[[:Encounter:Everlund Teleportation Network Introduction]]
+[[:Inner Circles]]
+
