@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-16T11:30:06-04:00
+
+====== Mirabar ======
+Created Monday 16 March 2020
+
+__The marble city of Mirabar sits atop a knoll on the north side fo the Mirar River like an unassailable fortress, enclosed on all sides by sloped outer walls as wide at the base as a city block.__
+__Even the docks down by the river have battlements and fortifications.__
+
+Inside the city:
+__The population is mostly human.__
+__Marked and labeled tunnel entrances dot the streets, leading further down into the earth beneath.__
+
+Under the city:
+__A second city thrives under the surface. Here you find most of the inhabitants are dwarven. Very few humans venture down here for more than a few hours at a time.__
+__The underground is extremely hot and the air is heavy with smoke and ash.__
+
+DC 10 (+5 per hour spent underground) CON save or gain exhaustion while under the city.
+
+
+===== Harper Teleportation Network =====
+Mirabar is a node on the harper teleportation network.
+[[:Inner Circles]]

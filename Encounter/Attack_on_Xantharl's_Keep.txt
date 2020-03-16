@@ -30,5 +30,14 @@ Kaltivar carries a sack containing
 	107gp of coin.
 	A giant-sized bone comb
 	3 adult white dragon scales
-	[[:Item:Deadeye]]
+Weevil or Kaltivar
+[[:Item:Deadeye]]
 
+
+===== The Aftermath =====
+Whether the bugbears are successful or not, their remaining members attempt to flee and report to Kaltivar.
+Kaltivar and the goblinoid horde only execute their attack for an hour, making a slow, staged, event of the whole thing.
+
+Arzastra can inform the players that they can collect the bounty on the Weevil with the  commander of the garrison, Narbeck Horn.
+  Narbeck has a sending stone which he uses to commune with the Marchion of Mirabar.
+  He will take the Weevil into his custody and pay the party the 5000GP bounty if the Weevil is delivered alive.

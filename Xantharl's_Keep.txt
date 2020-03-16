@@ -5,5 +5,20 @@ Creation-Date: 2020-03-13T19:42:18-04:00
 ====== Xantharl's Keep ======
 Created Friday 13 March 2020
 
+__This fortified keep and village stands in the middle of nowhere, high on a crag on a notoriously dangerous stretch of the Long Road.__
+__An outer wall with heavy crossbows mounted to its battlements encloses a keep sheltered by a steep roof.__
+
+Inside:
+__Surrounding the keep are dozens of narrow stone houses with heavy shutters and steep roofs of their own.__
+__Visible from both gates, a large inn and roadhouse with stables attached looms over the other smaller buildings in the village.__
+
+===== Falling Orc Inn and Tavern =====
+Inside the inn:
+__The inside of the inn looks more like a barracks than a typical inn. Several dozen soldiers, unarmored, are sitting on long benches eating hard meat and drinking.__
+__The soldiers outnumber the villagers here 2 to 1.__
+__The barkeep, a hulking half-ogre, welcomes your group as you enter.__
+
+The patron and barkeep of the inn is a half-ogre female named Arzastra
+
 ===== Run =====
 [[:Encounter:Attack on Xantharl's Keep]]

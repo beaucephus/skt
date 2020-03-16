@@ -85,10 +85,12 @@ Players successfully defeated [[:Encounter:Attack on Triboar]]
 Aftermath of the Attack on Triboar.
 [[:Ghelryn Foehammer]] is badly injured but takes in [[:Tiffin Foehammer]]
 [[:Othovir]] is dead
-[[:Darathra Shendrel]] [[:Narth+ Tezrin]] [[:Urgala Meltimer]] [[:Darz Helgar]] all want to talk to the party.
+[[:Darathra Shendrel]] [[:Narth+ Tezrin]] [[:Urgala Meltimer]] [[:Darz Helgar]] all gave quests to the party.
+Party picked up horse and cart with harnesses and went north to [[:Xantharl's Keep]]
+Fought some Uthgardt barbarians on the way
 
-
-
+===== Session 8 =====
+[[:Xantharl's Keep]]
 
 
 ===== Threads =====

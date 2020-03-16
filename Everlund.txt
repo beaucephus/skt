@@ -29,6 +29,8 @@ The tower is also manned constantly by a few dozen mages, swords-for-hire, maids
   If any member of the party shows interest, he will bequeth 1, __but no more__ to the party. DC 17 animal handling or party member with highest charisma.
 	The tressym can fly, but otherwise acts like an ordinary house cat. It will obey the commands of the bonded party member.
 
+
+===== Harper Teleportation Network =====
 The teleportation circle, part of the [[:Inner Circles]] is in a special room near the top of the tower. __Glass lines the tower walls floor-to-ceiling providing a birds-eye view of the entire city and surrounding countryside.__
 
 
@@ -38,7 +40,8 @@ The Zoar family have recently been granted a position in the City's council of 5
   If the party has earned favor with [[:Tamalin Zoar]] , they can entreat the Zoar family, specificaly [[:High Captain Horix Zoar]] for a favor
 	He can arrange audiences with other nobles in this city or elsewhere, or as an alternative offers the party a spell scroll of Raise Dead.
 
-===== Notable Links =====
+
+===== Encounters =====
 [[:Encounter:Everlund Teleportation Network Introduction]]
-[[:Inner Circles]]
+
 
