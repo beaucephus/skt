@@ -5,36 +5,49 @@ Creation-Date: 2019-05-25T11:06:44-04:00
 ====== Journal ======
 Created Saturday 25 May 2019
 
-===== Session 0 19/06/01 =====
-[[Ground Rules]]
-[[Item:Morak's Letter]]
-[[Encounter:Party First Meeting]]
-[[Encounter::Goblin Ambush]]
-**Level 2!!!**
-Start [[Dungeon:Nightstone]]
-Fought worgs in the square (area 3)
-Took a long rest in watchtower near the gate. Set back out after dark and cleared the temple (area 5)
-After clearing the temple the party set a trap for nearby goblins, stopping the bell and waiting for the goblins to investigate. The goblins from areas 4c and 4g are duped and fall for the trap
+===== Threads =====
+Start thinking about when to get [[:Harshag]] into the picture.
+Find a way to get Nana Tana's sister into the story.
+
+===== Session 8 =====
+[[:Xantharl's Keep]]
+
+===== Session 7 2020/03/14 =====
+Aftermath of the Attack on Triboar.
+[[:Ghelryn Foehammer]] is badly injured but takes in [[:Tiffin Foehammer]]
+[[:Othovir]] is dead
+[[:Darathra Shendrel]] [[:Narth+ Tezrin]] [[:Urgala Meltimer]] [[:Darz Helgar]] all gave quests to the party.
+Party picked up horse and cart with harnesses and went north to [[:Xantharl's Keep]]
+Fought some Uthgardt barbarians on the way
+
+===== Session 6 2020/01/04 =====
+Journey to [[Triboar]] 
+[[:Westbridge]] 
+	Nana picked up [[:Item:Wand of Enemy Detection]] 
+	Nana caroused the night away and woke in an alley next to a dead body.
+[[:Triboar]]
+	Party completed the jouney to deliver [[:Darthag Ulgar]] 's remains to [[:Alaestra Ulgar]]
+	**Rogar and Nana level 5!!! Braddock level 4!!!**
+Players successfully defeated [[:Encounter:Attack on Triboar]]
+	**Braddock level 5!!!**
 
 
-===== Session 1 19/06/08 =====
-Start in temple (area 5) at night.
-cleared Lionshiled Coster (area 9)
-cleared windmill (area 10)
-met with guards at keep
-defeated [[:Encounter:Seven Snakes arrive at Nightstone]]
-  Xolkin dead, Kella contained in keep
-**Level 3!!!**
+===== Session 5 19/09/28 =====
+Setting out from Amphail with Tiffin.
+Lord Roaringhorn is grateful to the party, especially [[:Valriel]] who scored the killing blow, and offers the party a favor whenever needed.
+In [[:Red Larch]]
+	Found Niceman's shop and murder. Discovered it was purpotrated by [[:Blackstaff]] and Blackstaff is looking for the people who destroyed her clone.
+	Party spread rumors and setup a sting opertions, several Blackstaff operatives attacked and the bard, [[:Rasa Dantor]] escaped
+**Stella and Val level 5!!!**
 
-===== Session 2 19/06/29 =====
-Nighttime, heavy fog rolling in, visibility 10 feet
-[[:Dungeon:Nightstone]]
-Set [[:Kella Darkhope]] free in exhange for information on the [[:Snail]] in [[:Daggerford]]
-Long rest
-  The goblins leave and take all their loot which is now in [[:Boss Hark]] 's hoard
-  Fresh foot traffic mark the goblins' paths
-[[Dungeon:Dripping Caves]]
-  Cleared central cavern and boss Hark's Cave
+===== Session 4 19/08/07 =====
+Messed with BlackStaff's clone in [[:Rassalantar]]
+  Add [[:Wilderness Encounter:Blackstaff's hit squad]] 
+Stella stole Blackstaff's clone vase. (2000gp)
+Stella found a scroll of Teleportation circle.
+Stella found some magic gizmos (100gp, 300gp if sold as components for teleportation magic)
+[[:Rassalantar]] has a teleportation circle now, but the party destroyed it!
+In Amphail, stayed for feast, rescued [[:Tiffin Foehammer]] , killed giant, found [[:Item:Shalamayne]]
 
 ===== Session 3 19/07/07 =====
 [[:Encounter:Aftermath of Boss Hark's Death]]
@@ -50,50 +63,34 @@ Journey to [[Triboar]]
 			[[:Valriel]] bought a [[:Item:Ring of Shielding]]
 			[[:Valriel]] conducted research on cloud giants, discovering [[:Zephiros]]
 
+===== Session 2 19/06/29 =====
+Nighttime, heavy fog rolling in, visibility 10 feet
+[[:Dungeon:Nightstone]]
+Set [[:Kella Darkhope]] free in exhange for information on the [[:Snail]] in [[:Daggerford]]
+Long rest
+  The goblins leave and take all their loot which is now in [[:Boss Hark]] 's hoard
+  Fresh foot traffic mark the goblins' paths
+[[Dungeon:Dripping Caves]]
+  Cleared central cavern and boss Hark's Cave
 
-===== Session 4 19/08/07 =====
-Messed with BlackStaff's clone in [[:Rassalantar]]
-  Add [[:Wilderness Encounter:Blackstaff's hit squad]] 
-Stella stole Blackstaff's clone vase. (2000gp)
-Stella found a scroll of Teleportation circle.
-Stella found some magic gizmos (100gp, 300gp if sold as components for teleportation magic)
-[[:Rassalantar]] has a teleportation circle now, but the party destroyed it!
+===== Session 1 19/06/08 =====
+Start in temple (area 5) at night.
+cleared Lionshiled Coster (area 9)
+cleared windmill (area 10)
+met with guards at keep
+defeated [[:Encounter:Seven Snakes arrive at Nightstone]]
+  Xolkin dead, Kella contained in keep
+**Level 3!!!**
 
-In Amphail, stayed for feast, rescued [[:Tiffin Foehammer]] , killed giant, found [[:Item:Shalamayne]]
+===== Session 0 19/06/01 =====
+[[Ground Rules]]
+[[Item:Morak's Letter]]
+[[Encounter:Party First Meeting]]
+[[Encounter::Goblin Ambush]]
+**Level 2!!!**
+Start [[Dungeon:Nightstone]]
+Fought worgs in the square (area 3)
+Took a long rest in watchtower near the gate. Set back out after dark and cleared the temple (area 5)
+After clearing the temple the party set a trap for nearby goblins, stopping the bell and waiting for the goblins to investigate. The goblins from areas 4c and 4g are duped and fall for the trap
 
-===== Session 5 19/09/28 =====
-Setting out from Amphail with Tiffin.
-Lord Roaringhorn is grateful to the party, especially [[:Valriel]] who scored the killing blow, and offers the party a favor whenever needed.
-In [[:Red Larch]]
-	Found Niceman's shop and murder. Discovered it was purpotrated by [[:Blackstaff]] and Blackstaff is looking for the people who destroyed her clone.
-	Party spread rumors and setup a sting opertions, several Blackstaff operatives attacked and the bard, [[:Rasa Dantor]] escaped
-**Stella and Val level 5!!!**
-
-===== Session 6 2020/01/04 =====
-Journey to [[Triboar]] 
-[[:Westbridge]] 
-	Nana picked up [[:Item:Wand of Enemy Detection]] 
-	Nana caroused the night away and woke in an alley next to a dead body.
-[[:Triboar]]
-	Party completed the jouney to deliver [[:Darthag Ulgar]] 's remains to [[:Alaestra Ulgar]]
-	**Rogar and Nana level 5!!! Braddock level 4!!!**
-Players successfully defeated [[:Encounter:Attack on Triboar]]
-	**Braddock level 5!!!**
-
-
-===== Session 7 2020/03/14 =====
-Aftermath of the Attack on Triboar.
-[[:Ghelryn Foehammer]] is badly injured but takes in [[:Tiffin Foehammer]]
-[[:Othovir]] is dead
-[[:Darathra Shendrel]] [[:Narth+ Tezrin]] [[:Urgala Meltimer]] [[:Darz Helgar]] all gave quests to the party.
-Party picked up horse and cart with harnesses and went north to [[:Xantharl's Keep]]
-Fought some Uthgardt barbarians on the way
-
-===== Session 8 =====
-[[:Xantharl's Keep]]
-
-
-===== Threads =====
-Start thinking about when to get [[:Harshag]] into the picture.
-Find a way to get Nana Tana's sister into the story.
 
