@@ -7,6 +7,8 @@ Created Friday 13 March 2020
 
 __The fortified city of Yartar stands on the east bank of the Desarin River. On the west bank is a walled citadel, and between them spanning the river is a large stone bridge.__
 
+Inside: __Yartar is a bustling mercantile metropolis. Store and shops line every block and smelly, brightly-dressed individuals of myriad races crowd the main streets. You get the sense you could find anything here, if only you knew where to look.__
+
 Once on the eastern side of the gate: __While the western road is laid stone, the road eastward out of the city is naught but dirt and gravel.__
 
 Travelers must pass through inspections to cross the bridge.

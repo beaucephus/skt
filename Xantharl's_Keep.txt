@@ -14,11 +14,12 @@ __Visible from both gates, a large inn and roadhouse with stables attached looms
 
 ===== Falling Orc Inn and Tavern =====
 Inside the inn:
-__The inside of the inn looks more like a barracks than a typical inn. Several dozen soldiers, unarmored, are sitting on long benches eating hard meat and drinking.__
+__The inside of the inn looks more like a barracks than a typical inn. Several dozen soldiers, unarmored, are sitting on long benches forcing down stifff meat and even stiffer drinks. The stench of body odor and alcohol is overbearing.__
 __The soldiers outnumber the villagers here 2 to 1.__
 __The barkeep, a hulking half-ogre, welcomes your group as you enter.__
 
-The patron and barkeep of the inn is a half-ogre female named Arzastra
+The patron and barkeep of the inn is an old half-ogre female named Arzastra
+Arzastra's skin is like old wrinkled leather, half her teeth are missing. One yellowed tusk juts out from her bottom jaw. She chain-smokes and speaks with a rapsy tone.
 
 ===== Run =====
 [[:Encounter:Attack on Xantharl's Keep]]

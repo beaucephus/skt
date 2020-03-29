@@ -11,13 +11,14 @@ The half-ogre proprietor of the Falling Orc inn and tavern, Arzastra has recentl
 She gave Larg food, shelter, and is paying him a few copper to keep the stables clean.
 She thinks Larg is an unlucky adventurer who's party was killed by an avalanche while hunting a red dragon in the [[:Valley of Khedrun]]
 
-In fact, Larg is Worvil "the Weevil" Forkbeard, a wanted criminal.
+In fact, Larg is [[:Worvil "the Weevil" Forkbeard]] , a wanted criminal.
+Worvil recognizes [[:Tana Willowwhisper]] but keeps calling her "Frana". He thinks she is the woman who sent him and his team on his last job, [[:Frana Willowwhisper]]
 He has the stats of a dwarf **bandit captain**
 
 ===== The Attack =====
-A lone frost giant named Kaltivar, an older giant with grey skin and a scoliose, stages an attack on the west side of the gate.
+A lone stone giant named Kaltivar, an older giant with pale-grey skin and a scoliose, stages an attack on the west side of the gate.
 This staged attack is a diversion for the main objective which is to capture the Weevil.
-  The Weevil had a shaky alliance with [[:Jarl Storvald]] until he double crossed him during a scheduled rain on [[:Bryn Shander]] .
+  [[:Frana Willowwhisper]] convinced the stone giants that [[:Worvil the Weevil Forkbeard]] is to blame for the [[:Shattering of the Ordening]] .
 
 A small army of 50 **goblins,** 10 **hobgoblins** and 5 **ogres** equipped with goblin huckers stage an attack on the western gate.
 10 **bugbears** stealthily attempt to enter the eastern gate and capture the Weevil.

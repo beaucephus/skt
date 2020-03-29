@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-29T13:24:02-04:00
+
+====== Conch of Teleportation ======
+Created Sunday 29 March 2020
+
+This ordinary, albeit rather large, conch shell has been inscribed with a rune. The conch measures 2.5 feet long and weighs 20 pounds.
+
+**history:** The run is an uvar rune. It signifies storms. 
+
+As an action, you can cast teleport by blowing into the shell. The desitination is always [[:Maelstrom]]
+This effect recharges at dawn.

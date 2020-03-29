@@ -6,19 +6,26 @@ Creation-Date: 2019-05-25T11:06:44-04:00
 Created Saturday 25 May 2019
 
 ===== Threads =====
-Start thinking about when to get [[:Harshag]] into the picture.
-Find a way to get Nana Tana's sister into the story.
+[[:Frana Willowwhisper]] and the party need to unite so she can tell them about the [[:Shattering of the Ordening]] and the location of the [[:Eye of the All-Father]]
+Find a way to give [[:Valriel]] the chance to gain power, maybe a lordship over a keep including a batallion of soldiers-for-hire?
 
-===== Session 8 =====
+===== Session 9 =====
 [[:Xantharl's Keep]]
+Possibly Stella and Val level 6
 
-===== Session 7 2020/03/14 =====
+===== Session 8 2020/03/14 =====
 Aftermath of the Attack on Triboar.
+
 [[:Ghelryn Foehammer]] is badly injured but takes in [[:Tiffin Foehammer]]
 [[:Othovir]] is dead
-[[:Darathra Shendrel]] [[:Narth+ Tezrin]] [[:Urgala Meltimer]] [[:Darz Helgar]] all gave quests to the party.
+[[:Darathra Shendrel]] [[:Narth Tezrin]] [[:Urgala Meltimer]] [[:Darz Helgar]] all gave quests to the party.
 Party picked up horse and cart with harnesses and went north to [[:Xantharl's Keep]]
 Fought some Uthgardt barbarians on the way
+
+===== Session 7 =====
+Players successfully defeated [[:Encounter:Attack on Triboar]]
+	**Braddock level 5!!!**
+
 
 ===== Session 6 2020/01/04 =====
 Journey to [[Triboar]] 
@@ -28,8 +35,6 @@ Journey to [[Triboar]]
 [[:Triboar]]
 	Party completed the jouney to deliver [[:Darthag Ulgar]] 's remains to [[:Alaestra Ulgar]]
 	**Rogar and Nana level 5!!! Braddock level 4!!!**
-Players successfully defeated [[:Encounter:Attack on Triboar]]
-	**Braddock level 5!!!**
 
 
 ===== Session 5 19/09/28 =====
@@ -62,6 +67,7 @@ Journey to [[Triboar]]
 			[[:Tana Willowwhisper|Nana]] made an allied contact.
 			[[:Valriel]] bought a [[:Item:Ring of Shielding]]
 			[[:Valriel]] conducted research on cloud giants, discovering [[:Zephiros]]
+
 
 ===== Session 2 19/06/29 =====
 Nighttime, heavy fog rolling in, visibility 10 feet
