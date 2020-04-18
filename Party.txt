@@ -15,7 +15,7 @@ Val 			11
 Reed 		11
 
 [[Stella Smashface]] (Sarah)
-level 5
+level 6
 PP 12
 darkvision
 
@@ -24,7 +24,7 @@ level 5
 PP 13
 
 [[Lessa]] (Hillary)
-level 3
+level 4
 PP 13
 
 [[Valriel]] (Jeremiah)
@@ -33,7 +33,7 @@ PP 11
 darkvision
 
 [[Reed Osborn]] (Sam)
-level 3
+level 4
 PP 11
 
 [[Rogar]] (Zach)
