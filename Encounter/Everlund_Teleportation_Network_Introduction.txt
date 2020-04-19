@@ -7,7 +7,7 @@ Created Saturday 31 August 2019
 
 [[:Dral Thelev]] uncorks a flask of elven wine that he claims is [[:Silverymoon]] 's finest, and pours its contents into small wooden cups - one per character.
 
-Characters who take even the smallest sip are teleported to a parlor in the heart of [[:Moongleam Tower]] , the [[:Harpers]] stronghold in [[:Everlund]]
+Characters who take even the smallest sip are teleported to a parlor in the heart of Moongleam Tower , the [[:Harpers]] stronghold in [[:Everlund]]
 
 Once in the tower, a wizard named [[:Krowen Valharrow]] greets the party warmly and grants them access to a Harper secret network of teleportation circles until __the Harpers decide otherwise.__
 [[:Inner Circles]]

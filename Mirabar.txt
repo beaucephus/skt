@@ -16,6 +16,7 @@ Under the city:
 __A second city thrives under the surface. Here you find most of the inhabitants are dwarven. Very few humans venture down here for more than a few hours at a time.__
 __The underground is extremely hot and the air is heavy with smoke and ash.__
 
+Unless you're a mountain dwarf
 DC 10 (+5 per hour spent underground) CON save or gain exhaustion while under the city.
 
 

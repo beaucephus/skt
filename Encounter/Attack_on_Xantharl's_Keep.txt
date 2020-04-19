@@ -12,7 +12,10 @@ She gave Larg food, shelter, and is paying him a few copper to keep the stables 
 She thinks Larg is an unlucky adventurer who's party was killed by an avalanche while hunting a red dragon in the [[:Valley of Khedrun]]
 
 In fact, Larg is [[:Worvil "the Weevil" Forkbeard]] , a wanted criminal.
-Worvil recognizes [[:Tana Willowwhisper]] but keeps calling her "Frana". He thinks she is the woman who sent him and his team on his last job, [[:Frana Willowwhisper]]
+Worvil recognizes [[:Tana Willowwhisper]] but keeps calling her "Frana".
+[[:Frana Willowwhisper]] is the woman who last hired him and his crew on an expedition into the [[:Valley of Khedrun]]
+Worvil left Frana and his crew for dead when they encountered a very large red dragon
+Worvil knows that 
 He has the stats of a dwarf **bandit captain**
 
 ===== The Attack =====

@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-04-18T18:20:22-04:00
+
+====== Worvil awakes ======
+Created Saturday 18 April 2020
+
+This encounter happens after the party first capture [[:Worvil the Weevil Forkbeard]] and he awakens.
+
+Worvil recognizes [[:Tana Willowwhisper]] but keeps calling her "Frana".
+If the party lets on that they want to know about Frana, worvil will offer to trade his freedom for the information on Frana below.
+[[:Frana Willowwhisper]] is the woman who last hired him and his crew on an expedition into the [[:Valley of Khedrun]]
+	Worvil left Frana and his crew for dead when they encountered a very large red dragon
+	Worvil knows that Frana was searching for some ancient giant sacred temple in the Valley.
+	__She kept going on about "The Ordening" and "The Shattering". Thought she knew how to eradicate all the giants.__

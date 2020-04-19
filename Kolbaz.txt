@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-04-18T18:31:35-04:00
+
+====== Kolbaz ======
+Created Saturday 18 April 2020
+
+A cantakorous old mage.
+Wears a gaudy purple robe with a matching tall pointy hat.

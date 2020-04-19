@@ -18,7 +18,7 @@ He gives them a parchment with the relevant circles and their sigils.
 ===== Circle Locations =====
 
 ==== Everlund ====
-This is the location where Krowen resides inside the [[:Moongleam Tower]] in [[:Everlund]]
+This is the location where Krowen resides inside the Moongleam Tower in [[:Everlund]]
 
 ==== Loudwater ====
 Located in a 30-foot-square cellar underneath a tavern called the [[:Smiling Satyr]] in [[:Loudwater]]

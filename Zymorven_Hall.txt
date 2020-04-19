@@ -13,3 +13,6 @@ The keep is currently lorded over by Lord [[:Harthos Zymorven]]
 
 The keep appears to have only a few guards and staff to defend it.
 Most of the halls and rooms are lined with suits of armor, swords mounted on oak panels, and tapestries. These are in fact, **animated armors**, **flying swords**, and **rugs of smothering**
+
+===== Encounters =====
+[[Encounter:Deliver Urgala's Letter to Harthos]]
