@@ -7,13 +7,15 @@ Created Friday 13 March 2020
 
 **history:** Calling Horns was nothing more than a trailside inn until a few years ago when [[:Tamalin Zoar]] , a famous adventurer and noble bought the establishment and retired here.
 
-__Small village build mostly of mud-brick houses with thatched roofs.__
-__Calling horns stands where Jundar's Pass meets the Evermoor Way. The intersection in the center of town is marked by a cairn fo weathered and lichen-covered ettin and troll skulls that have cemented together to form quite a sturdy structure.__
+__Small village build mostly of mud-brick houses with thatched roofs. Calling horns is in a constant state of squalor as the near endless rains from the evermoors flood the streets and turn everything to muck__
+__Calling horns stands where Jundar's Pass meets the Evermoor Way. The intersection in the center of town is marked by a cairn of weathered and lichen-covered ettin and troll skulls that have cemented together to form quite a sturdy structure.__
 
 __The Calling Horn Inn is the only stone building, looming large over the village on a small bluff to the south.__
 __The inn is surrounded by tall old trees and smells piney, like a well-aged scotch.__
 
 The inn is in fact famous for it's scotches and ales and sports quite the collection.
+The owner-operator, Otto the Miserable, grumpily hails the party when they enter.
+Otto the Miserable is a __very dour-looking gnome with a sign next to him reading “make me laugh for 10 gp”.__ He is immune to Tasha’s hideous laughter.
 
 Tamalin charges the local farmers and traders tithes. This is really a protection racket.
   However most of the villagers are happy to pay since Tamalin does keep the village relatively safe from the **trolls** and other beasts that constantly pour out of the [[:Evermoors]]

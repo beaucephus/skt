@@ -8,12 +8,12 @@ Created Sunday 01 September 2019
 This encounter takes place in [[:Noanar's Hold]]
 
 ===== In the hold =====
-The "hold" at Noanar's hold is nestled among old pine trees on a hilltop overlooking the sleepy village.
-It sports 3 turrets, 1 of which has completely collapsed and gapes openly to the sky.
-All the windows are bricked up, and the doors are either bricked up, or barred from the inside. (DC27 athletics to break open a barred door)
+__The "hold" at Noanar's hold is nestled among old pine trees on a hilltop overlooking the sleepy village.__
+__It sports 3 turrets, 1 of which has completely collapsed and gapes openly to the sky.__
+__All the windows are bricked up,__ and the doors are either bricked up, or barred from the inside. (DC27 athletics to break open a barred door)
 
 
-Its current occupant, [[:Amrath Mulnobar]] is an old half-dwarven servant of the huntlords.
+Its current occupant, **Amrath Mulnobar** is an old half-dwarven servant of the huntlords.
 He doesn't open the door unless the characters are delivering saddles.
 Amrath allows the characters to place the saddles in the entrance foyer and quickly ushers them to leave.
 
@@ -27,7 +27,4 @@ A locked treasure chest at the back of the banquet hall contains what wealth the
   A smaller sack of similar make contains 6 blue sapphires (50gp each)
   [[:Item:Talon]]
   [[:Item:Alabaster Figurine of Find Familiar (Hunting Dog)]]
-  [[:Item:Deadeye]]
 
-
-Run [[:Encounter:Neverwinter Brothers Inheritance]] if the party doesn't explore the hold and/or encounter the wights.

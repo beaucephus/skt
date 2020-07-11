@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-07-11T09:34:19-04:00
+
+====== Beliard ======
+Created Saturday 11 July 2020
+
+**history: **Beliard is a market-moot for local cattle drovers
+
+__Beliard is a small ranching town surrounding the dusty intersection of the Dessarin Road and the Stone Trail.__
+__Herds of cattle and sheep can be seen roaming the gentle-sloping grasslands and hill-sides to the east.__
+__A shallow, but fresh-looking pond dominates the local landscape. Drovers constantly bring their livestock in to bathe and water in the hole.__
+__A large open-air farmer's and rancher's market can be seend to the south end of town. __
+
+
+===== Watchful Knight market and inn =====
+The Watchful Knight is a many-times-expanded open-air farmer's market, stables, and inn.
+There are no walls, only fences, bunks, and roofs.
+Any sorts of fresh produce, meat, or rarer things like spell and potion components can be bought here.
+Htrog: A Firbolg is the Inn-Market-Stable-Keeper. Loves mead. He is the last of his clan.
+
+===== Encounter =====
+Htrog informs the party that hill giants have been attacking many of the ranches around Beliard.
+__Mostly they take the livestock, but when they don't find enough animals, they take the ranchers too.__
+__The local ranchers have pooled their resources and entrusted me with 100GP to offer as reward to anybody who can find out where their lair is located, and an additional 400GP to help the ranchers stop the attacks.__
+__Once they've picked up everything they can carry, they usually take off to the south towards the Sumber Hills__
+
+leads to [[:Old Tower]] if the party searches for the lair

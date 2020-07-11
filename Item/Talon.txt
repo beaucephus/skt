@@ -7,7 +7,12 @@ Created Wednesday 09 January 2019
 
 Talon is a +1 magic rapier held in a silver-chased scabbard.  The hilt is worked to resemble the talons of a bird of prey.
 
-During attunement dream, determine a command word.  Once per day, you can shout the command word as a bonus action.  When you do, a pair of black feathered wings sprouts from your back, and you gain a flying speed of 60 ft.  You have advantage on any attacks made with Talon while flying due to this effect. The wings disappear at the start of your next turn.  
+During attunement dream, determine a command word.  
+
+Once per day, you can shout the command word.  When you do, a pair of black feathered wings sprouts from your back, and you gain a flying speed of 60 ft.  You have advantage on any attacks made with Talon, and Talon becomes a +5 rapier while you are flying due to this effect. The wings disappear at the start of your next turn.  
 
 **Lore**
-DC 15 history check.  It once belonged to a great knight named [[:Aldith Tresendar]], known as the Black Hawk.  Aldith died defending [[:Tresendar Manor]] from the orc horde that swept through the [[:Triboar Trail]] area, destroying all of [[:Phandalin]].
+DC 15 history check.  It once belonged to a great knight named **Aldith Tresendar**, known as the Black Hawk.  Aldith died defending [[:Tresendar Manor]] from the orc horde that swept through the [[:Triboar Trail]] area, destroying all of [[:Phandalin]].
+
+
+{{.\Talon_1594477767186.png}}

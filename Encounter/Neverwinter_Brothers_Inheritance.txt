@@ -5,5 +5,31 @@ Creation-Date: 2019-09-01T16:21:18-04:00
 ====== Neverwinter Brothers Inheritance ======
 Created Sunday 01 September 2019
 
-Page 61.
+If the party stays the night in [[:Noanar's Hold]]
+they meet 3 middle-aged brothers from [[:Neverwinter]] who are gearing up for a night-time hill giant hunt.
+Rantharl, Marthun, and Lezryk Daerivoss. They seem to speak a little louder and proudly when speaking their last names.
+Each of the brothers is lavishly dressed in the finest high-quality, and highly-ornamented hunting gear.
+They've __come to Noanar's hold to hunt hill giants, and we don't need or want any help.__
+They seem competent enough and at dusk, strap on their rapiers, saddle up, and ride into the night.
+
+If the party follows, the brothers are ambushed and killed by the huntlords.
+
+If the party doesn't follow, the brothers return the next dawn, but Rantharl is not with them, and Marthun has a laceration on his right shoulder.
+DC 11 medicine to discern it's from a rapier.
+
+If asked, the remaining brothers claim that a hill giants great-spiked mace slew Rantharl
+DC 15 Insight to discern this is a lie.
+
+
+In fact, the brothers are playing a murderous game with their inheritance.
+The agreement was simple: the brother who first deals the killing blow to a hill giant wins the inheritance of the other two.
+Rantharl won the contest, but Marthun and Lezryk turned against him and slew him.
+
+The 2 remaining brothers plan to set out again tonight to find another giant and settle the contest.
+Of course 1 of them is going to kill the other.
+
+The last brother returns to the Inn that night and plans to set off back to his __father's house in Neverwinter bearing the solemn news of my brother's death at the hands of marauding giants.__
+The party could try to blackmail him for his inheritance (worth 10,000GP total)
+
+
 
