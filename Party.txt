@@ -20,11 +20,11 @@ PP 12
 darkvision
 
 [[Tana Willowwhisper]] (Nathan) 
-level 5
+level 6
 PP 13
 
 [[Lessa]] (Hillary)
-level 4
+level 5
 PP 14
 
 [[Valriel]] (Jeremiah)
@@ -33,13 +33,13 @@ PP 11
 darkvision
 
 [[Reed Osborn]] (Sam)
-level 4
+level 5
 PP 11
 
 [[Rogar]] (Zach)
-level 5
+level 6
 PP 16
 
 [[Braddock]] (AJ)
-level 5
+level 6
 PP 16
