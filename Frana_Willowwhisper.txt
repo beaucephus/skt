@@ -5,24 +5,44 @@ Creation-Date: 2020-03-29T13:17:28-04:00
 ====== Frana Willowwhisper ======
 Created Sunday 29 March 2020
 
-(Frana is replacing Harshag's role in the adventure)
-
 Twin sister to [[:Tana Willowwhisper]] 
 
-Frana is the spitting image of Tana.
-She is an on-hands archaeologist type character (Indiana Jones)
+===== Background =====
+Frana was separated from Tana at a young age when frost giants attacked their parent's caravan.
+Frana was whisked away by the giants and taken to their village, where she was worked as a slave.
+She believed her family to be dead.
 
-She is searching for a [[:Item:Conch of Teleportation]]
-She has been studying ancient giant mythology and thinks the Conch will allow her to assasinate the king of all giants.
+In the giant village Frana learned the ways of the frost giants.
+The giants, seeing great potential in Frana, freed her of slavery and she became a member of the clan.
+She also became proficient in diplomatic ways and brokered a peace between the frost giants and one of the nearby human barbarian tribes.
+The two races enjoyed the mutual benefits of their relationship for many years until...
 
-Frana wants to eradicate all of giant-kind and thinks they will easier to destroy when they are leaderless.
+For some unkown reason, [[:Anam the All-father]] , the patriarc-god of all giants, became displeased with the wordly giants.
+Anam shattered [[:The Ordening]] and in addition, left Frana's village and surrounding lands infertile
 
-Frana knows the location of the [[:Eye of the All-Father]]
+With the men unable to sow seeds, and the women unable to bear children, 
+Frana set out on her own to find the fabled oracle at the [[:Eye of the All-Father]] .
+Her desire to discover the truth steeled her will on a perilous journey into the Spine of the World,
+but the adventuring band she hired betrayed her and left her for dead at the hands of a fearsome red dragon.
 
-**Ideal**
-All giants are evil and must be erased from this world.
-**Bond**
-I love my sister, Tana, but I won't let anything stand in the way of my goal.
-**Flaw**
-I practice abstinence from all intoxicating substances.
-I tend to project my ideaologies onto others.
+Frana escaped the dragon and made her way back to [[:Mirabar]] where she discovered that her long-lost sister, [[:Tana Willowwhisper]] was alive and searching for Frana.
+Frana set out, following Tana's path to try and find her sister, before attempting another venture into the Spine of the World to search for the [[:Eye of the All-Father]]
+
+
+===== What Frana knows =====
+The giant language
+
+[[:The Ordening]] is a divinely-mandated caste system imposed upon the giants by Annam the All-Father and his pantheon.
+Storm > Cloud > Fire/Frost > Stone > Hill
+
+The Ordening has been shattered by Anam the All-Father, who is displeased with the current giant leadership.
+Some giants have retreated into seclusion out of shame, some consort with the smaller races to better thrive, and some believe now it is their turn to lead all the other giants.
+
+The previous leader of all giants was a storm giant named [[:King Hekaton]] . His royal court is located somewhere at the bottom of the trackless sea.
+
+There is an oracle, a magical communication gateway directly to the gods themselves at a temple in the Spine of the World known as the [[:Eye of the All-Father]]
+Frana knows the location of the [[:Eye of the All-Father.]]
+It is hidden deep in the [[:Valley of Khedrun]] in the Spine of the World
+
+A deadly and fearsome red dragon also lives in the [[:Valley of Khedrun]]
+

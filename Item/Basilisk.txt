@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-07-24T11:35:31-04:00
+
+====== Basilisk ======
+Created Friday 24 July 2020
+
+{{.\Basilisk_1595604880962.png}}

@@ -10,14 +10,18 @@ Rogar 		16
 Braddock 	16
 Tana	 	13
 Lessa 		13
-Stella 		12
+Frana		TODO
+~~Stella 		12~~
 Val 			11
 Reed 		11
 
-[[Stella Smashface]] (Sarah)
-level 6
-PP 12
-darkvision
+[[:Frana Willowwhisper]]
+level 5
+
+~~Stella Smashface (Sarah)~~
+~~level 6~~
+~~PP 12~~
+~~darkvision~~
 
 [[Tana Willowwhisper]] (Nathan) 
 level 6
