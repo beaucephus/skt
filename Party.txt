@@ -14,6 +14,8 @@ Stella 		12
 Val 			11
 Reed 		11
 
+[[:Frana Willowwhisper]]
+
 [[Stella Smashface]] (Sarah)
 level 6
 PP 12
