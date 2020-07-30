@@ -8,9 +8,8 @@ Created Saturday 25 May 2019
 ===== Threads =====
 Find a way to give [[:Valriel]] the chance to gain power, maybe a lordship over a keep including a batallion of soldiers-for-hire?
 
-===== Session 12 =====
+===== Session 12 2020/07/25 (Nana, Rogar, Reed, Val, Frana) =====
 Party on the way to [[:Everlund]] through [[:Calling Horns]] and [[:Noanar's Hold]]
-[[:Frana Willowwhisper]] arrives at the Calling Horns inn in the morning.
 
 ===== Session 11 2020/07/11 =====
 Party on the way to [[:Everlund]] through [[:Calling Horns]] and [[:Noanar's Hold]]
@@ -50,9 +49,9 @@ Players successfully defeated [[:Encounter:Attack on Triboar]]
 
 
 ===== Session 6 2020/01/04 =====
-Journey to [[Triboar]] 
-[[:Westbridge]] 
-	Nana picked up [[:Item:Wand of Enemy Detection]] 
+Journey to [[Triboar]]
+[[:Westbridge]]
+	Nana picked up [[:Item:Wand of Enemy Detection]]
 	Nana caroused the night away and woke in an alley next to a dead body.
 [[:Triboar]]
 	Party completed the jouney to deliver [[:Darthag Ulgar]] 's remains to [[:Alaestra Ulgar]]
@@ -69,7 +68,7 @@ In [[:Red Larch]]
 
 ===== Session 4 19/08/07 =====
 Messed with BlackStaff's clone in [[:Rassalantar]]
-  Add [[:Wilderness Encounter:Blackstaff's hit squad]] 
+  Add [[:Wilderness Encounter:Blackstaff's hit squad]]
 Stella stole Blackstaff's clone vase. (2000gp)
 Stella found a scroll of Teleportation circle.
 Stella found some magic gizmos (100gp, 300gp if sold as components for teleportation magic)
@@ -79,10 +78,10 @@ In Amphail, stayed for feast, rescued [[:Tiffin Foehammer]] , killed giant, foun
 ===== Session 3 19/07/07 =====
 [[:Encounter:Aftermath of Boss Hark's Death]]
 **Level 4!!!** after rescueing the villagers and returning them to [[:Nightstone]]
-Once [[:Morak Ur'gray]] is back in [[Nightstone]] run [[Encounter:Triboar Quest]] 
+Once [[:Morak Ur'gray]] is back in [[Nightstone]] run [[Encounter:Triboar Quest]]
 Party accepted the quest to take [[:Darthag Ulgar]] 's earthly possesions to his wife, [[:Alaestra Ulgar]] in [[:Triboar]]
 Party "borrowed" armor, weapons, and gear from [[:Darthag Ulgar]] 's cart.
-Journey to [[Triboar]]  
+Journey to [[Triboar]]
 	On the way
 		Downtime activities in [[:Waterdeep]]
 			[[:Stella Smashface]] won a cage fight against [[:Stouts McGee]]
@@ -120,5 +119,3 @@ Start [[Dungeon:Nightstone]]
 Fought worgs in the square (area 3)
 Took a long rest in watchtower near the gate. Set back out after dark and cleared the temple (area 5)
 After clearing the temple the party set a trap for nearby goblins, stopping the bell and waiting for the goblins to investigate. The goblins from areas 4c and 4g are duped and fall for the trap
-
-

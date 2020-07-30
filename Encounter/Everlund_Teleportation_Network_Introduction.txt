@@ -5,6 +5,8 @@ Creation-Date: 2019-08-31T14:39:45-04:00
 ====== Everlund Teleportation Network ======
 Created Saturday 31 August 2019
 
+Stems from [[:Darathra Shendrel]] 's quest
+
 [[:Dral Thelev]] uncorks a flask of elven wine that he claims is [[:Silverymoon]] 's finest, and pours its contents into small wooden cups - one per character.
 
 Characters who take even the smallest sip are teleported to a parlor in the heart of Moongleam Tower , the [[:Harpers]] stronghold in [[:Everlund]]

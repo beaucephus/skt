@@ -3,9 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2020-03-29T13:17:28-04:00
 
 ====== Frana Willowwhisper ======
-Created Sunday 29 March 2020
-
-Twin sister to [[:Tana Willowwhisper]] 
+Twin sister to [[:Tana Willowwhisper]]
 
 ===== Background =====
 Frana was separated from Tana at a young age when frost giants attacked their parent's caravan.
@@ -20,7 +18,7 @@ The two races enjoyed the mutual benefits of their relationship for many years u
 For some unkown reason, [[:Anam the All-father]] , the patriarc-god of all giants, became displeased with the wordly giants.
 Anam shattered [[:The Ordening]] and in addition, left Frana's village and surrounding lands infertile
 
-With the men unable to sow seeds, and the women unable to bear children, 
+With the men unable to sow seeds, and the women unable to bear children,
 Frana set out on her own to find the fabled oracle at the [[:Eye of the All-Father]] .
 Her desire to discover the truth steeled her will on a perilous journey into the Spine of the World,
 but the adventuring band she hired betrayed her and left her for dead at the hands of a fearsome red dragon.
@@ -45,4 +43,3 @@ Frana knows the location of the [[:Eye of the All-Father.]]
 It is hidden deep in the [[:Valley of Khedrun]] in the Spine of the World
 
 A deadly and fearsome red dragon also lives in the [[:Valley of Khedrun]]
-
