@@ -8,6 +8,9 @@ Created Monday 03 June 2019
 __This thick, heavy dwarven blade has a small cavity worked into he middle of the blade near the quillon.__
 If an attuned creature grasps the grip, a flame ignites in the cavity, emitting dim light in a 10 foot radius. While within this light, Shalamayne's weilder and their allies are immune to the frightened condition. 
 
+**In the hands of a dwarf or other creature attuned to a Belt of Dwarven Kind, or if the racial seal is released**
+The once dim, encouraging flame, roars into a raging fire which licks up the blade's edge. Shalamayne deals an additional 2d6 fire damage on hit.
+
 requires attunement
 
 [[..\Shalamayne_1569598796884.png]]

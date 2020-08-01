@@ -11,9 +11,14 @@ The dwarves are from [[:Mirabar]] , and are looking for a particular magic item 
   Remember the [[:Item:Sanctified Bones]] !!!
 
 If the dwarves see [[:Item:Shalamayne]] they demand it returned.
+__You can't even weild it properly!!!__
 
-If the party is not negotiating well....
-  If Tiffin is with them
-	[[:Tiffin Foehammer]] might argue that her father wielded it and she decided it goes with the party. She damns the dwarves for "letting her parents die".
+If the party is not negotiating well.... the dwarves might try to forcibly take the sword. Clarion advises against this repeatedly, only joining in with his frightful prescence and paralyzing breath.
 
-After Tiffin's outburst or successful negotiating frmo the party, Clarion will try to convince the other dwarves to leave.
+If the party successfully negotiates with the dwarves, they disclose that Shalamayne only realizes its true potential in the hands of a dwarf [[:Item:Shalamayne]]
+  otherwise Clarion might swoop down after the fight.
+  He regrets the dwarve's fateful decision but offers his own knowledge of the sword that he overhead from the dwarves.
+  Clarion call tell that sword has 2 enchantments. The first grants it power, and the second is a sealing enchantment that seems to seal some of its power away.
+
+
+  

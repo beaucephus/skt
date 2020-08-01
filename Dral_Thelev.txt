@@ -5,9 +5,11 @@ Creation-Date: 2019-08-31T14:33:29-04:00
 ====== Dral Thelev ======
 Created Saturday 31 August 2019
 
-The one-eyed half-orc proprietor of [[:Danivarr's House]] in [[:Everlund]]
+The one-eyed half-orc proprietor of :Danivarr's House in [[:Everlund]]
 
-''Dral's thin build and sharp attire contrasts his brutish, half-orc face, tusks, and missing eye.''
-''A black monacle covers the scared divot where his eye once was.''
+__Dral's thin build and sharp attire contrasts his brutish, half-orc face, tusks, and missing eye.__
+__A black monacle covers the scared divot where his eye once was.__
+Dral speaks in a stately british drawl.
 
 He is a member of the [[:Harpers]] and has a close bond to [[:Darathra Shendrel]] of [[:Triboar]]
+If the party helped Darathra, Dral fills them in on the layout, locations, and politics of Everlund (see the everlund page)
