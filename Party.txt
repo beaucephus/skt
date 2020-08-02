@@ -6,7 +6,7 @@ Creation-Date: 2019-05-25T11:06:39-04:00
 Created Saturday 25 May 2019
 
 ==== Passive Perceptions ====
-Rogar 		16
+Rogar 		18
 Braddock 	16
 Tana	 	13
 Lessa 		13
