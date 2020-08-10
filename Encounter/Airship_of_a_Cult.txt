@@ -1,0 +1,46 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-08-10T07:45:52-04:00
+
+====== Airship of a Cult ======
+Created Monday 10 August 2020
+
+Klauth the mighty, ancient red dragon that lives in the Spine of the World has sent some of his followers, cultists with an airship to aid the party in slaying the giant's leaders.
+
+__A strange vehicle hangs in the sky overhead, slowly drifting closer. It looks like a small ship with sleigh runners, held aloft by a giant red ballon.__
+__The crew aboard drop 2 rope ladders over the sides of the ship and beckon the party board.__
+
+If the party doesn't board, the airship eventually lands and the captain greets the party and explains himself.
+
+__We come to you on behalf of Klauth, the Great Dragon of the North! Klauth offers you this vessel and our services as a gift, so that you may cross his vast dominion while avoiding the many perils of the land below. War against the giants is inevitable, but the Great Dragon commands you forge agead and face your destiny! The ordning of the giants is broken, and they are not united. Slay their leaders, and you may yet prevail. If you succeed in quelling the giant threat, Klauth bids you come to his hidden vale, so that he may reward your bravery.__
+The crew shouts a resounding: __Hallelujah!!!__
+
+**If the party asks about Klauth**
+__Lord Klauth, mightiest of the great dragons, scales harder than hard, firery breath hotter than hot. He is our rock, and he will save us all. When the time comes that Klauth realizes his great plan and spreads his influence across the continent, it is we who will be lifted up high and exalted as his followers.__
+
+**The cultist crew**
+__They all wear red-dyed leather armor with stylized accents made to look like dragon parts. Some have cloaks like wings or gloves like a dragon's claw. All wear red leather masks styled with dragon horns.__
+They are humorless, but resolute
+Delsephine(Captain), Nyzroth, Brassik, Laz, Oriskus, Perella, Tralt, and Zalthia
+
+**What the cultists know**
+The ordning dictated the hierarchy of giant society, but the giant gods have apparently dissovled it.
+Before the ordning's dissolution, storm giants were at the top of it, hill giants at the bottom.
+The disappearance of Hekaton, a storm giant king, has prompted a number of other giants to rebel. These giants' efforts to rise to the top of a new ordning bode ill for the budding empires of the North.
+
+**Operating the airship**
+The cultists crew the ship, expecting the party to serve as its defenses.
+The airship can travel roughly 200 miles a day
+The ship requires at least 3 to operate successfully (Furnace, Turbine, Rudder). Any player can learn how to operate a station by spending an few moments with a cultist or an hour by themselves to reason out the controls.
+
+**Harpoon Gun**
+__A spring-loaded harpoon gun, fashioned from burnished bronze with iron fittings, is bolted to the forward upper deck.__
+has a 90 degree angle of fire centered directly ahead
+The gun includes a winch, 500 feet of rope, and ten steel-tipped harpoons
+
+**Ballista**
+__A wooden ballista is mounted on an iron swivel on the aft castle.__
+It also has a 90 degree range of fire centered behid behind
+Next to it lies a crate with 12 ballista bolts
+
+

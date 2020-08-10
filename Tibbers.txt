@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-08-09T09:16:28-04:00
+
+====== Tibbers ======
+Created Sunday 09 August 2020
+
+Tibbers is a tabby tressym who was being cared for by [[:Krowen Valharrow]] the arch-mage in charge at the Moongleam tower in [[:Everlund]]
+Tibbers was picked up by [[:Reed Osborn]] who cares for him now.
+
+{{.\tressym.png}}

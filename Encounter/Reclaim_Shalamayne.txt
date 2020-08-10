@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-08-09T09:21:20-04:00
+
+====== Reclaim Shalamayne ======
+Created Sunday 09 August 2020
+
+Maybe the party can use [[:Tiffin Foehammer]] or a favor from Lord Roarington [[:Encounter:Roaringhorn's Birthday Feast]] or Tamalin Zoar [[:Calling Horns]]
+
+[[:Valriel]] gave [[:Item:Shalamayne]] back to the shield dwarves of [[:Mirabar]]
+
+They've taken it to the king and queen who keep it in their royal armory/treasury as it is __the masterwork of the late Daelin Foehammer who we recently lost to those damnable, great-oafs__
+
+
+**King Banet Goldhelm** and **Queen Nerfhilde Coalbringer** will listen to reason, and are willing to bestow the sword back to the party if they mention or bring Tiffin
+
+**prompt of the party is getting stuck:** 
+king: __Daelin and his family were the last of the foehammer line. They were important to city, and moreso, they were close friends of ours... __
+*king reaches out for queen's hand*
+queen: __My heart still aches to think of what might've happened to their little girl. The search party never found her.__
+
+===== developments =====
+If the party regains [[:Item:Shalamayne]] the king will let them know that __Shalamayne is blade of true dwarven-craft. It's been double-enchanted you-see. The first enchantment bestows great magical powers unto the sword and its wielder. The second seals most of those powers unless its weilded by a proper dwarf.__
+__I believe our smiths should be able to remove the seal, if you wish.__
+
+[[:Item:Shalamayne the Pure]]

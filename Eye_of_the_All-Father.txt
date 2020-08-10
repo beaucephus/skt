@@ -5,38 +5,4 @@ Creation-Date: 2020-08-01T12:21:29-04:00
 ====== Eye of the All-Father ======
 Created Saturday 01 August 2020
 
-**history (let anyone who's studied giant history know)**
-Giant legend tells of an oracle, a communication broker, to Annam the all-father himself that once existed deep in the spine of the world.
-Millenia ago the lords and scholars of [[:Ostoria]] ventured to this oracle seeking knowledge and sometimes refuge.
-Since the fall of Ostoria, there are few who still know even of its existence, much less its location.
-
-===== General Features =====
-__Unless stated otherwise, everything in the temple is giant-sized. 3 times normal size and 27 times normal weight.__
-**Ceilings** are 60-feet high
-**Doors** are made of bas-reliefed granite with wrought-iron hinges. Latched handles are 12 feet off the floor. 
-If a character can reach the handle to unlatch it, DC12 athletics to open a door that isn't iced shut.
-**Frost** covers the floors, walls, ceilings, and furnishings. Climbing is impossible without tools.
-**Illumination** Interior areas are unlit except areas 6, 7, and 11
-**Difficult Terrain** Giant-sized stairs and furnishings are difficult terrain
-
-===== 1 Domed Entrance =====
-
-===== 2 Stone Blocks =====
-
-===== 3 Boulderfall Hall =====
-
-===== 4 Giant Doors =====
-
-===== 5 Portcullises =====
-
-===== 6 Annam's Temple =====
-
-===== 7 Feast Hall =====
-
-===== 8 Trapped Hall =====
-
-===== 9 Ice Spider Tunnels =====
-
-===== 10 Upstiars Quarters =====
-
-===== 11 Eye of Annam =====
+[[:Dungeon:Eye of the All-Father]]

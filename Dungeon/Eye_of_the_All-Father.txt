@@ -1,0 +1,229 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-08-09T15:40:09-04:00
+
+====== Eye of the All-Father ======
+Created Sunday 09 August 2020
+
+[[:Eye of the All-Father]]
+
+**history (let anyone who's studied giant history know)**
+Giant legend tells of an oracle, a communication broker, to Annam the all-father himself that once existed deep in the spine of the world.
+Millenia ago the lords and scholars of [[:Ostoria]] ventured to this oracle seeking knowledge and sometimes refuge.
+Since the fall of Ostoria, there are few who still know even of its existence, much less its location.
+
+===== General Features =====
+__Unless stated otherwise, everything in the temple is giant-sized. 3 times normal size and 27 times normal weight.__
+**Ceilings** are 60-feet high
+**Doors** are made of bas-reliefed granite with wrought-iron hinges. Latched handles are 12 feet off the floor. 
+If a character can reach the handle to unlatch it, DC12 athletics to open a door that isn't iced shut.
+**Sconces** All of the wall sconces in the temple are magical. Once exposed to any open flame, they become lit and stay lit for 100 days. If a sconce is removed it loses its magic.
+**Frost** covers the floors, walls, ceilings, and furnishings. Climbing is impossible without tools.
+**Illumination** Interior areas are unlit except areas 6, 7, and 11
+**Difficult Terrain** Giant-sized stairs and furnishings are difficult terrain
+
+===== 1 Domed Entrance =====
+__A 40-ft-wide, naturally formed stone causeway leads to the entrance of the temple. Sheer cliffs plunge hundreds of feet on both sides of the route. The causeway is covered with a foot of snow, in which you see fresh tracks heading toward the mountainside.__
+
+DC15 wisdom to tell the tracks are 6-10 humans. (The tracks were made by the barbarians in area 4)
+
+__The causeway ends before a stone dome carved from the mountainside. Six 30-foot-tall stone pillars support the dome. Each pillar is carved with a wraparound bas-relief. From north to south the pillars depict__
+__- A hill giant lifting an enourmous rock above its head__
+__- A frost giant chopping down a great pine__
+__- A could giant flying among birds in the sky__
+__- A flying storm giant hurling lightning bolts at a ship__
+__- A stone giant clibming a mountain__
+__- A fire giant with chained dwarven prisoners in a cavern__
+
+__At the back of the dome, a 40-foot-wide, 40-foot-high hallway heads into the mountain. Wind has blown the snow far into the hallway and frost clings to the walls. The tracks continue deeper into the mountain__
+
+===== 2 Stone Blocks =====
+__You hear the grunts and snorts of humans coming from the other end of the hallway__
+
+DC14 perception to notice gaps in the ceiling stone. (the gaps are blocks in the ceiling stone that can be lowered. 2 blocks, each of which is a 40x20x60 slab.
+The levers in 2a and 2b activate the 2 blocks respectively. The blocks take 6 seconds to lower. lowering blocks deal 72d10 bludgeoning damage.
+
+==== 2a/b The guard rooms ====
+__This 60-foot-square room is featureless except for a large iron lever 12-feet-high in the wall.__
+DC 24 athletics to pull the lever, which lowers a block in area 2.
+
+===== 3 Boulderfall Hall =====
+__This 40-foot-wide, 60-foot-tall halway extends hundreds of feet into the darkness of the mountain's core. Overlooking the hall to the north and south are unguarded 20-foot-high ledges that have no railings or battlements. The flickering light of torches illuminates the far end of the gigantic hall which ends in double doors.__
+
+DC 14 stealth to sneak up on the barbarians at the doors
+
+**On the ledge.**
+__A 20-foot-deep, 200-foot-wide ledge overhangs the main hall. Five niches are carved into the back wall of each ledge. Each holds an iron sconce. Past the back wall you see 4 20-foot-wide halls that lead furhter in.__
+
+**In the side halls**
+__A 20-foot-wide hallway parallels the main hall, running east-west__
+
+===== 4 Giant Doors =====
+__A 40-foot-long flight of steps, each as tall as a man, leads east ascending up to a landing, next to which stands a pair of 30-foot-tall granite doors. The doors loom high above you, impervious as the mountain, and are coated in a layer of ice and frost 2 inches thick. Through the ice you can make out carved images depicting giant gods locked in battle with ancient dragons__
+
+The doors are virtually impervious to damage
+The doors cannot be opened until the ice is removed.
+Combined strength score of 23 can open the doors
+
+**barbarians at the doors**
+__6 humans covered in furs and carrying crude weapons push on the doors. Once, carrying a torch oversees them and ponders at the obstacle before them as he strokes the shoulder scales of a white dragon wyrmling.__
+
+6 **berserkers** of the great-worm-tribe and their leader, a **uthgardt shaman**
+1 **white dragon wyrmling**
+
+The barbarian leader is [[:Wormblod]] , the Great Chief of the Great Worm tribe.
+The barbarians are here to find a missing companion who has gone missing near here.
+The barbarians don't understand reason and fight any opposing humans to the death.
+
+===== 5 Portcullises =====
+__A heavy iron portcullis blocks the east end of this hallway. Past the portcullis, the hall opens into an expanse of darkness. Deep into the darkness, you see a very faint blue-green glow.__
+
+Combined strength score of 35 to lift. Knock spell or pulling level in the guard rooms works as well
+Small creature can squeeze between the grating.
+
+==== 5a/b guard rooms ====
+__This square room hidden behind a secret door is featureless except for an iron lever set in the down position 12 feet up into one of the walls.__
+same mechanics as the levers in 2a/b
+
+===== 6 Annam's Temple =====
+**before lit**
+__This expanse of darkness extends in the mountain core. Several gigantic stonework statues fill the hall. Deep in the darkness, you see a faint blue-green glow rolling like mist.__
+
+**once lit**
+__Thick frost clings to every surface of this 100-foot-high vaulted chamber. Seven enormous statues dominate the room. The largest of them is an 80-foot-tall robed giant, his arms outstretched and his face hidden beneath a stony cowl, facing a glowing archway in the east wall. Kneeling in rows to each side of this statue are six statues half its size, each impressive in its own right and depicting a paragon of a type of giant: hill, stone, frost, fire, cloud, and storm. These smaller statues face the bigger one in the room's center. In their outstretched arms, five of the giants hold weapons--gifts for their All-Father. Only the frost giant statue is unarmed. The northern and southern walls each have 2 sets of gigantic double doorways. All of the doors are covered in a thick layer of ice and frost.__
+
+**archway in east wall**
+__The archway is 40 feet wide and 40 feet tall. Six different runes are carved into it, each one inlaid with mithral, and a blue-green glowing mist fills the arch. Niches in the walls on either side of it contain empty, ice-covered sconces made of iron.__
+Any character who has studied giant mythology can roll a d6(2d6 if they understand giant) and understands the reading and translation of the corresponging rune: Haug(stone), Skye(cloud), Ild(fire), Uvar(storm), Stein(stone), Ise(frost)
+Defacing a rune or removing the mithral causes the mist to disperse and renders the archway inoperable.
+A cold, rock wall can be felt behind the rolling mist unless the portal is activated.
+To activate the portal, a statue's weapon must be touched to the corresponding rune. If touched to an inappropriate rune, a spell effect occurs corresponding to the rune touched. See page 126.
+
+**statues**
+__The biggest statue in the middle of the temple seems to depict Annam the All-Father. The statues face is a mask of bare rock, bereft of facial features.__
+DC10 insight to guess that the giants who carved this statue probably did not know what Annam looked like and so, did not dare misrepresent him.
+DC20(DC10 if character has studied giant mythology) history to recognize that the six smaller (40-foot-tall) statues depict the sons of Annam in this order (start due north, go clockwise) 
+__Thrym(frost) holding nothing, Stronmaus(storm) holding adamantine trident, Memnor(cloud) holding mithal spear, Surtur(fire) holding steel greatsword, Grolantor(hill) holding bone greatclub, Skoraeus Stonebones(stone) holding stone boulder__
+__5 of the 6 statues grasp giant-sized, but otherwise practical, weapons.__ The weapons can be removed __The frost giant is depicted as-if it should be holding a weapon, but there is no weapon.__
+
+If lit, the sconces dimly light the entire room.
+The doors have latched handles and open to the inside of the room. See general features.
+
+DC20 investigation to notice secret doors leading to areas 5a/b
+
+**activated archway**
+__The glowing mist transforms into churning thunderclouds lit by flashing lightning which illuminates the temple and indeed, another room beyond the clouds. The sound of rolling thunder fills the temple.__
+Goes to area 11
+Once activated the rolling clouds begin to calm back into the rolling mist starting from the outer edges.
+DC18 differential calculus check to tell that you have at least an hour before the clouds fully reset
+
+=== developments ===
+Run [[:Encounter:Iymrith in Annam's Temple]] when the players return to this area after consulting the oracle and choosing which evilgiant lord they intend to fight
+
+===== 7 Feast Hall =====
+__Contrary to the rest of the temple, this expansive room, 250-feet wid east-west and 450-foot-deep north-south, is warm, dry, and brightly lit. Six pillars, each 20 feet in diameter and many dozens of feet tall reach up supporting the vaulted ceiling. You see six giant-sized granite feasting tables, each 20 feet wide and 100 feet long, complete with benches, sourrounding a pair of similarly-sized thick granite slabs. In the center of the room a raging fire constantly erupts from a sunken firepit.__
+
+A hungry **remorhaz** rests in the east alcove until something enters the room and nears the fire or slab, at which point it attempts to hunt a party member
+The fire deals 3d6 fire damage per turn
+
+**stone slabs**
+__The 9-foot-tall, 100-foot-long slabs are stained black with burned blood and grease residue. Atop the southern-most slab are neat stacks of plates and goblets made of beaten copper, all green and black with age. The stacks of plates and goblets on the northen slab have been knocked over, creating a mess. Leaning against the far side of the southern-most slab is a giant-sized steel great-axe.__
+
+The great-axe is Thrym's missing weapon. It weighs 150 pounds
+
+===== 8 Trapped Hall =====
+[[..\complicated hallway.jpg]]
+
+**statue**
+__Centered between the identical short hallways is another, much longer 60-foot-tall, 40-foot-wide hall that extends northward on a very slight incline deep into the darkness. As you peer into the northerly reaches of the hall, you notice behind you centered in an alcove behind you stands a life-sized statue of a stone giant. Its arms are lifted up with hands out-streched and palms facing the north end of the hall.__
+The statue uses a **stone golem** stat block but has no attacks and take no actions other than to reset the trap.
+
+**rooms**
+Lining the hallway on either side are giant-sized quarters, each furnished with a rough stone bed.
+__As you pass by the fourth room on the left, you feel a chilling icy draft coming from that room. It has a 5-foot-wide crack opening in the west wall.__ 
+DC 14 survival or investigation to tell that the opening is natural. Probably formed as the result of earth tremors.
+leads to area 9
+
+**trap**
+A magical detection trap spans the hall between the 5th and 6th rooms. It is triggered by any form of life that isn't giant entering the space.
+Once triggered __walls of stone magically seal off the east and west doorways for the length of the hall.__ Each wall has AC15 and HP180. A 40-foot-diameter sphere of solid stone phases out of the northern wall of the hallway. Players __hear a stone-on-stone grinding sound coming from the north end of the hallway__.
+Roll initiative. On initiative 15 a 40-foot-diameter sphere of solid stone rolls down the hallway southward. DC12 dex save or take 10d10 bludgeoning damage and be knocked prone. __The stone slams into the sound end of the hall with a resounding BOOM after which you hear a similar but much softer and less chaotic grinding sound accompanied by the rhythmic boom of heavy footsteps coming closer.__
+When the sphere reaches the sound end of the hall the stone giant statue animates and begins to slowly push the boulder northward back to its resting place in the north wall where it melds with the stone within. After the statue reaches its pedestal again, the trap resets and the stone walls blocking the rooms disappear
+__You hear the rhythmic boom of footsteps grow softer and softer until finally they sound one last softer boom-boom-boom and stop. The stone walls blocking the rooms disappear if a puff of arcane dust.__
+
+**up the staircase**
+leads to area 10
+
+===== 9 Ice Spider Tunnels =====
+DC14 survival to discern the caves were probably naturally formed by tremors and earthquakes
+__A 10-foot-high, 5-foot-wide crack tunnels into the mountain rock. The uneven, ice-coated floor and walls make for difficult terrain to traverse.__
+
+The first time the party reaches an intersection, 4 **ice spiders** attack
+
+=== 9a Larder ===
+__This natural cave has a 30-foot-high ceiling supported by five rocky columns. The cavern is filled with translucent ice spider webs that block line of sight into the room.__
+DC15 perception to spot a cluster of cocoons on the floor at the back of the cave.
+Although they're covered in icy frost, the webs are sticky like frozen metal. They are brittle and break like spindly ice-cycles.
+
+**larder loot**
+The first cocoon contains the exsanguinated corpse of a mountain goat. 
+The second contains a dead shield dwarf prospector wearing a tattere fur cloak and clutching a miner's pick close to his chest. 1 ruby, diamond, and sapphire each worth 100gp in his backpack pockets.
+The third contains a live Uthgardt barbarian of the great worm tribe named **Noori**.
+
+=== 9b Nest ===
+__This egg-shaped chamber contains a singular, large column which supports a naturallyd-domed ceiling 20 feet overhead. Curtains of icy webbing stretch from wall to wall, creating a treacherous enclosure with only a few feet of visibility in any direction.__
+Contains a **ice spider queen** and her **swarm of insects** baby spiders.
+
+**nest loot**
+Frozen potion (Potion of Climbing)
+Warhammer with a sapphire (worth 500GP) set into its haft
+
+===== 10 Upstiars Quarters =====
+__A structurally similar hallway extends to the north except most of the hallway seems to have been destroy by a cave in. Only the first 4 rooms on either side are accessible.__
+
+**loot**
+The back room on the right contains a stitched leather sack containing
+A wooden chest. (It is unlocked and empty)
+3 severed dwarf heads. 1 has 10 gold teeth (1GP each)
+A giant-sized bracelet made of dragon fangs. Could probably fit a normal creature as a necklace
+[[:Item:Shard of the Ise Rune]]
+
+===== 11 Eye of Annam =====
+__Beyond the thundering archway lies a hexagonal chamber whos walls rise 50 feet before tapering to a 90-foot-high statue of a giant holding up a heavy, iron lantern with one raised arm. Each type of giant is represented: hill, stone, frost, fire, cloud, and storm. A cold, magical light radiates from each lantern, illuminating a giant corpse lying on the floor beneath a shroud of frost in the middle of the room. The corpse looks like it has been here for some time, preserved by the cold. Next to the body rests a giant, frost-covered morningstar.__
+
+This chamber allows communion with the divine will of Annam the All-Father himself.
+
+=== Eigeron's ghost ===
+The corpse belongs to a once-young cloud giant named **Eigeron** , whose father Blagothkus, betrayed and murdered him. If any player approaches the corpse, Eigeron arises to greet the party.
+Players close to Eigeron noticed a runed-inscribed circle on the floor underneath his corpse.
+Eigeron manifests as the spirit of a cloud giant.
+__Like many giants before us, my father and I came to the Eye of Annam seeking wisdom. The divine oracle told us that a great upheaval would upset the balance of power in the world, which would give all giants the opportunity to win the respect of their gods and bring glory to their race. The oracle told my father outright that he could never impress the gods enough to earn their favor. Then, the oracle urged me to step out from beneath my father's dark shadow. My father! He murdered me in cold blood! Please, I beg of you, avenge me!__
+Eigeron knows how the oracle works and can explain what the characters must say to contact it.
+
+**Eigeron loot**
+If the players offer to help slay Blagothkus, Eigeron offers the party his +2 bronze-gold breastplate and his [[:Item:Opal of the Ild Rune]]
+He doesn't object if they take them without him offering.
+
+=== The Oracle ===
+Lightly hidden under a thin layer of frost is a 20-foot-diameter, mithral-inlaid circle inscribed with the kong(king) rune.
+Words written in the dwarven detthek script read __"Ask your question and know truth"__
+The oracle has 6 charges and any creature in the circle that asks a question receives a truthful, thundering answer in the giant tongue (tho the oracle understands all languages).
+Each answer the oracle gives expends 1 charge and causes one of the six lanterns in the room to go out. 
+The oracle regains all expended charges at dawn, where upon the lanterns relight.
+See page 130 for likely questions and appropriate answers.
+
+**Returning with a giant relic**
+See page 131
+The relic must be placed in the center ring of the oracle. Eigeron knows this.
+The relic disappears and the oracle speaks __You have done a great deed for all giants! A new path lies before you!__
+For each relic that the party offers, a stony bas-relief depicting the corresponding giant lord protrudes from one of the chamber's five bare walls.
+The reliefs remain until a party member stands in the circle and declares which evil lord they wish to face.
+
+===== Leaving the temple for the first time =====
+[[:Encounter:Airship of a Cult]]
+
+
+
+
+
+

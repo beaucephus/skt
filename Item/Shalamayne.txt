@@ -15,4 +15,3 @@ requires attunement
 
 [[..\Shalamayne_1569598796884.png]]
 
-(If [[:Valriel]] gets the sword, do something later to cause her to make a decision, have the sword split)

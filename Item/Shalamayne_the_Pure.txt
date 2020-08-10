@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-08-09T09:47:14-04:00
+
+====== Shalamayne the Pure ======
+Created Sunday 09 August 2020
+
+**In the hands of a dwarf or other creature attuned to a Belt of Dwarven Kind, or if the racial seal is released**
+The once dim, encouraging flame, roars into a raging fire which licks up the blade's edge. Shalamayne deals an additional 2d6 fire damage on hit.
+
+This thick, heavy dwarven blade has a small cavity worked into the blade near the quillon. When weilding Shalamayne, flame roars from the cavity, licking up the length of the blade and emitting dim light in a 30-foot radius. While within this light, you and your allies are immune to the frightened condition. Shalamayne deals an additional 2d6 fire damage.
+
+{{.\Shalamayne_the_Pure_1596981176420.png}}
