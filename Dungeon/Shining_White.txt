@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-08-10T21:16:26-04:00
+
+====== Shining White ======
+Created Monday 10 August 2020
+
+__The spirit mound of the Griffon tribe of Uthgardt barbarians sits atop a ricky hill overlooking a tributary of the Surbrin River, south fo the Lurkwood. __
+__The grass atop the mound grows tall and thick.__
+__Two raised rings of grass-covered earth form Shining White, which you notice must get its name from a 300-foot-tall spire of white chalk that rises atop the hill.__
+__Visible for miles around, this landmark is unmistakable.__
+__Toppled menhirs, destroyed cairns, and a shattered alter dot the tops of the mound complex.__
+
+**If seen from the air**
+__In the center of the mound complex lies an enormous indentation in the earth in the shape of a gryphon in the center of which lies a large, busted up marble altar of sorts.__
+
+Stone giants have destroyed most of the menhirs cairns and the central alter.
+The griffon barbarians don't seem to have visited since the destruction
+
+**Giant Relic**
+The barbarians buried 2 broken halves of a giant relic: a once colorfully painted porcelain mask that must have been crafted long ago. Its paint is faded and chipped away.
+
+===== Encounter =====
+If the party lingers for an hour or more, 4 **griffons** descend from the sky and attack. The griffons target horses first. They are hungry and fight until the first griffon dies.
+
+Any creature that kills a griffon at shining white is cursed, gaining the following
+**Flaw: **I have an insatiable craving for horse flesh

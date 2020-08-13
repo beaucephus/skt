@@ -17,3 +17,4 @@ Ancestral burial mounds that each contains a relic of giant-kind. The oracle at 
 [[:Dungeon:Shining White]]             [[:Countess Sansuri]]
 [[:Dungeon:Stone Stand]]                [[:Jarl Storvald]]
 
+:Dungeon:Beorunna's Well

@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-08-10T21:49:54-04:00
+
+====== Black Raven Hunters ======
+Created Monday 10 August 2020
+
+hunting squad of black raven barbarians riding black ravens will hunt the party down
+
+1 **uthgardt shaman**
+6 **tribal warriors**
+
+Each rides a giant raven ( use giant vulture statblock)

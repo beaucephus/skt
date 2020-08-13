@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-08-10T21:24:20-04:00
+
+====== Fire Shield Loop ======
+Created Monday 10 August 2020
+
+When a creature attunes to the ring it __magically shrinks to fit that creature's index finger, and warm orange light spills from minuscule cracks that form on  its outer surface.__
+The ring has 3 charges that can be spent to cast the Fire Shield spell (fire only)
+Once the last charge is expended, the ring loses this spellcasting ability.
+
+{{.\Fire_Shield_Loop_1597109472389.png}}

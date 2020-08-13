@@ -1,0 +1,46 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-08-10T21:16:01-04:00
+
+====== Raven Rock ======
+Created Monday 10 August 2020
+
+__On the icy sloped of the Spin of the World stands the spirit mound of the Black Raven and Gray Wolf tribes of Uthgardt barbarians.__
+__Raven Rock gets its name from a 100-foot-tall stone carved in the likeness of a perching raven, sitting in the center of the highest plateau of the mound and facing west.__
+
+**If coming from the air**
+__To the southwest an enormous depression in the mound outlines a leaping wolf. A stone alter sits on a raised mound in the wolf depression's heart__
+
+
+**At Raven Rock rock**
+__Carcasses litter the ground at the raven statue's feet. Most of the meat, skin, and fat is picked clean, leaving a crunchy floor of sun-bleached bone.__
+At dusk giant ravens come to the mound to eat the carcasses left by the barbarians. For this offering, some of the ravens serve as mounts for the mightiest of the barbarians.
+
+**At the Gray Wolf alter**
+__The alter is a rectangular slab of stone with the phases of the moon carved into its sides.__
+
+===== Giant Relics =====
+
+**Raven Rock relic**
+The relic is a ring of hardened magma sized for a giant's finger, [[:Item:Fire Shield Loop]]
+It's buried in the ground in front of the alter.
+Without the aid of magic, it takes 5 hours for one character to dig up the relic.
+
+**Gray Wolf Relic**
+This relic is a 14-foot-long, 250-pound dragon's thighbone, [[:Dragon Bonker]]  . Part of the bone is wrapped in old leather, suggesting it might have once been used as a giant-sized greatclub.
+To reach the relic, the party must either smash through the alter, or burrow underneath it.
+Without the aid of magic, it takes 10 hours for one character to do either.
+
+===== Encounter (day) =====
+7 giant ravens either fly lazy circles(morning), hundreds of feet up or roost quietly(evening) in the tall pines surrounding the mound complex.
+They don't antagonize the party
+After this encounter a hunting squad of black raven barbarians riding black ravens will hunt the party down. [[:Encounter:Black Raven Hunters]]
+
+Any creature that slays a Giant Raven is cursed.
+They lose the ability to verbally speak any language, and can only speak in squawks and caws.
+
+===== Encounter (night) =====
+5 **wolves** and 3 **werewolves** hunt the party.
+The werewolves are member os the Gray Wolf tribe
+
+Any creature that is bitten by a werewolf is cursed with [[:Lycanthropy]]

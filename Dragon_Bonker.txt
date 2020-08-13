@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-08-10T21:35:50-04:00
+
+====== Dragon Bonker ======
+Created Monday 10 August 2020
+
+This relic is a 14-foot-long, 250-pound dragon's thighbone. Part of the bone is wrapped in old leather, suggesting it might have once been used as a giant-sized greatclub.
+The greatclub magically resized to fit it's wielder if attuned.
+
+The greatclub is a magic weapon that deals an additional 2d8 bludgeoning damage whenever it hits a dragon.
+
+{{.\Dragon_Bonker_1597110112104.png}}

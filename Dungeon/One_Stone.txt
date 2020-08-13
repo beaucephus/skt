@@ -1,0 +1,40 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-08-10T22:23:08-04:00
+
+====== One Stone ======
+Created Monday 10 August 2020
+
+__The spirit mound of the Sky Pony tribe of Uthgardt barbarians lies in a grove of oak trees surrounded by the tall pines of the Moonwood, west of the Redrun River.__
+__A swift but shallow stream of sparkling, fresh water encircles the spirit mound like a moat before flowing southward.__
+__The mound complex itself is a 2-tiered plateau. Cairns line the lower tier, and a single 15-foot-diameter boulder rests atop the upper tier which is shaped like a pegasus with the boulder as the pegasus's eye.__
+__In the northeast and southwest ends of the plateau lynched and desecrated corpses hang from identical totem poles, a clear warning of what befalls those who cross the Sky Pony tribe.__
+
+**Boulder**
+__The boulder is covered in jagged line engravings.__
+DC15 arcana check to realize that the engraved lines are carefully designed to channel magic energy directly from the weave itself.
+
+There are 2 distinct lines. Tracing a line with a finger activates a magical effect.
+- Cast Control Weather. Once cast, this property can't be used again for 7 days.
+- Shrink or Enlarge. Either shrink the stone to a 6-inch diameter, or enlarge it to a 15-foot diameter. Anything the enlarged boulder falls on must make a DC15 DEX save or take 10d10 bludgeoning damage. Once used this property can't be used again for 24 hours.
+
+
+===== Encounter =====
+When the characters first reach the uppermost tier of the plateau, the ground beneath their feet begins to tremble. 
+Seconds later, a **bulette** erupts from the ground 50 feet away from them.
+Mounted on its back is a member of the **Cult of the Black Earth** named **Tau** (NE male Shou human)
+He knows the properties of One Stone and seeks to claim the relic in the name of **Ogremoch**, **the Prince of Elemental Earth**
+He doesn't want any witnesses and dismounts and attacks the party on sight and the ground begins to rumble again.
+1-2 rounds later a second cultist, **Sharda** joins the fray, dismounting and fighting alongside her bulette
+
+**Tau** and **Sharda** are **cult fanatics** with the following changes.
+AC16 stone breasplates.
+They weild stone clubs that deal 1d4+2 bludgeoning damage (although the cultists prefer to stay back and cast spells)
+
+After the battle, but before the party can rest, 20ish **tribal warriors** and an **uthgardth shaman** of the Sky Pony tribe emerge from the northwest edge of the woods.
+They've been drawn here by the sounds of combat, and attack on sight.
+
+**loot**
+The cultists stone breastplates are treated with magical black-oil paint. They are much lighter than their size and bulk would suggest and can be worn as a +1 breastplate.
+They're worth 250GP each
+

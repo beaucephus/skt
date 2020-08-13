@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-08-13T07:43:43-04:00
+
+====== Morgur's Mound ======
+Created Thursday 13 August 2020
+
+__The spirit mound of the lost Thunderbeast tribe stands in the crags, a land of rolling hills, plateaus, and sharp rocky outcroppings, and is named after Uthgar's brother, Morgur.__
+From the gound or air __The mound is shaped like a crude, long-necked, wingless dragon. A ridge of dragon bones juts from the head, neck, back, and tail of the mound.__
+__Enourmous cairs, each 30 feet in diameter encircle the mound out to a quarter-mile or more.__
+
+**close to the mound**
+__It seems this mound has been dug into. You see digsites around the entire perimeter of the mound.__
+
+Patience is the key to finding the relice.
+Without the aid of magic, it takes a single creature 8 hours digging to unearth something.
+1. Potion of Fire Breath corked up with resin in a hollowed out animal horn
+2. Elemental Gem of Yellow Diamond (__This roughly-cut yellow diamond trembles when touched. Upon further inspection you notice a small mote of shivering earth deep in the diamond's core. A crack runs the length of the jewel, likely compromising its structural integrity.__)
+3. **Acient Relic: A gold-plated giant's tooth**. 
+
+===== Encounter =====
+When the tooth is lifted from the hole, the ground trembles as four thunderbeast skeletons erupt from the mound.
+They fight until turned or destroyed
+Each look and acts as an **ankylosaurus** with:
+  vulnerability to bludgeoning damage
+  they're undead
+  they have darkvision
+
+Any creature who destroys a thunderbeast skeleton is cursed.
+Every step you take is accompanied with a thunderous boom.
+You have advantage on intimidation checks
+You automatically fail stealth checks.

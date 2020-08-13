@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-08-10T21:56:08-04:00
+
+====== Lycanthropy ======
+Created Monday 10 August 2020
+
+Any creature cursed with lycanthropy begins to develop subtle animalistic features like that of the animal that cursed them.
+
+Any time the lycanthrope sees a full moon, or an image like a full moon, they must make a DC30 CON save or transform into a **werewolf** (or other appropriate were-animal).
+All statistics are immediately and completely replaced with those of a **werewolf** and their alignment becomes chaotic evil for the duration.
+The transformation lasts until dawn.
+This DC decreases by 5 for every transformation the lycanthrope undertakes.
+Upon the first successful save, the creature gains control over their primal urges, obtaining the ability to shape-change at will into either **werewolf** or **wolf** form. (works like druid beastshape)

@@ -1,0 +1,80 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-08-13T08:30:27-04:00
+
+====== Great Worm Cavern ======
+Created Thursday 13 August 2020
+
+__The spirit mound of the Great Worm tribe of Uthgardt barbarians is inside a spacious cavern at the northeast end othe Valley of Khedrun, deep in the Spine of the World.__
+__This ice hangs above the pillared entrance the the cavern, and the iinterior walls of the place are covered with an icy glaze lined with massive icicles that gleam and glitter in reflected light.__
+__The walls and floor seem slippery, dripping and pooling with slowly melting water.__
+__The entrance is flanked by 70-foot-high ledges of rock, atop which stand two totem poles of chiseled ice with carvings that resemble winged snakes. __
+__The walls of the ledges are riddle with caves and readily-apparent foot-traffic__
+
+===== Encounter =====
+**Tribal warriors at the entrance**
+4 **tribal warrios** (2 on each ledge) stand guard over the main entrance of the cavern.
+DC15 stealth to get by the warriors unnoticed
+The warriors have a stack of javelins that they hurdle down at enemies.
+
+**Once inside the cavern**
+__You feel the warm, radiating heat of hot, moist air which hangs thick almost to the point of fog in the lower levels of the cavern.__
+__Rising from the back of the cavern is a triangular promontory of ice-covered rock, 120 feet above the cavern floor at its peak.__
+__Thereupon stands an altar of frost-covered stone.__
+
+**Inside a cave**
+__You find a group of women and their children huddled in a corner and calling out to their husbands for help.__
+Any creature who damages the alter or the noncombatants in the cavern is cursed
+Before performing any action that could harm another creature, you must make a DC13 WIS save or lose that action, your will to fight dissapated. 
+
+**On the ledges**
+__Dug into the cavern walls are narrower, smaller caves__
+
+**Inside a crypt**
+__This thin cave ends in the standing up-right decaying corpse of an Uthgardt barbarian, encased and welded to the wall in a thin layer of ice.__
+
+===== The Altar =====
+__The frost-covered stone altar depicts a great coiled serpent with feathered wings and tail__
+DC10 religion check to recognize it depicts a coatl, a divine agent of some god long forgotten to all except the coatls themselves.
+A coatl resides in the alter.
+It calls out telepathically to the first good-aligned party member that approaches the alter.
+It warns the party that the once wise and welcoming Great Worm tribe have fallen under the sway of a xenophobic tyrant, the chieftan named Wormblod.
+__Those of you that are good-of-heart I beg you, free the Great Worm tribe from Wormblod's tyranny. If you do this, I can steer them towards a better path.__
+__And, I will reward you!__
+
+**If the party asks where wormblod is**
+__The evil chieftan is away, searching for a missing concubine named Noori.__
+
+If the party puts 2 and 2 together, let them make a persuasion check to convince the coatl that the deed is already done.
+The coatl rewards a single good-aligned party member with a 
+**Charm of Restoration**: This charm has 6 charges. You can use an action to expend some of its charges to case one of the following spells: greater restoration (4) or lesser restoration (2). Once all charges are spent, the charm is expired and vanishes. 
+
+Any creature who damages the alter or the noncombatants in the cavern is cursed
+Before performing any action that could harm another creature, you must make a DC13 WIS save or lose that action, your will to fight dissapated. 
+
+===== The Gong =====
+__In the back of the cave at the base of the triangular promontory hangs a crescent-shaped gong in a crude stone frame. __
+
+**closer**
+__The gong is a circular disk 13 feet in diameter made of red dragon scales riveted to a beaten copper frame on the convex side.__
+__A serires of 4 small copper hoops stick out, holding nothing, on the concave side of the gong.__
+
+===== Striking the Gong =====
+__A deep, crashing tone echoes throughout the cavern and causes a few large icicles to break away from the ceiling and crash down onto the  icy floor.__
+__Coming from the lower floor of the cavern you first hear serpentine hisses and the click of many legs on ice, then come the paniced screams of barbarian women and children.__
+
+3-4 young remorhazes burst forth through the thin ice floor and begin attacking any creatures they see. They attempt to burrow into the small caves where the barbarian women and children hide.
+
+**loot**
+The remorhaz lair is a 20-foot diameter oval chamber with walls of glazed ice.
+Scattered on the floor are: 
+3 500GP gemstones
+15 100GP gemstones
+[[:Item:Rod of Security]]
+
+
+
+
+
+
+
