@@ -5,3 +5,19 @@ Creation-Date: 2020-08-14T14:48:40-04:00
 ====== Stone Stand ======
 Created Friday 14 August 2020
 
+DC10 **history** The Blue Bear tribe of Uthgardt barbarians is extinct, its spirit mound a haunted place best avoided.
+
+__Stone Stand is situated upon a lonely hill north of the High Forest. Atop this hill stands the bear-claw-shaped mound of the Blue Bear tribe.__
+__A towering oak tree grows in the center of the complex surrounded by a raised inner ring of cairns and a broken outer ring of mounds with more cairns atop them.__
+
+===== Relic =====
+The skull of a frost giant (Gurt, Lord of the Pale Giants) is buried underneath the tree and the party will have to hack away at part of the tree's roots to access it.
+Without the aid of magic, a single creature can take 40 hours to unearth the relic.
+
+===== Encounter =====
+Any time a creature approaches the tree the **ghost** of an Uthgardt barbarian appears next to the tree. up to 4 daily
+They wail __"Why have I been denied a place at Uthgar's side?"__
+__This ground is cursed!!!__
+__The Lord of the Pale Giants!!!__
+__Free us!!!__
+Then they attack, first with their horrifying vissage, then possession and withering touch
