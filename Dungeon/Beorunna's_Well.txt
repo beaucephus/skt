@@ -1,0 +1,64 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-08-14T10:17:51-04:00
+
+====== Beorunna's Well ======
+Created Friday 14 August 2020
+
+__The spirit mound othe Black Lion and Red Tiger tribes of Thgardt barbarians rests in the heart of the Druarwood.__
+__Not a mound per se, but an ice-cold cavern whose ceiling is partially open to the sky.__
+
+**DC10 history**
+According to Uthdardt legen, Beorunna, a barbarian hero died fighting a demon in these woods. In the final moments of the battle, the ground beneath Beorunna's feet crumbled, plunging her and her enemy into a cavern.
+The cavern contained a heated pool that came to be know as Beorunna's Well
+
+===== Above =====
+__A long, knotted rope tied off to a tree trunk descends 250 feet down to the bottom of the open cavern. In the center of the cavern floor, where light can reach stands a small grove of furs and pines coated in snow.__
+
+===== In the cavern =====
+__The roughly triangular cavern floor is dotten with cairns and stalagmites. The walls rise up at an angle to the narow open ceiling.__
+__Stalagtites and protruding tree roots make a jagged mess of the cavern's arched walls and ceiling.__
+__A faint mist hangs in the cavern and the sound of lightly flowing, falling, and dripping water echoes throughout the cavern. __
+
+===== At the center =====
+__A small stand of pine trees like a sunken grove grows in the middle of the cavern.__
+DC20 to notice an Uthgardt shaman sleeping under a blanket of snow.
+
+**To the west**
+__a 100-foot-diameter pool streams into the cavern walls through various cracks and tunnels.__
+__A single geyser steadily erupts a fountain of water, creating a warming mist that spreads throughout the cavern, making any object further than 50 feet away seem fuzzy and not-well-defined.__
+
+**To the east**
+__You see the faint glow of light coming through the mist.__
+DC20 to notice the smell of cooking meat wafting from the east.
+
+**To the south**
+__A multi-tiered ledge rises 100 feet above the cavern floor. Two branchless trees stand on the highest ledge.__
+
+===== At the well =====
+__On a rocky shore next to the spring, the ground is strewn with humanoid and animal bones - the obious remains of some monstrous creature's kills__
+DC20 to notice one high, rocky ledge has signs of activity. Claw marks, tufts of fur, and more bones.
+
+===== At the camp =====
+__6 human barbarians huddle around a campfire speaking softly while cooking a small woodland deer on a spit. 4 wood and hide tents are put-up behind them.__
+
+===== At the alter =====
+Require a stealth check to climb the ledges without making noise.
+__You can see now the 2 branchless trees are actually two separate totems. One pole is covered in black pitch upon which rests a large cave lion's skull. The other is covered in dried coagulated blood upon which rests an equally large tiger's skull.__
+__At the highest level, near the back wall of the cavern sits a large stone slab, weighing several tons at least, it is 10 feet-long, 6-feet-wide, and 3-feet tall (at least that you can see)__
+__It is spattered with dried blood and a rotting yak's corpse rests atop it.__
+
+**Relic**
+A rough-hewned niche underneath the alter contains the skeletal remains of a large humanoid, and a fossilized horn carved from mammoth tusk and engraved with images of giants battling dragons.
+The horn weighs 250 pounds and is worth 750GP
+Creatures will need to either burrough underneath, move, or break the slab to reach the niche.
+Combined strength check of 50 to move the slab
+
+===== Encounter =====
+Any loud noise in the cavern echoes, waking the **manticore**, the **Uthgardt Shaman** in the grove, and the 4 **berserkers** and 6 **tribal warrriors** resting near the campfire.
+**After a round or two**
+The shaman __draws a large black pearl and begins attempting to crush it while frantically repeating a ritualisitc chant__ to cast Circle of Death once, requiring 3 turns to complete the spell.
+Any remaining barbarians gain the effects of a Glamour bard's Mantle of Inspiration and attempt to protect her while she completes the spell.
+
+**loot**
+The shaman has a large black pearl worth 500GP unless she completes the Circle of Death spell

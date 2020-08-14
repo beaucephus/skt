@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-08-14T09:35:06-04:00
+
+====== Flint Rock ======
+Created Friday 14 August 2020
+
+__The spirit mound of the Elk tribe is situated in the midst of the Evermoors atop a gnarly knob of flinty stone that's perpetually shrouded in dense fog.__
+__2 concentric, ring mounds encircle a central basin shaped like a leaping elk stag.__
+__Menhirs mark the 4 cardinal directions on the inner ring.__
+__In the center of the elk-like basin rests an elevated mound upon which sits a stone slab, several tons at least, 10 feet long, 6 feet wide, and 3 feet tall (at least that you can see)__
+
+**On the ground**
+__2 elk, possibly a mated pair, graze on the thick, lush moss and grass in the basin area.__
+
+
+===== The Relic =====
+The relic is a 75-pound, 5-foot-long mythral spear tip. It emits a faint aura of divination magic, though the magic has disappated and no longer produces any effects.
+It is buried directly underneath the slab.
+Creatures will need to either burrough underneath, move, or break the slab to reach it.
+Combined strength check of 50 to move the slab
+
+===== Encounter =====
+**Elks**
+They observe the party for signs of aggresstion, and go back to grazing if not threatened.
+Any creature who kills an Elk on Flint Rock is cursed.
+Members of the elk tribe recognize the cursed creature as a hated enemy and are hostile toward it.
+In addition, the creature can't benefit from natural healing.

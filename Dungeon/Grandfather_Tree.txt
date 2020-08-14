@@ -1,0 +1,60 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-08-14T08:44:10-04:00
+
+====== Grandfather Tree ======
+Created Friday 14 August 2020
+
+__Deep within the high forest, the ancestral spirit mound of the Tree Ghost tribe is shaded by an oak tree of immense size. The crown soars to a height over 350 feet, and the boughs sprawl out shading an area almost 1000 feet in diameter.__
+
+**Underneath the tree**
+__The base must be at least 50 feet in diameter and the largest boughs are each as thick as a normal oak tree's base. This tree must be thousands of years old to have gotten this big.__
+__Around the ancient tree are two concentric rings of raised earth. The inner-most ring has 4 normal-sized oak trees (healthy and mature) growing out of it.__
+__You smell a foul charnel stench coming from one of the valleys encircling the tree.__
+
+Creatures that act with the tree's best interest in mind gain the effect of a bless spell while under its boughs
+Any creature that takes a long rest under the boughs gains the benefits of the Greater Restoration spell.
+
+===== Relic =====
+**Close to the base**
+__Many small chanbers are hidden between the exposed roots of the tree.__
+Any creature who searches the chambers finds one containing a half-buried electrum torc etched with runes. (The runes are giant)
+Worth 250GP. Could be worn as a necklace for a humanoid
+
+===== Encounters =====
+**Centaurs in the valley**
+__7 centaurs exuding a charnel stench retch and heave as they lie on the forest floor looking up into the boughs of the great tree with sickness on their faces and indeed all around them.__
+
+The centaurs fell victim to a curse as they explored some ancient ruins far way in the southern reaches of the high forest.
+They smell like a musty old crypt, can't rest, and can't eat or drink without making themselves sick.
+They've come to the grandfather tree in hopes that the legends of its restorative magic are true.
+__As the stories go, the grandfather tree has developed immense live-giving powers with its age. Even taking a night's rest under the tree is said to cleanse any ailment or curse.__
+
+Platinous
+Myleos
+Absorus
+Lazastus
+Enus
+Teofol
+Chrisastus
+
+**Dryads in the 4 oaks**
+4 dryads live in the mature oaks that grow underneath the grandfather tree.
+They all emerge from their trees once any creature passes them towards the grandfather tree.
+They say in elvish: __Outsiders have no business here in the heart of the forest. This is a peaceful place, and we do not wish it to be disturbed. Leave! At once!__
+DC14 to influence the dryads.
+
+If the players ignore the dryads, they charm the players and attack any who resist their charms.
+The centaurs come to their aid even though they are considered poisoned.
+
+If a dryad is killed, summon an avenging animal, see page 87.
+Also any creature that kills a dryad is cursed.
+They are cursed to spend the rest of their life protecting the tree that the dryad was bound to. This curse is unaffected by the grandfather tree's restorative powers.
+  Over the next 7 days, that player begins to turn into a dryad, completing the transformation on the dawn of the 7th day.
+
+
+ 
+
+
+
+
