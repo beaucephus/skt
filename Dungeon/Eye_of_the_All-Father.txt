@@ -197,6 +197,7 @@ Eigeron knows how the oracle works and can explain what the characters must say 
 
 **Eigeron loot**
 If the players offer to help slay Blagothkus, Eigeron offers the party his +2 bronze-gold breastplate and his [[:Item:Opal of the Ild Rune]]
+and a piece of the vonindod
 He doesn't object if they take them without him offering.
 
 === The Oracle ===
