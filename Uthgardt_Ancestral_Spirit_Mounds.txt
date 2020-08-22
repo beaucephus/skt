@@ -7,13 +7,40 @@ Created Saturday 31 August 2019
 
 Ancestral burial mounds that each contains a relic of giant-kind. The oracle at the [[:Eye of the All-Father]] will grant a quest based on which relics are offered as tribute.
 
-[[:Dungeon:Beorunna's Well]]         [[:Thane Kayalithica]]
-[[:Dungeon:Flint Rock]]                   [[:Countess Sansuri]]
-[[:Dungeon:Grandfather Tree]]       [[:Chief Guh]]
-[[:Dungeon:Great Worm Cavern]]   [[:Jarl Storvald]]
-[[:Dungeon:Morgur's Mound]]         [[:Duke Zalto]]
-[[:Dungeon:One Stone]]                  [[:Thane Kayalithica]] 
-[[:Dungeon:Raven Rock]]                [[:Duke Zalto]]
-[[:Dungeon:Shining White]]             [[:Countess Sansuri]]
-[[:Dungeon:Stone Stand]]                [[:Jarl Storvald]]
+1 [[:Dungeon:Beorunna's Well]]         [[:Thane Kayalithica]] 
+  __Beorunna's Well, the spirit mound of the Black Lion and Red Tiger tribes of Uthgardt barbarians rests in the heart of the Druarwood.__
+2 [[:Dungeon:Flint Rock]]                   [[:Countess Sansuri]]
+  __Flint Rock, the spirit mound of the Elk tribe is situated in the midst of the Evermoors atop a gnarly knob of flinty stone that's perpetually shrouded in dense fog.__
+3 [[:Dungeon:Grandfather Tree]]       [[:Chief Guh]]
+  __Deep within the high forest, The Grandfather Tree, ancestral spirit mound of the Tree Ghost tribe is an oak tree of immense size. __
+4 [[:Dungeon:Great Worm Cavern]]   [[:Jarl Storvald]]
+  __Great Worm Cavern, the spirit mound of the Great Worm tribe of Uthgardt barbarians is inside a spacious cavern at the northeast end othe Valley of Khedrun, deep in the Spine of the World.__
+5 [[:Dungeon:Morgur's Mound]]         [[:Duke Zalto]]
+  __Morgur's Mound, the spirit mound of the lost Thunderbeast tribe stands in the crags, a land of rolling hills, plateaus, and sharp rocky outcroppings.__
+6 [[:Dungeon:One Stone]]                  [[:Thane Kayalithica]] 
+  __One Stone, the spirit mound of the Sky Pony tribe of Uthgardt barbarians lies in a grove of oak trees surrounded by the tall pines of the Moonwood, west of the Redrun River.__
+7 [[:Dungeon:Raven Rock]]                [[:Duke Zalto]]
+  __On the icy slopes of the Spine of the World stands Raven Rock, the spirit mound of the Black Raven and Gray Wolf tribes of Uthgardt barbarians.__
+8 [[:Dungeon:Shining White]]             [[:Countess Sansuri]]
+  __Shining White, the spirit mound of the Griffon tribe of Uthgardt barbarians sits atop a ricky hill overlooking a tributary of the Surbrin River, south fo the Lurkwood. __
+9 [[:Dungeon:Stone Stand]]                [[:Jarl Storvald]]
+  __Stone Stand is situated upon a lonely hill north of the High Forest.__
+
+Have every party roll a d10 to determine which mounds they know of. Reroll duplicates
+
+===== Skill challenge to actually find the mound once they arrive in the general location. =====
+__We’re starting a skill challenge to describe how you find__ X
+__A skill challenge is a type of scene where the party needs to succeed on a certain number of ability checks before you reach 3 failures.__ __3 strikes and you're out.__
+__We go to each person in turn, and on your turn, you set up a scene yourself, describe how you try to overcome it, then make a check to see if you are able to succeed.__
+__You can only attempt a skill that you are proficient in and once you've used a skill, you can't use that same skill again, tho other characters can.__
+__If the party gets enough successes, you reach your destination safely. If the party fails the skill challenge, something bad will happen.__
+
+__The DC for this skill challenge is 13 and you need to reach 4 successes to overcome the skill challenge__
+
+=== Examples: ===
+**Nature**
+__I use my studied knowledge of the area's local flora and fauna to gather some awareness-hightening herbs for the party to chew on as we travel.__
+**Performance**
+__We stumble upon a mother owlbear and cubs. I play possum to disinterest the owlbear until she goes away.__
+
 
