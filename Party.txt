@@ -10,7 +10,7 @@ Rogar 		18
 Braddock 	16
 Tana	 	13
 Lessa 		13
-Frana		TODO
+Frana		16
 ~~Stella 		12~~
 Val 			11
 Reed 		11
@@ -25,25 +25,19 @@ level 6
 
 [[Tana Willowwhisper]] (Nathan)
 level 6
-PP 13
 
 [[Lessa]] (Hillary)
 level 5
-PP 14
 
 [[Valriel]] (Jeremiah)
 level 6
-PP 11
 darkvision
 
 [[Reed Osborn]] (Sam)
 level 6
-PP 11
 
 [[Rogar]] (Zach)
 level 7
-PP 16
 
 [[Braddock]] (AJ)
 level 6
-PP 16
