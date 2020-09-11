@@ -10,6 +10,7 @@ The castellan will ask __What business have you with Lyn Armaal?__
 He will escort the party to speak with [[:Countess Sansuri]] in the Audience Chamber
 
 Sansuri greets the party as a welcoming host wearing her happy mask.
+__Welcome to my home, Lyn Armaal! My loyal Cressaro tells me__...
 She expresses interest in the party and hears what they have to say.
 If they express interest in Maelstrom, Sansuri dons a grim mask and asks why and for what reason should she bestow them the conch.
 Regardless of whether they offer a good reason, a roar occurs
