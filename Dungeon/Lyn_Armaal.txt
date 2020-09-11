@@ -1,0 +1,128 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-09-11T14:53:12-04:00
+
+====== Lyn Armaal ======
+Created Friday 11 September 2020
+
+__Countess Sansuri's castle consists of three conjoined towers connected to a gatehouse landing via bridge, all made of smoothly mortared, stone. The central tower is the widest and has a more slender tower rising from its top that ends in a conical pinnacle, the highest point in the castle.__
+__The flat roofs of the 3 main towers are coated in lush, green lawns dotted with gardens, fountains, and even a greenhouse.__
+__The castle itself towers, from base to peak, several hundreds of feet atop a semi-solid cloud floating more than a mile above the earth below.__
+
+**closer**
+__Crenellated battlements surround every surface of exposed tower-top. Protruding from the battlements you can see many ballistae and a few telescopes.__
+__Watchful cloud giant and aarakocra sentries stand guard along the battlements__
+
+**if noticed**
+__A single aarakocra flies up to the ship. He gestures for you to follow him.__
+
+**If the party approach Lyn Armaal diplomatically**
+Run [[:Encounter:Lyn Armall Feast]]
+
+===== General Features =====
+**Ceilings** are 40 feet high.
+**Floors** floors are made of tightly-fitted stone, thick varnished wooden planks, or 2-foot-deep soil.
+**Cloud** is opaque, bouyant, and semisolid, with the consistency and coldness of slush. The cloud can be sculpted, and falling into the cloud causes no damage.
+**Crenellated Battlements** are 10 feet tall and 5 feet wide.
+**Arrow Slits** are 10 feeet tall, and 5 feet wide, starting 10 feet from the floor
+**Doors** are 30 feet tall made of ornately carve, 6-inch-thick wood with polished bronze fittings. Latched door handles are 12 feet up. It requires 2 medium creatures to unlatch and open a door.
+**Illumination** All areas of the castle are brightly lit either by natural sunlight filtering in through sunlights and arrow slits, or by continually lit sconces.
+**Furnishings** All features including stairs and furniture are sized for cloud giants. Difficult terrain for medium creatures.
+
+=== 1 Audience Chamber ===
+
+
+=== 2 Workshop and Meeting Room ===
+
+
+=== 3 Guest Room ===
+
+
+=== 4 Armory ===
+
+
+=== 5 Barracks ===
+
+
+=== 6 Aft Battery ===
+
+
+=== 7 Griffon Aviary ===
+
+
+=== 8 Dungeon ===
+
+
+=== 9 Cloud Stair ===
+
+
+=== 10 Gatehouse ===
+
+
+=== 11 Main Gate ===
+
+
+=== 12 Servant's Quarters ===
+
+
+=== 13 Kitchen ===
+
+
+=== 14 Castellan's Quarters ===
+
+
+=== 15 Stores ===
+
+
+=== 16 Port Battery ===
+
+
+=== 17 Rampart ===
+
+
+=== 18 Starboard Battery ===
+
+
+=== 19 Gallery ===
+
+
+=== 20 Thullen's Bedroom ===
+
+
+=== 21 Library ===
+
+
+=== 22 Nursery ===
+
+
+=== 23 Playroom ===
+
+
+=== 24 Guard Room ===
+
+
+=== 25 Lounge ===
+
+
+=== 26 Port Lawn ===
+
+
+=== 27 Starboard Lawn ===
+
+
+=== 28 Greenhouse ===
+
+
+=== 29 High Lawn ===
+
+
+=== 30 Navigation Dome ===
+
+
+=== 31 Hall of Masks ===
+
+
+=== 32 Study ===
+
+
+=== 33 Master Bedchamber ===

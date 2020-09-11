@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-09-11T15:36:16-04:00
+
+====== Lyn Armall Feast ======
+Created Friday 11 September 2020
+
+The party will be led to the Gate House where they are introduced to [[:Castellan Cressaro]]
+The castellan will ask __What business have you with Lyn Armaal?__
+He will escort the party to speak with [[:Countess Sansuri]] in the Audience Chamber
+
+Sansuri greets the party as a welcoming host wearing her happy mask.
+She expresses interest in the party and hears what they have to say.
+If they express interest in Maelstrom, Sansuri dons a grim mask and asks why and for what reason should she bestow them the conch.
+Regardless of whether they offer a good reason, a roar occurs
+
+===== Muffle crashing and roars =====
+Periodically the muffled roaring of a wild beast echoes throughout the castle. Sansuri waves it off as __The cooks are just preparing our evening feast.__
+Sansuri offers to host the party for dinner
+
+===== Retire =====
+The party is able to retire to the guest quarters where they are prompted to __freshen up and__ __change into more appropriate dinner attire__ 
+There is a giant-sized hot bath drawn, with soap. A number of of fancy silken robes laced and trimmed extravagantly are layed out on the giant-sized beds in the room.
+A barrel labelled __Lyn Armaal 1426__ sits atop a table next to a decanter and goblets, all-giant-sized.
+A cloud giant guard is stationed outside the Guest Room and attempts to keep them inside.
+He is rough and short, seeming to offer the party no leniency, suggesting the __try the wine. It was made in our very own vinyard__.
+Any creature that drinks the wine falls into a coma-like sleep after 10 minutes. The sleep lasts 1 hour.
+After 30 minutes in the room, the guard enters the room to incapacitate any remaining wakeful party members. He might call for help.
+
+**If he gets the party**
+He takes them to the kitchen where they all wake up one hour later, stripped of their clothes, tied up with meat-string, and being seasoned for a stew.
+There are various sharp implements lying around as the 3 ogres are not very organized cooks.
+The party's gear is still in the Guest Room.
+
+
+===== Now run the dungeon!!! =====
