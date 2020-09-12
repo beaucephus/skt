@@ -219,14 +219,37 @@ The orb is the castle's [[:Item:Navigation Orb]]
 the door is locked DC20 to force or 14 to pick open (made with disadvantage if medium creature). DC30/24 if Sansuri is inside and cast arcane lock.
 __The walls of this room are festooned with masks, fifty in all. The masks are all giant-sized and each captures a mood or emotion with its own unique style. The masks rest atop narrow shelves set into the walls 10, 15, and 20 feet above the floor. There is a single door which due to the rooms architecture you can guess leads up a a spiral staircase__
 each masks is a unique art object worth 250gp
-This is where Sansuri retreats to if she is wounded. Here she makes her last stand, but will bargain for her's or her children's lives.
+This is where Sansuri retreats to if she is wounded. If defeat seems imminent, she will bargain for her's or her children's lives.
 
 === 32 Study ===
 __Furnishing inside this personal study chamber include a table and a 25-foot-tall wooden cabinet. The spiral staircase ascends to another level above.__
 The cabinet is arcane locked DC25 to force and 19 to pick, made with disadvantage if medium.
 2 **invisible stalkers** guard the room.
 
-**loot**
+**loot in the cabinet**
 potions of Clairvoyance, Diminution, Fire Resistance, Lightning Resistance, Storm Giant Strength, and Supreme Healing.
+scrolls of Animate Objects, Chain Lightning, Dominate Monster, Legen Lore, and Phantasmal Killer
+[[:Item:Cloak of Elvenkind]]
+[[:Item:Gauntlets of Ogre Power]]
+[[:Item:Ring of Air Elemental Command]]
 
 === 33 Master Bedchamber ===
+__This bedchamber is adorned with decorations befitting the status of a noble. A three-folded wooden privacy screen carved to look like trees with blowing leaves made of thinly pressed gold and platinum stands in front of 6 gold-spun tapestries that adorn the walls. A free-standing, electrum-framed mirror stands next to a bed whose mattress is filled with soft down, and the bed's wooden frame is inlaid with gold tracery and gemstones. The chamber's conical roof reaches its apex 60 feet overhead. Hanging from the rafters is a bizarre merry-go-round made up of seven stuffed pegasi hanging from a ring-shaped track made of steel. The ring slowly turns so that the stuffed winged horses glide overhead continually.__
+DC15 check to find a secret compartment hidden in the bed's headboard. It contains a small bejewled chest.
+The chest is Sansuri's component to her Leomund's Secret Chest spell.
+Only Sansuri can retrieve the real chest. If she is killed the party either needs to resurrect her and persuade her or find another way to Maelstrom.
+
+**loot**
+The gold tracery in her bed is worth 100gp
+50 gemstones embedded in the frame @100gp each
+the tapestries are 2,500gp/750lbs each
+The mirror is worth 1,500gp/500lbs
+The privacy frame is 2,500gp/500lbs
+The fullsized Leomund's Secret Chest is worth 5,000gp. The replica is worth 50gp.
+  Inside the chest are: 
+	Sansuri's [[:Item:Conch of Teleportation]]
+	500pp
+	4 platinum bracelets (750gp each)
+	gold pendant necklace with a fist-sized amethyst (7500gp)
+	diamond-encrusted diadem (7500gp)
+
