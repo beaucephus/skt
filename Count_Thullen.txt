@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-09-12T15:43:04-04:00
+
+====== Count Thullen ======
+Created Saturday 12 September 2020
+
+Count Thullen is a cloud giant male
+
+He is the opposite to his sister [[:Countess Sansuri]] in many ways.
+
+He is gentle and wise, not easily moved to violence. Only entering battle at the endangerment of his sister's children.
+Thullen does not wear a mask.
+page 198 for stats
+
+**Developments**
+Thullen tries to reason with the party as long as they don't harm Sansuri's children.
+He knows the location of Sansuri's Conch of Teleportation(the tallest tower bedchamber, 33), but doesn't know exactly where 

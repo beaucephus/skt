@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-09-12T14:49:40-04:00
+
+====== Anstruth Harp ======
+Created Saturday 12 September 2020
+
+Requires attunement
+Attunement involves 4 hours of focused practice at the end of which you must make a DC25 performance check. On a success, you are attuned. On a failure, you take 2d4 psychic damage, and remain NOT attuned.
+
+You can use an action to play the instrument and cast 1 of its spells. Once the instrument has been used to cast a spell, it can’t be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.
+
+When you use the instrument to cast a spell that causes targets to become charmed on a failed save, the targets have Disadvantage on the saving throw. This effect applies whether you are using the instrument as the source of the spell or as a spellcasting focus.
+
+**Spells**
+Control Weather, Cure Wounds (5th level), Wall of Thorns

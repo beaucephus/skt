@@ -30,99 +30,203 @@ Run [[:Encounter:Lyn Armall Feast]]
 **Furnishings** All features including stairs and furniture are sized for cloud giants. Difficult terrain for medium creatures.
 
 === 1 Audience Chamber ===
-
+__This opulent hall features lapis lazuli tile work and murals depicting castles in the clouds as well as cloud giants chasing silver dragons while riding rocs and golden sky-chariots drawn by griffons.. Marble bleachers hug the walls near the entrance, across from which stands an ornate alabaster throne inlaid with gemstones. "Guarding" the throne on either side are two life-sized statues of cloud giants - one male, one female - standing at attention, wearing tall helmets with feather plumage, and clutching mithral-tipped spears.__
+__Set into the floor in front of the throne is a 10-foot-diameter curcular hole surrounded by decorative tiles of gold marble, white alabaster, and blue lapis lazuli. Standing at attention with their backs to the hole are four aarakocra.__
+The statues are harmless sculptures
+The aarakocra are alert but remain perfectly still. They have been ordered to guard the throne. They take no action unless physically provoked or if the characters approach the throne.
+The black sapphire triggers a glyph of warding if removed. 20 foot radius shere takes 8d8 cold damage, DC 15 dex save for half damage
+**loot**
+72 gemstones decorating sansuri's throne: 30@50gp, 20@100gp, 15@500gp, 6@1000gp, and a black sapphire (5000gp) set into the top of the throne, in the middle of a sun-shaped marble fitting engraved with runes
 
 === 2 Workshop and Meeting Room ===
-
+__A stone table dominates the room and tall wooden cabinets stand against opposite walls. Other decor includes potted plants (one on the floor and other hanging from the ceiling above the table) and a large wooden waste barrel.__
+__Next to the door, hanging from a stone hook mounted to the wall 20 feet above the floor, is a 2-foot-long iron key.__ (weighs 25 pounds)
+The bin is empty
+The key opens the restraints and cages in the Dungeon, area 8.
+**loot**
+The cabinets contain all manner of spell components and trinkets. Any material component for a spell 6th level or lower, enough for 1 casting of each.
+[[:Item:Uthgardt Burial Mound Treasure Map]]
 
 === 3 Guest Room ===
-
+__The furniture in this room is scaled for giant-sized guests and includes two soft beds, a handsomely carved wooden table, and a wooden chest. A sapcious closet at the back of the room has some giant-sized and human-sized cloaks and robes hanging from bronze hooks. A barrel of wine, brass decanter, and matching goblets sit on the table.__
+This is the room the party is "held" in during [[:Encounter:Lyn Armall Feast]]
+**loot**
+The brass decanter is 5 feet tall (250gp) and weighs 75 pounds. 2 of the goblets are inlaid with gemstones and platinum filigree (750gp/50lbs each)
 
 === 4 Armory ===
-
+__Stored in wooden racks along the walls are dozens of spears and jevelins, each one exquisitely crafted and well balanced, as well as tools for repairing armor and weaponry. Two full suits of cloud giant-sized plate armor hang from giant bronze mannequins that stand at attention, their backs against the outer wall. A wooden table rests between two doors, and a rug embroidered with an image of the night sky lies on the floor.__
 
 === 5 Barracks ===
-
+__5 beds are spaced along the outer wall, with a barrel of wine and a crate of food stashed in one corner. Three giant cloaks hang from bronze hooks on one of the walls, and resting by the door is a large chest.__
+5 cloud giants are asleep in the beds at all times. (They are part of a guard rotation)
+If woken due to an alarm, they go to the Aft Battery(6), then 2 each head to the ballistae in the other batteries(16 and 18). 1 stays behind in the Aft Battery(6)
+**loot**
+The chest contains 10 fat sacks. In total there is 10,000sp, 7,000gp and roll 20 giant loot items
 
 === 6 Aft Battery ===
-
+__A 30-foot-high curtain wall with an overhanging Rampart(17) incloses this stone-tiled courtyard, which contains a few puddles of rainwater here and there. 3 ballistae face arrow slits in the outer wall, and two iron grates cover 10-foot-square holes in the floor.__
+2 cloud giants stand on the Rampart(17) and can see and hear into the courtyard. 5 rounds after an alarm has sounded, [[:Countess Sansuri]] , [[:Castellan Cressaro]] , and 5 cloud giants arrive here. After some instruction from Cressaro, the 4 of the guards disperse to the Starboard and Port Batteries. 1 stays behind.
 
 === 7 Griffon Aviary ===
-
+__Haphazardly arranged about this untidy room are five tall wooden cages. Bits of wood and hay lie strewn about on the floor, and a handful of crates are stacked next to the entrance. They stink of meat. A pair of wide, tall open doors in the outer wall provide access to the outside.__
+5 griffons are locked up, one in each cage, unless Sansuri released them.
+The griffons make a ruckus if they notice a creature enter the room. Sansuri hears them and comes to investigate.
 
 === 8 Dungeon ===
+__This spacious, windowless dungeon is furnished with 3 currently empty iron cages, and a rack of tortuous implements. A deep, pained whimper alerts you to the prescence of something huge tucked into the corner of the room.__
+[[:Felgolos]] , an adult bronze dragon, is chained to the back wall and floor. He is bound by 4 locked manacles, a rune-covered collar around his neck, and a muzzle.
+His bonds are strengthened my magic and require 30 strength per creature to even attempt to break them.
+Felgolos' collar is magically enchanted to preven him from using his shape change.
+Felgolos can speak with some difficulty.
+He is bleeding from multiple wounds, some old, some fresh when the party finds him. (He's at 160 hitpoints)
+Knock or DC20 thieves tools check to unlock one restraint
 
+**If Sansuri is here and the alarm hasn't been sounded**
+Sansuri is currently torturing Felgolos
+She turns on the party and attacks. __I tire of your intrusion!__
+If reduced to half hitpoints, she casts fly on herself and escapes to her Tower(31-33)
+
+**If the party frees Felgolos**
+They earn a friend for life.
+Felgolos offers to help them __teach that vainglorious giantess a lesson__
+He assumes his halfling form when need-be, such as sneaking, prefering his dragon form in combat.
 
 === 9 Cloud Stair ===
-
+__A winding staircase sculpted from the cloud itself winds its way down and around the cloud upon which the gatehouse sits.__
 
 === 10 Gatehouse ===
-
+__Built atop a separate cloud and connected to the main keep by a stone bridge. Cranellated battlements surround the landing area and bridge. On either side of the door, a short flight of steps leads up to a stone enclosure that contains an unmanned ballista.__
+2 air elementals guard the gatehouse at all times. __Swirling masses of air with darker areas resembling eyespots__
+The aarakocra simulacra from the Main Gate come to the elemental's aid if combat erupts here.
 
 === 11 Main Gate ===
-
+__The door at the end of the bridge is the main entrance to the keep, extravagant and imposing. The door itself is decorated with a cloud motif. Overhead you notice murder holes ready to rain arrows, pitch, or perhaps something more sinister down on unwanted guests.__
+2 aarakocra simulacra guard the doorway
+Opening the door or knocking triggers an alarm spell that warns [[:Castellan Cressaro]] of guests or intruders.
 
 === 12 Servant's Quarters ===
-
+__This area is split into 2 smaller rooms. The front room contains a spiral staircase made of decorative wrought iron that climbs to the level above(19). The second room is plainly funished and contains 3 large-sized beds crammed about the room next to a small closet.__
+The closet contains __3 moth-eaten sleeping robes sized for something large__ (but not giant-huge)
 
 === 13 Kitchen ===
-
+__The scent of cooking pumpkin wafts from this room. Cabinets and cupboards hold dishware and utensils. A fireplace built into the wall across from the door has a huge pot of bubbling stew (large enough to stew a few whole deer, or potentially other deer-sized creatures). A small pantry holds various ingredients and spices. On a shelf below an open window are a half dozen freshly baked pumpkin pies.__
+3 ogres work in the kitchen, constantly making food for the countess, her family, and the castle guards. They are meek and shun fighting. They are easily intimidated.
+**loot**
+a collection of the more valuable spices is worth 100gp to the right buyer.
 
 === 14 Castellan's Quarters ===
-
+__This private bedchamber is handsomely appointed. A fine cloak hangs from a bronze hook high on one wall, near a shelf that holds a dozen books. Other furnishings include a handsome rugy and a small palm tree grouwing out of an alabaster vase in one corner of the room. The vase depicts an army of armored cloud giant warriors riding rocs into battle against an army of dragons.__
+**books** __about dragons, warfare, and the history of the conflict between giants and dragons that led to the fall of the empire of Ostoria.__
+**If no alarm has been sounded**
+[[:Castellan Cressaro]] is in his room resting. He immediately attacks and sounds an alarm if he notices any intruders.
+**loot**
+Each book in cressaro's collection is worth 500gp to the right buyer and weighs 100lbs.
+Any character that takes 10 minutes to investigate the room notices a horizontal seam in the vase 3 feet from the bottom. The bottom half of the vase is a secret compartment and conceals Cressaro's treasure. 18 strength score to lift or move without causing a mess and making noise. Any attempt to smash it makes alot of noise. Inside is 1200ep, 3500gp, seven 500gp gems, and a [[:Item:Figurine of Wondrous Power: Serpentine Owl]] 
 
 === 15 Stores ===
-
+__Storeroom full of shelves of cheeses, hanging meats, heavy crates of various grains, and barrels of wine__
 
 === 16 Port Battery ===
-
+__Three ballistae face arrow slits in the portside outer wall, with a few tall crates of ammunition here and there. Two stone pillars support the ceiling near the center of the room. One staircase in a corner leads upward(24), and another in the opposite corner leads downward(6).__
+A cloud giant stands guard in this room. 5 rounds after an alarm has sounded, 2 more cloud giants from the Barracks(5) arive here.
 
 === 17 Rampart ===
-
+__Rampart above the courtyard(6) which is fitted with 2 large telescopes. Doors on either end of the rampart lead to the Port(16) and Starboard(18) Batteries__
+2 cloud giants stand guard atop the rampart.
 
 === 18 Starboard Battery ===
-
+__Three ballistae face arrow slits in the starboard outer wall, with a few tall crates of ammunition here and there. Two stone pillars support the ceiling near the center of the room. A staircase in a corner leads downward(6).__
+A cloud giant stands guard in this room. 5 rounds after an alarm has sounded, 2 more cloud giants from the Barracks(5) arive here.
 
 === 19 Gallery ===
-
+__Colorful rugs decorate the floor, while the walls are festooned with partitions forming niches that display a myriad of art objects. The centerpiece of the collection is a stuffed young silver dragon suspended by chains from the ceiling. The collection includes paintings, statues, ceremonial weapons and constumes, human-sized sarcophagi, vases and other pottery, and scrolls(nonmagical). __
+**upon inspection**
+__The vases depict ancient Ostorain society. The scrolls dictate imperial decrees and divine edicts in Dethek, the Dwarvish script.__
+**loot**
+Permanent walls of force block the removal of items from the display niches.
+most of the art in this room is so ancient that to remove it without taking extreme care and time from a professional would destroy the item.
+Any character who takes a week of downtime to study the pottery or read the scrolls gains a level of proficiency(up to expertise) in history related to giants.
+2 items stand out in that they are not behind a protective barrier.
+  [[:Item:Anstruth Harp]]
+  [[:Item:Banner of the Krig Rune]]
 
 === 20 Thullen's Bedroom ===
-
+__This bedchamber is furnished with a soft bed, rug, bookshelf, and a large chest (contains clothes and personal effects). The otherwise tidy room has a few errant children's toys strewn about the floor.__
 
 === 21 Library ===
-
+__This room is lined floor-to-ceiling-and wall-to-wall with bookshelves. A large wooden table, its legs carved to look like rearing pegasi, dominates the center of the room underneath an ornate bronze lantern that illuminates the room.__
+**loot**
+A thorough search of the bookshelves reveals
+  4 historical texts that seem to chronicle the rise and fall of Ostoria (500gp/150lbs each). These valuable tomes are kept on the highest shelves 25 feet up.
+  [[:Item:Sansuri's Spellbook]]
 
 === 22 Nursery ===
-
+__This room contains 2 large but low-to-the-ground beds with raised gates blocking the sides of the beds. Wall shelves and dressers are adorned with precariously placed stuffed animal toys, each the size of a man.__
 
 === 23 Playroom ===
-
+__You hear sounds of children giggling and playing from the other side of the door.__
+__This room is an absolute mess. The floor is littered with balls, blocks, dolls, and stuffed animals. A stuffed yeti mounted on a wooden base stands in a corner by the door.__
+Sansuri's children Kaaltar and Alastrah are playing in this room. They are the size of a powerfully built human male, but the emotional intelligence of a human 4-year-old.
+They attemp to play with the party.
+Thullen might check on them periodically, or they may run to him if they get a booboo.
+**If the alarm has sounded** [[:Count Thullen]] is here and protects the children whom he loves dearly.
 
 === 24 Guard Room ===
-
+__Cut into the floor in one corner of this room are six murder holes. Next to the murder holes is a glass vat holding 30 gallons of some clear liquid.__
+__12 5-gallon-flasks of a similar looking liquid are set on shelves against the wall.__
+**Pouring the vat down the murder holes**: DC 15Dex save, taking 8d10 damage on a failure, or half on success.
+**Throwing acid out the arrow slits: **Each flask weighs 50lbs and deals 4d10 acid damage on hit.
+A single cloud giant guards this room dilligently.
 
 === 25 Lounge ===
-
+__A 5-foot-tall table of varnished wood stands in the middle of this lounge room. Arranged atop it are several items: a hookah, a blue crystal decanter filled with wine, and a wooden plate covered with a mountain of figs each as big as a watermelon. Blue crystal flute galsses are stored on shelves on either side of a door(21). Two padded chairs covered in yeti hide with blue-dyed seat cushions are turned to face the table. The chairs flank a marble fireplace carved with images of birds. Above the mantelpiece is a stuffed and mounted aarakocra with blue plumage.__
+The fireplace is enchanted to ignite and burn when a creature faces the fireplace and speaks "Ild"
 
 === 26 Port Lawn ===
-
+__A healthy grass lawn overs this rooftop, which is enclosed by 10-foot-high battlements. Looking out over the battlements are 3 telescopes. 2 piles of large rocks sit next to the telescopes.__
+__6 blue-plumed aarakocra guard this terraced lawn, sitting atop the battlements.__
+__A fountain with a spout shaped like a silver dragon bound in chains feeds water into a 40-foot-diameter (5ft deep) pool near the aft wall.__
+__Fruit trees grow in a few places, and a pumpkin patch dominates on large area. The fig fruit are as big as watermelons and the pumpkins look to be upwards of 300lbs each.__
+the aarakocra attack any creature that isn't escorted by a giant.
+a water elemental lives in the fountain and attacks any creatures that disturbs the water.
 
 === 27 Starboard Lawn ===
+__This rooftop garden has a lush green lawn dotted with trees and piles of rocks. A hedge divides the yard.__
 
+**Inside the smaller area:** __A black-and-white marble chessboard. The chess pieces are all human-sized and look like decorative suits of armor, thier helms sporting designs that differentiate them.__
+  The pawns, rooks, bishops, knights, and kings are suits of **animated armor**, 30 in all. The queens are **helmed horrors**.
+  All the pieces are in their starting locations.
+  The pieces remain still unless attacked or ordered to move using descriptive notation
 
 === 28 Greenhouse ===
-
+__This domed greenhouse consists of a delicate mithral frame set with panes of lightly-stained glass. A veritable riot of flowering plants and herbs grow within.__
+7 **awakened shrubs** guard the plants here.
+**If the alarm hasn't sounded yet **[[:Count Thullen]] is here tending to his plants
 
 === 29 High Lawn ===
-
+__The roof of the main keep has a lush green lawn surrounding a squat stone building(30). A 3-story tower with a conical rooftop(31-33) juts upward and outward from the southeastern part of the wall, rising another 120 feet into the air. Trees and shrubs sprout from the ground here and there, and three telescopes are mounted to the battlements. A wrought iron spiral staircase descends through a hole in the ground(19).__
+__Perched on the battlements are 6 blue-plumed aarakocra__
+If battle erupts here, the aarakocra from the Port Lawn(26) arrive to assist on the 3rd round
 
 === 30 Navigation Dome ===
-
+__This squat stone building has no windows and only 1 entrance, a closed door.__
+An arcane lock spell protects the entrance DC24 to force open or pick the lock, which a medium creature makes with disadvantage
+**Inside**
+__The inside wall of this circular room is painted with a lavish mural of a cloud giant city made up of dozens of joined cloud castles. The domed ceiling is made up of overlapping shells of thin, black metal with glowing shards of crystal set into start-shaped sockets. The crystals seem to represent the starts in the night sky, and the overlapping shells seem to be constantly repositioning themselves (so that the artificial sky inside the dome exactly matches the sky).__ __Floating 10 feet above the floor in the middle of this curcular room is a hollow, 7-foot-diameter sphere of thin, polished mithral with a large skye rune embossed on its outer surface.__
+The orb is the castle's [[:Item:Navigation Orb]]
 
 === 31 Hall of Masks ===
-
+the door is locked DC20 to force or 14 to pick open (made with disadvantage if medium creature). DC30/24 if Sansuri is inside and cast arcane lock.
+__The walls of this room are festooned with masks, fifty in all. The masks are all giant-sized and each captures a mood or emotion with its own unique style. The masks rest atop narrow shelves set into the walls 10, 15, and 20 feet above the floor. There is a single door which due to the rooms architecture you can guess leads up a a spiral staircase__
+each masks is a unique art object worth 250gp
+This is where Sansuri retreats to if she is wounded. Here she makes her last stand, but will bargain for her's or her children's lives.
 
 === 32 Study ===
+__Furnishing inside this personal study chamber include a table and a 25-foot-tall wooden cabinet. The spiral staircase ascends to another level above.__
+The cabinet is arcane locked DC25 to force and 19 to pick, made with disadvantage if medium.
+2 **invisible stalkers** guard the room.
 
+**loot**
+potions of Clairvoyance, Diminution, Fire Resistance, Lightning Resistance, Storm Giant Strength, and Supreme Healing.
 
 === 33 Master Bedchamber ===

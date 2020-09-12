@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-09-12T15:10:47-04:00
+
+====== Sansuri's Spellbook ======
+Created Saturday 12 September 2020
+
+This bronze-covered tome is inlaid with gems (60@10gp each) and weighs 250lbs.
+
+**Spells**
+see page 197

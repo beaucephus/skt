@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-09-12T13:56:10-04:00
+
+====== Castellan Cressaro ======
+Created Saturday 12 September 2020
+
+Castellan of [[:Lyn Armaal]] and consort to [[:Countess Sansuri]] , Cressaro is a fit cloud giant male in his prime.
+He wears bracers of defense increasing his AC to 16
+
+Cressaro is loyal to Sansuri above all else.
+
+**loot**
+[[:Item:Bracers of Defense]]

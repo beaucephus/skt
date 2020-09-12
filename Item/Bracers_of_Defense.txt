@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-09-12T13:59:41-04:00
+
+====== Bracers of Defense ======
+Created Saturday 12 September 2020
+
+Requires Attunement
+
+While wearing these bracers, you gain a +2 bonus to AC if you are wearing no armor and using no Shield.
