@@ -64,7 +64,7 @@ If woken due to an alarm, they go to the Aft Battery(6), then 2 each head to the
 The chest contains 10 fat sacks. In total there is 10,000sp, 7,000gp and roll 20 giant loot items
 
 === 6 Aft Battery ===
-__A 30-foot-high curtain wall with an overhanging Rampart(17) incloses this stone-tiled courtyard, which contains a few puddles of rainwater here and there. 3 ballistae face arrow slits in the outer wall, and two iron grates cover 10-foot-square holes in the floor.__
+__A 30-foot-high curtain wall with an overhanging Rampart(17) incloses this stone-tiled courtyard, which contains a few puddles of rainwater here and there. 3 ballistae face arrow slits in the outer wall, and two iron grates cover 10-foot-square holes in the floor. Doors and stairs in the tower walls lead to various locations in the castle.__
 2 cloud giants stand on the Rampart(17) and can see and hear into the courtyard. 5 rounds after an alarm has sounded, [[:Countess Sansuri]] , [[:Castellan Cressaro]] , and 5 cloud giants arrive here. After some instruction from Cressaro, the 4 of the guards disperse to the Starboard and Port Batteries. 1 stays behind.
 
 === 7 Griffon Aviary ===
