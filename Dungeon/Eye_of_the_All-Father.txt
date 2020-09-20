@@ -218,6 +218,10 @@ The reliefs remain until a party member stands in the circle and declares which 
 ===== Leaving the temple for the first time =====
 [[:Encounter:Airship of a Cult]]
 
+===== Leaving the temple for the second time =====
+Encounter with Iymrith
+page 136.
+
 
 
 

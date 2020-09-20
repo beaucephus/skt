@@ -139,16 +139,15 @@ __Three ballistae face arrow slits in the starboard outer wall, with a few tall 
 A cloud giant stands guard in this room. 5 rounds after an alarm has sounded, 2 more cloud giants from the Barracks(5) arive here.
 
 === 19 Gallery ===
-__Colorful rugs decorate the floor, while the walls are festooned with partitions forming niches that display a myriad of art objects. The centerpiece of the collection is a stuffed young silver dragon suspended by chains from the ceiling. The collection includes paintings, statues, ceremonial weapons and constumes, human-sized sarcophagi, vases and other pottery, and scrolls(nonmagical). __
+__Colorful rugs decorate the floor, while the walls are festooned with partitions forming niches that display a myriad of art objects. The centerpiece of the collection is a stuffed young silver dragon suspended by chains from the ceiling. The collection includes paintings, statues, ceremonial weapons and constumes, human-sized sarcophagi, vases and other pottery, and scrolls(nonmagical). There is 1 door and a set of spiraling wrought-iron stairs that lead both down and up from this room. __
 **upon inspection**
 __The vases depict ancient Ostorain society. The scrolls dictate imperial decrees and divine edicts in Dethek, the Dwarvish script.__
-**loot**
-Permanent walls of force block the removal of items from the display niches.
-most of the art in this room is so ancient that to remove it without taking extreme care and time from a professional would destroy the item.
-Any character who takes a week of downtime to study the pottery or read the scrolls gains a level of proficiency(up to expertise) in history related to giants.
-2 items stand out in that they are not behind a protective barrier.
+__Permanent walls of force block the removal of items from the display niches.__
+__most of the art in this room is so ancient that to remove it without taking extreme care and time from a professional would destroy the item.__
+__2 items stand out in that they are not behind a protective barrier.__
   [[:Item:Anstruth Harp]]
   [[:Item:Banner of the Krig Rune]]
+Any character who takes a week of downtime to study the pottery or read the scrolls gains a level of proficiency(up to expertise) in history related to giants.
 
 === 20 Thullen's Bedroom ===
 __This bedchamber is furnished with a soft bed, rug, bookshelf, and a large chest (contains clothes and personal effects). The otherwise tidy room has a few errant children's toys strewn about the floor.__
@@ -179,8 +178,12 @@ __12 5-gallon-flasks of a similar looking liquid are set on shelves against the 
 A single cloud giant guards this room dilligently.
 
 === 25 Lounge ===
-__A 5-foot-tall table of varnished wood stands in the middle of this lounge room. Arranged atop it are several items: a hookah, a blue crystal decanter filled with wine, and a wooden plate covered with a mountain of figs each as big as a watermelon. Blue crystal flute galsses are stored on shelves on either side of a door(21). Two padded chairs covered in yeti hide with blue-dyed seat cushions are turned to face the table. The chairs flank a marble fireplace carved with images of birds. Above the mantelpiece is a stuffed and mounted aarakocra with blue plumage.__
+__A 5-foot-tall table of varnished wood stands in the middle of this lounge room. Arranged atop it are several items: a hookah, a blue crystal decanter filled with wine, and a wooden plate covered with a mountain of figs each as big as a watermelon. Blue crystal flute galsses are stored on shelves on either side of the western door(21). Two padded chairs covered in yeti hide with blue-dyed seat cushions are turned to face the table. The chairs flank a marble fireplace carved with images of birds. Above the mantelpiece is a stuffed and mounted aarakocra with blue plumage.__
 The fireplace is enchanted to ignite and burn when a creature faces the fireplace and speaks "Ild"
+**loot**
+hookah(200gp)
+decanter(500gp)
+glasses(50gp each @15)
 
 === 26 Port Lawn ===
 __A healthy grass lawn overs this rooftop, which is enclosed by 10-foot-high battlements. Looking out over the battlements are 3 telescopes. 2 piles of large rocks sit next to the telescopes.__
