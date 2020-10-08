@@ -1,0 +1,114 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-10-08T12:49:37-04:00
+
+====== Maelstrom ======
+Created Thursday 08 October 2020
+
+Players that enter Maelstrom by teleporting always arrive at the circle in the Portal Chamber(2)
+
+=== 1 Vortex and Sinkhole ===
+__This naturally-formed sinkhole rises upward out of the reef where the tell-tale lighter blue of the open ocean can be seen. The sinkhole bottom is over 200 feet across and a rushing current of swirling water spirals downward into a 50-foot-wide grated drain. The seafloor surrounding the drain is strewn with debris - the remains of entire wrecked ships. 5 submerged passageways exit the sinkhole into the sorrounding coral reef. 50 feet about the sea floor, an uneven rocky ledge clings to the outer wall of the hole. 5 more flooded tunnels exit this ledge area into the surrounding reef.__
+
+=== 2 Portal Chamber ===
+**teleporting in for the first time**
+__You apparate atop a glowing glyph carved into the floor of an alcove in the northeast corner of a 100-foot-diameter, rhough-hewn chamber. The chamber seems to be carved out of coral reef, the walls covered with bioluminescent lichen, snails, starfish, and barnacles. Tiny crabs crawl across the floor, avoiding the sigil. Across the expansive cavern you hear music: a powerful female voice accompanied by the deep, haunting tones of a masterfully played pipe organ. __
+**upon entering the chamber**
+__A 40-foot-diameter pool of water dominates the cavern. Identical 20-foot-wide hallways lead north and east respectively, while a much smaller cave leads south. The music seems to be emanating from an open archway which leads up a wide spiraling staircase.__
+**pool**
+__The waters are dimly lit by faint biolumenescent glow allowing you to see that the pool bottoms out 50 feet below you and twists into a submerged passageway heading southwest.__
+
+=== 3 Small Guest Quarters ===
+__Each of these 2 rooms contains furnishing sized for medium and small creatures: five comfortable beds, a circular rug, a barrel of drinking water, an empty dresser, and an empty wardrobe.__
+
+=== 4 Giant Guest Quarters ===
+__Each of these 2 rooms contains furnishing sized for giants.__
+
+=== 5 Crab Pen ===
+
+
+=== 6 Nym's Whale ===
+
+
+=== 7 Coral Garden ===
+
+
+=== 8 Mirran's Whale ===
+
+
+=== 9 Sparring Chamber ===
+
+
+=== 10 Sleeping Guard ===
+
+
+=== 11 Serissa's Whale ===
+
+
+=== 12 Sleeping Guards ===
+
+
+=== 13 Study ===
+
+
+=== 14 Great hall ===
+
+
+=== 15 Throne Room ===
+
+
+=== 16 Royal Treasury ===
+
+
+=== 17 Council Room ===
+
+
+=== 18 Meditation Cave ===
+
+
+=== 19 Shark Pens ===
+
+
+=== 20 Armory ===
+
+
+=== 21 Temple of Stronmaus ===
+
+
+=== 22 Royal Tomb ===
+
+
+=== 23 Scrying Pool ===
+
+
+=== 24 Study ===
+
+
+=== 25 Library ===
+
+
+=== 26 Uthor's Quarters ===
+
+
+=== 27 Stores ===
+
+
+=== 28 Kitchen ===
+
+
+=== 29 Sleeping Guards ===
+
+
+=== 30 Mirran's Tower ===
+
+
+=== 31 Nym's Tower ===
+
+
+=== 32 Serissa's Tower ===
+
+
+=== 33 King's Tower ===
+
+
+=== 34 Guard Post ===
