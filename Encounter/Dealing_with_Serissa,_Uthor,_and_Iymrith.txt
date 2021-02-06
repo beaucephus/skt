@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-11-15T18:24:42-05:00
+
+====== Dealing with Serissa, Uthor, and Iymrith ======
+Created Sunday 15 November 2020
+
+**Serissa: **__I think that giants and smallfolk can learn to coexist peacefully__
+__My mother, before she passed, would take me with her on trips to the Sword Coast and the Moonshae Isles. The smallfolk there were kind and generous.__ She sounds still mournful.
+
+Serissa's mother was found, murdered, on an island in the trackless sea. The scouts that found her found signs that smallfolk had moored in the area recently.
+
+**Uthor: **__It would be unwise to trust these smallfolk based solely on their word__
+
+
+**Iymrith: **__These lot can't be trusted. For all we know they could have been involved in your mother's murder. They might be here to finish off the royal family!__
+If outed Iymrith issues a curse in draconic and snatches Serissa's necklace (it is a [[:Item:Korolnor Scepter]] ). Serissa collapses into paralysis until she is removed from the wyrmskull throne.
+On her next turn she attempt to cast teleport or escape through the central pool.

@@ -25,7 +25,12 @@ __Each of these 2 rooms contains furnishing sized for medium and small creatures
 __Each of these 2 rooms contains furnishing sized for giants.__
 
 === 5 Crab Pen ===
+__A raised, barnacle-covered portcullis hangs above the entrance of this submerged cave. There are 2 huge piles of debris in the center. Several glints in the debris catch your eye.__
 
+2 **hulking crabs**
+They have shells covered in ship wreckage including lots of shiny things.
+**loot**
+All the crab legs you can eat
 
 === 6 Nym's Whale ===
 
@@ -52,10 +57,32 @@ __Each of these 2 rooms contains furnishing sized for giants.__
 
 
 === 14 Great hall ===
+__This circular room is split into 2 levels; a ground level, and a raised ledge in the northeast quadrant. __
+__The ground level is an enormous audience chamber with tables carved from 30-foot-long conch shells. Barnacle-covered pillars of hewn coral rise to meet a vaulted cheiling. The tables and pillars are arranged in concentric circles surrounding a natural coral fountain in the center of the room that spews several streams of water into a shallow pool.__
+__The raised ledge is stage set in front of a vast crystal window. The window acts like a prism for light filtering in from the surface, casting a rainbow of colors across the the chamber lighting the corals in reds, yellows, greens, and blues.__
+__3 small exits lead west, northwest, and north. A 40-foot-wide halway exits to the south.__
 
+There is a performance currently underway. Performing on the stage are 2 storm giant women; one singing, the other playing a hulking crab organ. In the audience chamber there are 2 storm giants standing guard at the ramps to the stage, and 4 other giants of different sub-races standing amongst the tables and listening.
+Cloud: Va-leh, Fire: Tartha, Frost: Hellenhild, Stone: Braxow.
+
+[[:Encounter:Dealing with Mirran and Nym]]
 
 === 15 Throne Room ===
+**Guarded by Tug and Cog**
+Tug: __We guard throne room!__
+Cog: __Where your escort?__
 
+__Maelstrom's throne room resembles an amphitheater. Stone bleachers overlook an oblong chamber with a 50-foot-wide pool of seawater near its center.__
+__Facing the pool and the arched entrance are 3 thrones. The middle and largest is carved from solid obsidian styled to look like dragon bones with clawed feet that are actual blue dragon skulls. The entire throne hovers 1 foot above the floor.__
+DC 18 history to recognize the [[:Item:Wyrmskull Throne]]
+
+**If they manage to get an audience or sneak in past Tug and Cog**
+__An older matronly storm giantess sits on a smaller throne across from an old storm giant with a long white beard and clad in armor matching the guards, but with more.__
+__In the hovering obsidian/dragon skull throne sits a young-adult storm giantess with blue hair tied up in a bun. The bun helps support a coral crown that otherwise would be too large for her.__
+__2 storm giants stand guard on either side of the entrance, closing the door behind you.__
+
+The 3 storm giants seems caught up in a heated argument as you enter. Their arguing ends abruptly as they notice you and the 3 turn to face you inquisitively.
+[[:Encounter:Dealing with Serissa, Uthor, and Iymrith]]
 
 === 16 Royal Treasury ===
 

@@ -27,7 +27,7 @@ It's buried in the ground in front of the alter.
 Without the aid of magic, it takes 5 hours for one character to dig up the relic.
 
 **Gray Wolf Relic**
-This relic is a 14-foot-long, 250-pound dragon's thighbone, [[:Dragon Bonker]]  . Part of the bone is wrapped in old leather, suggesting it might have once been used as a giant-sized greatclub.
+This relic is a 14-foot-long, 250-pound dragon's thighbone, [[:Dragon Bonker]]  .Part of the bone is wrapped in old leather, suggesting it might have once been used as a giant-sized greatclub.
 To reach the relic, the party must either smash through the alter, or burrow underneath it.
 Without the aid of magic, it takes 10 hours for one character to do either.
 

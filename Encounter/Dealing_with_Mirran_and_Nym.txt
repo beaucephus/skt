@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-11-15T17:18:25-05:00
+
+====== Dealing with Mirran and Nym ======
+Created Sunday 15 November 2020
+
+The sisters end their performance with the players appear.
+The storm giant guards move to intercept the party, but the storm giantess with blue curls who was singing stops them. __Wait. How did you find this place?__
+__What business could tiny creatures like you have at maelstrom?__
+__The storm giantess with long wavy white hair looks your group over with a smile.__
+
+**If the party is diplomatic**
+Mirran: __Serrisa is young and inexperienced. She is far too overwhelmed with important matters to grant an audience to tiny creatures.__
+
+If the party mentions dragons, Iymrith, or the oracle, the sisters look taken aback.  Allow a roll.
+The sisters may call for Iymrith, go to speak with Serissa, or allow the party an audience with Serissa based on the check.
