@@ -7,12 +7,30 @@ Created Sunday 15 November 2020
 
 **Serissa: **__I think that giants and smallfolk can learn to coexist peacefully__
 __My mother, before she passed, would take me with her on trips to the Sword Coast and the Moonshae Isles. The smallfolk there were kind and generous.__ She sounds still mournful.
-
-Serissa's mother was found, murdered, on an island in the trackless sea. The scouts that found her found signs that smallfolk had moored in the area recently.
+Serissa speaks unsurely and relies heavily on Uthor and Iymrith for council.
+She often accidentally introduces herself as __Princess Serissa__
 
 **Uthor: **__It would be unwise to trust these smallfolk based solely on their word__
+Uthor is extremely slow in speech and very level-headed. He does not rush to judgement or conclusions
+Uthor corrects Serissa often as she is not yet accustomed to speaking like a Queen
 
-
-**Iymrith: **__These lot can't be trusted. For all we know they could have been involved in your mother's murder. They might be here to finish off the royal family!__
+**Iymrith: **__These lot can't be trusted. For all we know they could be the ones who murdered your mother and abducted your father!__
+Iymrith tries to pit Serissa against the smallfolk using Sansuri and Serissa's mother as evidence they cannot be trusted
 If outed Iymrith issues a curse in draconic and snatches Serissa's necklace (it is a [[:Item:Korolnor Scepter]] ). Serissa collapses into paralysis until she is removed from the wyrmskull throne.
 On her next turn she attempt to cast teleport or escape through the central pool.
+
+**Sansuri:** __These murderous devils slew my family and stole Lyn Armaal!__ 
+Serissa might try to arbitrate and get to the truth around Lyn Armaal. If she discovers the truth that Sansuri tried to eat the players she becomes outraged and forceful "__I explicitly forbode the eating of smallfolk!__"
+
+**Serissa's Request**
+Serissa's mother was found, murdered, on an island in the trackless sea. The scouts that found her found signs that smallfolk had moored in the area recently.
+Serissa's fater, King Hekaton personally led an expedition to find the murderers and bring them to justice. He has not sent word for months, and Serissa has reluctantly taken the mantle of Queen at her advisor's request.
+__Not long after, the Ordening was broken. The pantheon has forsaken us, or perhaps freed us. I don't know which.__ 
+Serissa believes the Shattering of the Ordening, her mother's murder and father's disappearance are all related.
+She has one piece of evidence found at the island where they found her mother, a small wooden coin that Uthor and Iymrith don't know about.
+She presents it to the party and asks them to find out where it came from.
+__I believe our races can and should work together. Help me discover what happened to my parents, and I will help you achieve your goals in any way that I can.__
+
+**Developments**
+If the party offers to help, Serissa fashions them a [[:Item:Conch of Teleportation]] if they don't already have one, and leads them to the meditation chamber, where she offers to transport them to a location of their chosing.
+

@@ -9,6 +9,8 @@ Players that enter Maelstrom by teleporting always arrive at the circle in the P
 
 === 1 Vortex and Sinkhole ===
 __This naturally-formed sinkhole rises upward out of the reef where the tell-tale lighter blue of the open ocean can be seen. The sinkhole bottom is over 200 feet across and a rushing current of swirling water spirals downward into a 50-foot-wide grated drain. The seafloor surrounding the drain is strewn with debris - the remains of entire wrecked ships. 5 submerged passageways exit the sinkhole into the sorrounding coral reef. 50 feet about the sea floor, an uneven rocky ledge clings to the outer wall of the hole. 5 more flooded tunnels exit this ledge area into the surrounding reef.__
+**loot**
+A thorough, time-consuming search produces 67gp, and various gold, silver, and platinum trinkets totaling 200gp
 
 === 2 Portal Chamber ===
 **teleporting in for the first time**
@@ -17,6 +19,8 @@ __You apparate atop a glowing glyph carved into the floor of an alcove in the no
 __A 40-foot-diameter pool of water dominates the cavern. Identical 20-foot-wide hallways lead north and east respectively, while a much smaller cave leads south. The music seems to be emanating from an open archway which leads up a wide spiraling staircase.__
 **pool**
 __The waters are dimly lit by faint biolumenescent glow allowing you to see that the pool bottoms out 50 feet below you and twists into a submerged passageway heading southwest.__
+
+[[:Encounter:Guards at the Portal Chamber]]
 
 === 3 Small Guest Quarters ===
 __Each of these 2 rooms contains furnishing sized for medium and small creatures: five comfortable beds, a circular rug, a barrel of drinking water, an empty dresser, and an empty wardrobe.__
@@ -33,28 +37,44 @@ They have shells covered in ship wreckage including lots of shiny things.
 All the crab legs you can eat
 
 === 6 Nym's Whale ===
-
+__A deep pool takes up nearly half of this air-fill chamber. Rows of crates line portions of the chamber's walls. To the sourth, a rough-hewn staircase leads downwards. To the northwest, an archway opens to a spiral staircase leading upwards. __
+A killer whale swims circles in the pool, attacking any creature other then Nym that tries to enter the pool.
 
 === 7 Coral Garden ===
-
+__The floor of this air-fill cave is submerged under 5 feet of water. Growths of coral sprout from walls and rock formations, all of them colorful and immense. Staircases in the north and south walls rise up towards other areas.__
+One of the formations is actually a coral **roper**
 
 === 8 Mirran's Whale ===
-
+__A deep pool takes up nearly  half of this air-fill chamber. To the north and east, rough-hewn staircases leads downwards. To the south, an archway opens to a spiral staircase leading upwards. To the west, a staircase leads upwards.__
+__A 20 foot anemone dominates the south-western portion of the chamber.__ [[:Anemone Chest]] containing a shark-bladder sack with 400pp
+A killer whale swims circles in the pool, attacking any creature other then Nym that tries to enter the pool.
+**Deveopment**
+The storm giant in area 10 investigates any loud noises. 
 
 === 9 Sparring Chamber ===
-
+__A giant-sized dummy made from the mast, sails, and rigging of a wrecked ship stands in the middle of the room. An alcove in the northwest corner contains a stone rack that holds three quarterstaffs carved from ship's masts.__
 
 === 10 Sleeping Guard ===
-
+__This stairces descends into a fully-submerged chamber. A single storm giant sleeps, arms and legs wrapped amidst a kelp forest. The forest blocks your view of the rest of the chamber.__
+Behind the kelp forest: [[Anemone Chest]] 100pp and 4 [[:Giant Clam]]
+The storm giants are sensitive to water currents, DC19 stealth check to swim past the guards and open the various containers without incident.
 
 === 11 Serissa's Whale ===
-
+__A deep pool takes up nearly  half of this air-fill chamber. A rough-hewn staircase leads downwards in the east wall. In the south wall, an archway opens to a spiral staircase leading upwards. A hinged door, the first you've encountered since the guest quarters, is set into the north wall.__
+Serissa's whale plays in the deep pool and comes to the surface singing for its dinner when a creature enters. It won't attack creatures that feed it.
+Serissa keeps food in an [[:Anemone Chest]] in the southeast corner.
+**Development**
+Storm giants from area 12 investigate any loud noises here.
 
 === 12 Sleeping Guards ===
-
+__A staircase descends into a fully-submerged chamber split into 2 sub-chambers. In the north chamber, you see 2 anemones, 2 giant clams, and a storm giant, sleeping, suspended in a small kelp forest. In the south chamber, you see 4 giant glams and a storm giant similarly suspended, sleeping. __
+[[:Anemone Chest]] (400pp and Potion of Superior Healing each) and [[:Giant Clam]]
+The storm giants are sensitive to water currents, DC19 stealth check to swim past the guards and open the various containers without incident.
 
 === 13 Study ===
-
+__An ugly bookshelf made from ship wreckage stands against one wall, packed full of water-damaged tomes. Most of the books are your-sized, probably salvaged from ship-wrecks. Other furnishings include 2 anemones, a giant-sized chair, and table with a concave top made from a huge mussel shell__
+A spyglass rests on top of the 20-foot bookshelf.
+2 [[:Anemone Chest]] 1 contains worthless small-folk trinkets, the other contains a flag bearing the crest of Waterdeep and a bundle-up tapestry embroidered with an image of a dashing human knight mounted on an armored white warhorse
 
 === 14 Great hall ===
 __This circular room is split into 2 levels; a ground level, and a raised ledge in the northeast quadrant. __

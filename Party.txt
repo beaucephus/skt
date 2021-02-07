@@ -16,7 +16,7 @@ Val 			11
 Reed 		11
 
 [[:Frana Willowwhisper]]
-level 7
+level 8
 
 ~~Stella Smashface (Sarah)~~
 ~~level 6~~
@@ -24,20 +24,20 @@ level 7
 ~~darkvision~~
 
 [[Tana Willowwhisper]] (Nathan)
-level 7
+level 8
 
 [[Lessa]] (Hillary)
-level 6
+level 8
 
 [[Valriel]] (Jeremiah)
-level 7
+level 8
 darkvision
 
 [[Reed Osborn]] (Sam)
-level 7
-
-[[Rogar]] (Zach)
 level 8
 
+[[Rogar]] (Zach)
+level 9
+
 [[Braddock]] (AJ)
-level 7
+level 8
