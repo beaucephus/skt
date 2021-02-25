@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-02-06T11:47:44-05:00
+
+====== Crystal Ball ======
+Created Saturday 06 February 2021
+
+Wondrous item, very rare or legendary
+
+The typical Crystal ball, a very rare item, is about 6 inches in diameter. While touching it, you can cast the Scrying spell (save DC 17) with it.

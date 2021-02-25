@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-02-06T11:34:50-05:00
+
+====== Anemone Chest ======
+Created Saturday 06 February 2021
+
+The storm giants cultivate 20 foot anemones that can survive outside water and have small cavities in their centers for protected storage.
+A storm giant knows the right location to touch the anemone to open it.
+Touching the anemone requires DC10 DEX save or take 2d10 poison dmg. 
+DC15 nature to open the chest successfully. On a failed check, make the DEX save.
+
+AC 5
+HP 20
+Attacks require the DEX save

@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-02-06T11:44:38-05:00
+
+====== Giant Clam ======
+Created Saturday 06 February 2021
+
+As an action a character can pry open a giant clam.
+DC16 athletics
+
+roll 1d100 for the contents of the clam
+01-25 Clam meat
+26-75 A pink grapefruit-sized pearl (500gp)
+76-90 A black grapefruit-sized pearl (5,000gp)
+91-98 A violet grapefruit-sized [[:Item:Pearl of Power]]
+99-100 A clear grapefruit-sized [[:Item:Crystal Ball]]

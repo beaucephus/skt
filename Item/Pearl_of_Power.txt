@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-02-06T11:48:24-05:00
+
+====== Pearl of Power ======
+Created Saturday 06 February 2021
+
+Requires Attunement by a Spellcaster
+
+While this pearl is on your person, you can use an action to speak its Command Word and regain one expended spell slot.
+If the expended slot is of 4th Level or higher, the new slot is 3rd Level.
+Once you have used the pearl, it can't be used again until the next dawn.
