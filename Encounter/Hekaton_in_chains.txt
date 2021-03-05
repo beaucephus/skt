@@ -1,0 +1,67 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-05T11:39:29-05:00
+
+====== Hekaton in chains ======
+Created Friday 05 March 2021
+
+When the party first approaches the Morkoth, [[:Captain Tholtz Daggerdark]] and 12 cultists are asleep in the main deck cabins.
+12 cultists and [[:Rool]] are on deck manning the ballistae and guarding [[:King Hekaton]]
+All cultists are on guard, they know to expect an attack soon.
+
+=== 1 2 Castles ===
+Both the for and aft castles have two loaded ballistae mounted on swivel turrets and 4 **cultists** manning the ballistae.
+[[:Rool]] mans the wheel at the center of the aftcastle and shouts orders from there.
+**Loot**
+Rool carries a spyglass (1000GP)
+
+=== 3 Main Deck ===
+A white-haired storm giant lies on his back, restrained to the deck by 4 chains anchored to large bases bolted into the ship's deck.
+The 30 foot giant lies motionless, his eyes openly staring into the sky above.
+
+Each chain has AC20, 10 hit points, and immunity to all damage except from magic or adamantine weapons.
+
+**Development**
+Once freed, the storm giant king is disoriented, confused, and hostile toward all non-giants he sees.
+Hekaton rises to his full hight, rocks the ship furiously and begins lashing out indiscriminently, shouting
+"Lord's alliance indeed! I'll see your alliance wrecked upon the waves for this treachery!"
+DC18 to try and persuade the king, adv if they party mentions Serissa or Uthor by name.
+Hekaton is sceptical and won't trust the party until he's spoken with Serissa or Uthor
+
+=== 4 Crew Cabin ===
+10 **cultists** sleep here. They are arroused by any fighting outside.
+
+=== 5 Captain's Cabin ===
+This cabin is an absolute mess. Nautical books and navigation charts are strewn across the floor, as are quills, loose sheets of blank parchment, empty wine bottles, and spilled jars of ink.
+Most of the furniture is bolted to the floor, including an unmade bed with a squid-shaped headboard, a writing desk stained with ink, an open truck, a slender wardrobe stuffed with old robes, and a wooden cloak rack.
+
+[[:Captain Tholtz Daggerdark]] is sleeping in this room when the party arrives. in his sleep he crudely carved the words "TREACHERY" "IYMRITH" "DRAGON" into the headboard.
+**Loot**
+Tholtz' spellbook is located in a locked drawer in the writing desk, no check to pick the lock, p223 for spell list
+
+=== 6 First Mate's Cabin ===
+This sparsely furnished cabin contains a hammock, a wooden treasure chest with a built-in lock, and a yeti-skin rug.
+The chest is rigged with a gorgon-gas trap. DC20
+If triggered the trap expels a green gas that quickly fills the room (10 foot radius sphere).
+DC13 con save or be petrified (lasts 1 hour)
+**Loot**
+The treasure chest contains several daggers of varying styles, 180GP, and a leather-bound ship's log.
+	Given time the party can find entries that describe [[:Captain Tholtz Daggerdark]] claiming a psychic connection with [[:Slarkrethel]] the elder Kraken.
+	The log also mentions that Rool found the captain's spellbook protected by "the worst lock I've ever seen"
+	
+	
+
+===== The Elder Kraken =====
+[[:Slarkrethel]] the elder kraken arrives at the Morkoth 1 hour after Hekaton is freed. The kraken created the magic that binds the giant, and is immediately aware of the magic's destruction.
+The party begins feeling that something is not quite right immediately upon landing on the Morkoth. You feel sick to your stomach and unable to focus
+A few minutes after freeing Hekaton, party members are assaulted by a telepathic message from the Elder Kraken
+  "The wyrm fails. Heros rise. They do not know...*laughs*"
+  "Ignorant servants to ignorant gods. We will bring knowledge."
+  "Soon, all will know. All will be enlightened..."
+If the party leaves the Morkoth within an hour of freeing Hekaton, they bear witness as the elder kraken - with a body that rivals the ship itself - pulls the Morkoth as a whole under the waves, dooming anyone still onboard.
+If the party isn't gone, immediately roll initiative. The kraken uses its tentacles to wrap around the ship, rolling a tentacle attack on anyone in the way, the ship is dragged under after 2 turns
+
+
+
+
+

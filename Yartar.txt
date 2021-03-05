@@ -20,7 +20,7 @@ Yartar is home to an all-female thieve's guild the [[:Hand of Yartar]]
 Yartar is also the headquarters of the [[:Lionshield Coster]]
   Any players who visit the headquarters and seem well off are offered a loan of supplies and 5,000 gold pieces to open a franchise. 
 
-The esteemed [[:Lord Drylund]] owns and runs a casino on his river boat, the [[:Golden Goose]]
+The esteemed [[:Lord Drylund]] owns and runs a casino on his river boat, the [[:]][[:Golden Goose|Golden Goose]]
 
 ===== Harper Teleportation Network =====
 [[:Inner Circles]]

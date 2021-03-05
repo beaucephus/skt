@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-02-26T17:37:13-05:00
+
+====== Meeting Lord Drylund ======
+Created Friday 26 February 2021
+
+Eventually Lord Drylund will retreat from his chambers and enter the casino hall where he introduces himself to any new faces and invites Rasa over to give them 10 chips on the house.
+
+Lord Drylund will ask prying questions to ascertain who among the party is the wealthiest or most influential and invites them back to his private quarters.
+  He tries to charm (or bribe) them into supporting his political ambitions of becoming the Waterbaron.
+
+**If Rasa recognizes Nana, Valriel, or Rogar**
+Rasa waits until Drylund leaves and attempts to extort the party.
+Rasa bounced from job to job after his failure to retrieve [[:Blackstaff]] 's clone urn from the party. He is currently the head floorman for the casino. All chip exchanges go through him and his Bag of Holding.
+  He will recognize Val, Nana, or Rogar if they aren't disguised.
+  He doesn't out them immediately, but he does extort them, threatening to out them if they don't give him a reason not to.
+

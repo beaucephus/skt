@@ -6,39 +6,51 @@ Creation-Date: 2019-05-25T11:06:44-04:00
 Created Saturday 25 May 2019
 
 ===== Threads =====
-Find a way to give [[:Valriel]] the chance to gain power, maybe a lordship over a keep including a batallion of soldiers-for-hire?
+
+=== Session 22 | ===
+[[:Encounter:Hekaton in chains]]
+**Level up!**
+
+=== Session 21 | 2021/02/26 | Rogar, Franna, Tanna, Val, Braddock ===
+[[:Golden Goose]] in [[:Yartar]]
+Party destroyed the Golden Goose and killed many of its patrons. Al good alignments go to neutral.
+They got the information on King Hekaton's whereabouts from [[:Lord Drylund]]
+The party knows that King Hekaton is being kept on a scry-proof ship, the Morkoth, that is currently sailing a holding pattern around the Purple Rocks, a small island chain in the Trackless Sea.
 
 === Session 20 | 2021/02/06 | Rogar, Franna, Tanna, Val, Braddock, Lessa ===
-After the werewolf debaucle, and maybe some downtime.
-On return to the ship the party finds Ogres confused, talking about new masters and old master.
-  Sansuri has been resurrected by a contingency spell, she misty steps out of her ice block and proceeds to create a teleportation circle in her bed-chambers to teleport to maelstrom.
-  The party might find her, right at the end of her cast, or they might find the still-active teleportation circle humming and whirring with arcane energies.
-[[:Maelstrom]]
+Party followed the contingency-resurrected Sansuri to [[:Maelstrom]]
+There they fought and eventually spoke with the Storm Giant Queen [[:Serissa]]
+They exposed [[:Iymrith]] who stole the [[:Item:Korolnor Scepter]] and left
+Afterwards, there was several weeks of diplomacy...
+They helped the giants develop a constitutional democracy that included a bill of rights for giants and smallfolk
+[[:Valriel]] was knighted
+[[:Frana Willowwhisper]] is the new Countess of [[:Lyn Armaal]]
+Serissa told the party the circustances of her mother's death and father's disappearance. She offered the party a clue, a golden goose chip, which they tracked back to the riverboat casino in [[:Yartar]]
 
-===== Session 19 |  2020/11/15 | Rogar, Franna, Val, Braddock =====
+=== Session 19 |  2020/11/15 | Rogar, Franna, Val, Braddock ===
 [[:Uthgardt Ancestral Spirit Mounds]]
 [[:Dungeon:Raven Rock]]
 Ran a one-off session with Jeremiah's friends
-**Everybody level 8!!!**
-**Rogar level 9!!!**
+**Skip a level!!!**
+**Everybody level 9!!!**
+**Rogar level 10!!!**
 
-===== Session 18 =====
+=== Session 18 ===
 Completely cleared Lyn Armaal of hostiles and took the castle for their own.
 Including taking a pair of cloud giant childred, murdering their mom and uncle, and leaving them on the surface.
 Felgolos left for his lair in the crags. Offered to help the party if they ever wished to seek him out there.
 
-===== Session 17 =====
+=== Session 17 ===
 Combat with Cressaro and giant guards.
 Party tried to short rest and patrol found them.
 Flew up to Starboard Lawn (27)
 
-===== Session 16 (Rogar, Franna, Val, Braddock) =====
+=== Session 16 (Rogar, Franna, Val, Braddock) ===
 Journey to [[:Lyn Armaal]]
 Entered under false pretense of brokering an alliance or allegiance of frost giant tribes
 Party drugged.
 
-
-===== Session 15 (Rogar, Franna, Val, Reed) =====
+=== Session 15 (Rogar, Franna, Val, Reed) ===
 [[:Dungeon:Eye of the All-Father]] at the oracle
 [[:Encounter:Airship of a Cult]] when the party leaves
 Party fought the green dragon random encounter

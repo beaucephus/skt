@@ -5,6 +5,95 @@ Creation-Date: 2020-03-13T18:39:52-04:00
 ====== Golden Goose ======
 Created Friday 13 March 2020
 
-Casino river boat owned by [[:Lord Drylund]]
+Casino river boat owned by [[:Lord Drylund]] of [[:Yartar]]
+The casino's chips all sport a very distinctively stylized golden goose.
 
-The chips all sport a very distinctively stylized golden goose.
+**Investigation**
+The golden goose is a riverboat casino owned by Lord Kasper Drylund.
+From dawn until dusk, the flat-bottomed wooden boat is morred at the city docks on the Dessarin River
+Dockworkers come and go with food and other supplies throughout the day, watched closely by crew on deck.
+
+===== Crew =====
+Captain Nelvin Storn **bandit captain**
+8 deck hand **bandits**
+[[:Rasa Dantor]] **mage**. 
+Lord Drylund **noble** stays in his quarters until the ship departs for the night
+
+===== Boarding =====
+An hour before dusk, a mob of **commoners** (rowers, chefs, servers, dealers, escorts, and musicians) arrives at the docks for inspection by the captain, who stands on the pier next to the ship's boarding ramp.
+Over the next hour wealthy, well-dressed guests begin arriving. Guests are allowed to wander the main deck.
+Any guests that aren't well-dressed or are dressed in armor or weapons are politely turned away
+Any confrontation attracts the ship's crew and an additional 6 city **guards** who arrive 2 rounds after combat starts. The guards know the captain and Lord Drylund. 
+DC10 to get past the captain or crew.
+
+===== On the River =====
+At dusk the boat embarks on a slow, scenic journey upriver.
+The crew and works stay in their respective areas. Crew patrol the upper and lower decks periodically while the Captain patrols the entire ship periodically.
+Rasa stays in the casino area exchanging gold for chips and keeping a watchful eye on the floor.
+Drylund comes out of his cabin and spends the evening fraternizing with the wealthy nobles and guild-members aboard the vessel
+
+===== Blackjack =====
+using a D10, D8, and D6.
+First card everyone see, other two no one does. Round of gambling after each. Highest number up to 21 wins. Higher than that is a bust. Ties go to person with the highest D10, then D8, then D6. After that the pot Is split.
+
+===== Lower deck =====
+Sets of aft and forward stairs on the main deck lead down to the lower deck where crew, rowers, and works do their jobs.
+There are 2 heads at the bow end
+
+===== Main deck =====
+The main deck consists of an open-air deck that encircles a closed cabin. The deck area is lit by ornamental lanterns hung from the cabins walls and support posts.
+Patrons, crew, and workers crowd all areas of this deck at all times.
+The large enclosed cabin consists of the dining and casino areas separated by the kitchen. Each area is accisible from the main deck with the kitchen also having interior doors to the dining and casino areas.
+
+=== 7 Dining Room ===
+This dimly-lit room is over-filled with tables and chairs, with narrow, winding avenues between them. White gossamer curtains, lush purple tablecloths, precious-looking silverware, and gaudy crystal chandeliers testify to the owner's obscenely lavish taste in decoration.
+A wooden spiral staircase leads to the upper cabin area. (bridge)
+
+=== 8 Kitchen ===
+Lots of clatter and yelling can be heard through the doors to this cabin
+Inside. Cooks and servers bicker and banter as they prepare meals and snacks for the guests.
+
+=== 9 Casino ===
+This well-lit, large cabin has been transformed into a gambling hall, the centerpiece of which is a gold-plated wooden sculpture of a goose that rests on a table in the aft end.
+Glasses of fine wine, free for the taking, are arrayed around it.
+An unflattering portrait of a fat, foppish, grinning man (Lord Drylund) hangs on the wall across from a wooden spiral staircase that leads to the upper cabin area. (dance hall)
+Most of the floor space is taken up with tables of card games. Attractive dealers sit behind the tables, distributing cards to the players while small crowds look on.
+Players can exhange gold for chips with Rasa here (spooky). He's busy and doesn't pay much attention. 10GP per chip.
+Rasa and Drylund spend most of their time here, run [[:Encounter:Meeting Lord Drylund]] after the party have gotten the chance to explore a bit and play a game or two.
+
+===== Upper deck =====
+This area is dark, lit only by the refracted and filtered light coming from the lanterns on the main deck below.
+Passengers gather along the upper deck balcony, gazing out upon the dark river.
+The doors from the open-air deck into the crew areas (bridge,crew quarters,13) are all posted "CREW ONLY"
+An escort may approach the party here.
+
+=== 13 Lord Drylund's Cabin ===
+This cabin is a testament to bad taste, with its purple velvet curtains and scented cnadles in gaudy candelabras. 
+In the middle of the room is a table with a large aquarium tank resting atop it. All along the edges the room is lined with a silk hammock, a writing desk, a small table holding a silver wine decanter and matching goblet, and an iron stove.
+
+**Investigation, no DC, this room is meant to be a bit of a riddle**
+The aquarium contains a coral reef, and miniature "dead man's chest".
+	The real chest key is hidden in the dead man's chest.
+	The aquarium reef is home to Lord Drylund's pet **octopus** which attacks any creature other than Lord Drylund that reaches into the aquarium
+The desk is covered with quills and loose sheets of entirely blank parchment
+The decanter isn't filled with wine, but ink. The ink has a musky smell to it.
+Beneath the aquarium, built into the table, is a shelf on which rests a locked wooden chest.
+	Its rigged with a **poison needle trap**
+	
+**Loot**
+rapier with a bejeweled, octopusshaped hilt (2500gp)
+Silver wine decanter and goblet (50gp together)
+The trapped chest contains 450gp and a pouch containing nine gems (50gp each)
+
+**Development**
+Drylund is no match for a party of adventurers and he knows it. If he's cornered and threatened he surrenders without a fight.
+Under interrogation he admits that he's a member of the [[:Kraken Society]] 
+  He knows that Queen Neri was murdered and King Hekaton abducted at [[:Slarkrethel]] 's orders
+  He knows that King Hekaton is being kept on a scry-proof ship, the Morkoth, that is currently sailing a holding pattern around the Purple Rocks, a small island chain in the Trackless Sea.
+A few moments after he divulges this information, Lord Drylund's eyes widen before losing their focus and he falls limp. blood begins to run from his eyes and nose.
+
+=== 14 Dance Hall ===
+This smoky, dimly lit cabin features a wooden stage where musicians perform for the please of the guests. A few tables and chairs are set up along the walls, with much of the floor space kept open for dancing.
+A wooden spiral staircase descends to the gambling hall and doors lead out to the upper deck balcony.
+Behid a curtain next to the stage is a hallway leading to other areas of the cabin. The hallway is marked "CREW ONLY"
+
