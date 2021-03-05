@@ -10,6 +10,19 @@ Created Saturday 25 May 2019
 === Session 22 | ===
 [[:Encounter:Hekaton in chains]]
 **Level up!**
+Hekaton returns to Maelstrom if he can. In the mean time, Serissa has used her father's scrying pool to locate Iymrith.
+She's also done some research into Iymrith and shares her findings with the party.
+Serissa scryd the dragons lair in Anauroch. She scryd a ruined amphitheater lost in the desert dunes.
+Serissa suspects this amphitheater lies near Ascore, an ancient dwarven citadel.
+Serissa warns that she's been researching Iymrith.
+Serissa straitens in her stance, and puts on a stern face.
+"The doom of the desert, the dragon of statues. This beasts lists of aliases is long, and its list of mal-content deeds even longer"
+"Iymrith must answer for her treachery"
+"Countess Willowshisper, Captain Valriel. You will find Iymrith, retrieve the Krolnor Scepter which she stole, and make her answer for her crimes against the crown. *pause with hesitation* Your queen demands it"
+
+Serissa gives the party the [[:Item:Claw of the Wyrm Rune]]
+
+__Your long journey ends here, in the Anouroch desert near Ascore. A churning cauldron of black clouds fills the sky as thunder peels and lightning flashes. Half buried in the cold dunes is a crumbling amphitheater adorned with statues, many of them broken, the rest worn smooth by wind and sand. Two large trbuchets stand atop the ruins. Where cheers once rang out across a great city, now a solemn fortress stands before you, waiting for you to draw near.__
 
 === Session 21 | 2021/02/26 | Rogar, Franna, Tanna, Val, Braddock ===
 [[:Golden Goose]] in [[:Yartar]]
